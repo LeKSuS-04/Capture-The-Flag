@@ -1,0 +1,2 @@
+# Capture The Flag
+This repository contains all of the files that I used and created while participating in different CTFs. I don't think this can be considered write-up since I don't explain anything and furthermore, some of the solutions are partial and/or incomplete. Also keep in mind that some of CTFs I took part of may not appear in this repository due to the fact that event organaisers' policy is against publishing solutions online.
