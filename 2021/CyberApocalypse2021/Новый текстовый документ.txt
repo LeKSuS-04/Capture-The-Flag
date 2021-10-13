@@ -1,0 +1,44 @@
+use rand::{Rng,SeedableRng};
+use rand::rngs::StdRng;
+use std::fs;
+use std::io::Write;
+
+fn get_rng(seed : u64) -> StdRng {
+    return StdRng::seed_from_u64(seed);
+}
+
+// 1617235200 - secs in 1st of april
+fn is_real_flag(value : String) -> bool {
+    return value.starts_with("434854427b");
+}
+
+fn rand_xor(input : Vec<u8>) -> String {
+    let mut c = 1618444800;
+    let mut rng = get_rng(c);
+    let mut flag = input.clone()
+                    .into_iter()
+                    .map(|c| format!("{:02x}", (c as u8 ^ rng.gen::<u8>())))
+                    .collect::<Vec<String>>()
+                    .join("");
+    
+    while !is_real_flag(flag.clone()) {
+        c += 1;
+        rng = get_rng(c);
+        flag = input.clone()
+                .into_iter()
+                .map(|c| format!("{:02x}", (c as u8 ^ rng.gen::<u8>())))
+                .collect::<Vec<String>>()
+                .join("");
+    }
+    
+    return flag;
+}
+
+fn main() -> std::io::Result<()> {
+    let bytes = vec![27, 89, 20, 132, 219, 150, 47, 119, 130, 209, 65, 10, 250, 74, 56, 143, 121, 48, 6, 123, 206, 246, 223, 84, 106, 87, 217, 248, 115];
+    let xored = rand_xor(bytes); 
+    println!("{}", xored);
+    let mut file = fs::File::create("out.txt")?;
+    file.write(xored.as_bytes())?;
+    Ok(())
+}

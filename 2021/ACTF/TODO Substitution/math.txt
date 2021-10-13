@@ -1,0 +1,41 @@
+N(x) - result when input is x
+
+N(0) = ... 0 * v3 + 0 * v2 + 0 * v1 + v0 = v0 = 125
+
+
+N(1) = (... + v3 + v2 + v1 + v0) mod 691 = ((... + v3 + v2 + v1) mod 691 + v0 mod 691) mod 691 = ((... + v3 + v2 + v1) mod 691 + 125) mod 691 = 492
+max of '(... + v3 + v2 + v1) mod 691' is 690 but needs to be at least (691 + 492 - 125) = 1058 to make this thing ---------------------^ work. That mean we can ignore this particular operation
+so: ((... + v3 + v2 + v1) mod 691 + 125) mod 691 = (... + v3 + v2 + v1) mod 691 + 125 = 492     =>     (... + v3 + v2 + v1) mod 691 = 367
+
+
+N(2) = (... + 8*v3 + 4*v2 + 2*v1 + v0) mod 691 = ((... + 8*v3 + 4*v2 + 2*v1) mod 691 + 125) mod 691 = 670
+Again, using the same logic: ((... + 8*v3 + 4*v2 + 2*v1) mod 691 + 125) mod 691 = (... + 8*v3 + 4*v2 + 2*v1) mod 691 + 125 = 670     =>     (... + 8*v3 + 4*v2 + 2*v1) mod 691 = 545
+Now we can get rid of that 2 multiplyer like this:  (... + 8*v3 + 4*v2 + 2*v1) mod 691 = 545
+                                                    ((2 mod 691) * ((... + 4*v3 + 2*v2 + v1) mod 691)) mod 691 = 545
+                                                    (2 * ((... + 4*v3 + 2*v2 + v1) mod 691)) mod 691 = 545
+                                                    (... + 8*v4 + 4*v3 + 2*v2 + v1) mod 691 = 618
+
+
+N(3) = (... + 27*v3 + 9*v2 + 3*v1 + v0) mod 691 = ((... + 27*v3 + 9*v2 + 3*v1) mod 691 + 125) mod 691 = 39
+                                                                                                ^----------------------------
+Well, now that's the same logic but backwards. Result 39 is too small to be a sum of 125 and (a mod 691) so that means that this operation actually made something. 
+That means that the result of '(... + 27*v3 + 9*v2 + 3*v1) mod 691 + 125' is equal to 39 + 691 = 730
+so: (... + 27*v3 + 9*v2 + 3*v1) mod 691 + 125 = 730     =>     (... + 27*v3 + 9*v2 + 3*v1) mod 691 = 605
+And again:  (... + 27*v3 + 9*v2 + 3*v1) mod 691 = 605
+            ((3 mod 691) * ((... + 9*v3 + 3*v2 + v1) mod 691)) mod 691 = 605
+            (3 * ((... + 9*v3 + 3*v2 + v1) mod 691)) mod 691 = 605
+            (... + 27*v4 + 9*v3 + 3*v2 + v1) mod 691 = 432
+
+
+N(4) = (... + 64*v3 + 16*v2 + 4*v1 + v0) mod 691 = ((... + 64*v3 + 16*v2 + 4*v1) mod 691 + 125) mod 691 = 244    =>    (... + 64*v3 + 16*v2 + 4*v1) mod 691 = 119
+((4 mod 691) * ((... + 16*v3 + 4*v2 + v1) mod 691)) mod 691 = 119
+(3 * ((... + 16*v3 + 4*v2 + v1) mod 691)) mod 691 = 119
+(... + 64*v4 + 16*v3 + 4*v2 + v1) mod 691 = 548
+
+N(456) = (... + (456^3)*v3 + (456^2)*v2 + 456*v1) mod 691 = 0
+(456 * ((... + (456^2)*v3 + 456*v2 + v1) mod 691)) mod 691 = 0
+(... + (456^2)*v3 + 456*v2 + v1) mod 691 = 0    
+
+Let's say (... + v3*value^3 + v2*value^2 + v1*value + v0) = X 
+Then we can represent X as followes:
+X = ... + c*100 + b*10 + a      =>      X mod 691 = (... + c*100 + b*10 + a) mod 691 = (... + c*100 mod 691 + b*10 mod 691 + a mod 691) = (... + c*100 mod 691 + b*10 + a)
