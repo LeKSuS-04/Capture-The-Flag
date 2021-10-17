@@ -1,0 +1,17 @@
+     Oh boy! Wow, this warmup challenge sure   was a lot of fun to put together! I so 
+    definitely absolutely always love trying   to think up new innovative things
+       to do with the very basic, common and   classic CTF techniques! The first part of
+     your flag is flag{julius_ and that is a   gnihtyreve ton si ti tub trats taerg 
+ that you will need to solve this challenge.   great start but it is not everything
+  separate each part of the flag. The second   part of the flag is _in_a_ but you do
+   need just a little bit more. What exactly   should we include here to try and make
+     this filler text look more engaging and   worthwhile? Should we add newlines?
+    Should we add spaces and try and make it   symmetrical? How many lines is enough
+ to make this filler text look believable? A   solid square of letters within a
+ simple, monospace-font text file looks good   enough to me. Are we almost at the
+   end? It looks like it! I hope it is good.   The third part of your flag is reflection}
+and at this point you should have everything   that you need to submit this flag for
+    points. The beginning is marked with the   flag prefix and the opening curly brace,
+  and it includes English words separated by   underscores, to end in a closing curly
+  brace. Wow! Now THAT is a CTF! Who knew we   could milk the caesar cipher to this
+            extent?? Someone get that Julius   Caesar guy a medal!
