@@ -1,0 +1,29 @@
+Subject: Daniel S.
+Sex: Male
+Age: 38
+Address: 217 Chestnut Avenue, Lytton, IN
+Induction Into Project Date: Not Applicable
+Doctor: Dr. Charles Geschickter
+Status: SPECIAL ABILITIES - MONITOR REMOTELY
+
+Subject has NOT been initiated into project MKSEARCH.
+
+Methods: 
+
+Drugs: None.
+
+Sensory Deprivation Tank: None
+
+Word Programming: None
+
+Music: None
+
+Television: None
+
+Additional: Subject has extremely advanced hacking abilities, developed organically.
+When attempt was made at recruiting subject into the program, subject resisted.
+Subject had detailed knowledge of the inner workings of LYTTON LABS.  Source of 
+information unknown, but it is believed that subject. conducted hacking raids on
+Lytton Labs servers.
+
+flag{D0nt-ME$$-with-The-ZEAL0t!!!}
