@@ -1,5 +1,5 @@
 from challenge import N, hint, enc as c
-from Crypto.Util.number import *
+from Crypto.Util.number import long_to_bytes
 
 
 def crack_xor():
