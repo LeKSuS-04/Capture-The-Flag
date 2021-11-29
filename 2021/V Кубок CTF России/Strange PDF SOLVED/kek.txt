@@ -1,0 +1,2 @@
+This program has not been tested with this version of Python (3.9.7)
+Should you encounter problems, please use Python version 3.9.5

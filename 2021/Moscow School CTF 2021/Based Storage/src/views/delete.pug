@@ -1,0 +1,30 @@
+extends layout
+
+block content
+  h1= "Delete file"
+  p.lead
+  input(type="text" id="filename" placeholder="Filename")
+  p.lead
+  button.btn.btn-lg.btn-secondary.fw-bold.border-white.bg-white(onclick='deleteDoc()') Delete
+
+
+  script.
+    function deleteDoc() {
+        filename = document.getElementById('filename').value
+        params = new URLSearchParams({
+        filename: filename,
+        encoding: document.characterSet,
+        });
+        fetch(document.location.origin + "/files?" + params.toString(), {
+        method: "DELETE",
+        }).then( r => {
+        if (!r.ok) {
+          r.text().then( t => {
+            alert(t)
+          })
+        } else {
+            alert("OK!")
+            document.location.href="/";
+        }
+        })
+    }

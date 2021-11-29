@@ -1,0 +1,34 @@
+extends layout
+
+block content
+  h1= "Upload file"
+  p
+    input(type="text" id="filename" placeholder="Filename")
+  p
+    input(type="text" id="content" placeholder="File")
+  button.btn.btn-lg.btn-secondary.fw-bold.border-white.bg-white(onclick='sendContent()') Send
+
+
+  script.
+    function sendContent() {
+      filename = document.getElementById('filename').value
+      content = document.getElementById('content').value
+      params = new URLSearchParams({
+        filename: filename,
+        encoding: document.characterSet,
+      });
+      fetch(document.location.origin + "/files?" + params.toString(), {
+        method: "PUT",
+        headers: {'Content-Type': 'application/octet-stream'},
+        body: content,
+      }).then( r => {
+        if (!r.ok) {
+          r.text().then( t => {
+            alert(t)
+          })
+        } else {
+          alert("OK!")
+          document.location.href="/";
+        }
+      })
+    }

@@ -1,0 +1,29 @@
+extends layout
+
+block content
+  h1="Download file"
+  p.lead
+  input(type="text" id="filename" placeholder="Filename")
+  p.lead
+  button.btn.btn-lg.btn-secondary.fw-bold.border-white.bg-white(onclick='downloadContent()') Download
+
+
+  script.
+    function downloadContent() {
+        filename = document.getElementById('filename').value
+        params = new URLSearchParams({
+        filename: filename,
+        encoding: document.characterSet,
+        });
+        url = document.location.origin + "/files?" + params.toString();
+        fetch(url).then( r => {
+        if (!r.ok) {
+          r.text().then( t => {
+            alert(t)
+          })
+        } else {
+            document.location = document.location.origin + "/files?" + params.toString()
+        }
+        })
+
+    }
