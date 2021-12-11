@@ -1,0 +1,1832 @@
+Volatility 3 Framework 2.0.0
+
+PID	Process	Block	Variable	Value
+
+288	smss.exe	0x26763602900	Path	C:\Windows\System32
+288	smss.exe	0x26763602900	SystemDrive	C:
+288	smss.exe	0x26763602900	SystemRoot	C:\Windows
+408	csrss.exe	0x13ee7802de0	ComSpec	C:\Windows\system32\cmd.exe
+408	csrss.exe	0x13ee7802de0	DriverData	C:\Windows\System32\Drivers\DriverData
+408	csrss.exe	0x13ee7802de0	NUMBER_OF_PROCESSORS	2
+408	csrss.exe	0x13ee7802de0	OS	Windows_NT
+408	csrss.exe	0x13ee7802de0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+408	csrss.exe	0x13ee7802de0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+408	csrss.exe	0x13ee7802de0	PROCESSOR_ARCHITECTURE	AMD64
+408	csrss.exe	0x13ee7802de0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+408	csrss.exe	0x13ee7802de0	PROCESSOR_LEVEL	6
+408	csrss.exe	0x13ee7802de0	PROCESSOR_REVISION	a502
+408	csrss.exe	0x13ee7802de0	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+408	csrss.exe	0x13ee7802de0	SystemDrive	C:
+408	csrss.exe	0x13ee7802de0	SystemRoot	C:\Windows
+408	csrss.exe	0x13ee7802de0	TEMP	C:\Windows\TEMP
+408	csrss.exe	0x13ee7802de0	TMP	C:\Windows\TEMP
+408	csrss.exe	0x13ee7802de0	USERNAME	SYSTEM
+408	csrss.exe	0x13ee7802de0	windir	C:\Windows
+484	wininit.exe	0x24e51ff15c0	ALLUSERSPROFILE	C:\ProgramData
+484	wininit.exe	0x24e51ff15c0	CommonProgramFiles	C:\Program Files\Common Files
+484	wininit.exe	0x24e51ff15c0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+484	wininit.exe	0x24e51ff15c0	CommonProgramW6432	C:\Program Files\Common Files
+484	wininit.exe	0x24e51ff15c0	COMPUTERNAME	DESKTOP-G8BLC8O
+484	wininit.exe	0x24e51ff15c0	ComSpec	C:\Windows\system32\cmd.exe
+484	wininit.exe	0x24e51ff15c0	DriverData	C:\Windows\System32\Drivers\DriverData
+484	wininit.exe	0x24e51ff15c0	NUMBER_OF_PROCESSORS	2
+484	wininit.exe	0x24e51ff15c0	OS	Windows_NT
+484	wininit.exe	0x24e51ff15c0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+484	wininit.exe	0x24e51ff15c0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+484	wininit.exe	0x24e51ff15c0	PROCESSOR_ARCHITECTURE	AMD64
+484	wininit.exe	0x24e51ff15c0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+484	wininit.exe	0x24e51ff15c0	PROCESSOR_LEVEL	6
+484	wininit.exe	0x24e51ff15c0	PROCESSOR_REVISION	a502
+484	wininit.exe	0x24e51ff15c0	ProgramData	C:\ProgramData
+484	wininit.exe	0x24e51ff15c0	ProgramFiles	C:\Program Files
+484	wininit.exe	0x24e51ff15c0	ProgramFiles(x86)	C:\Program Files (x86)
+484	wininit.exe	0x24e51ff15c0	ProgramW6432	C:\Program Files
+484	wininit.exe	0x24e51ff15c0	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+484	wininit.exe	0x24e51ff15c0	PUBLIC	C:\Users\Public
+484	wininit.exe	0x24e51ff15c0	SystemDrive	C:
+484	wininit.exe	0x24e51ff15c0	SystemRoot	C:\Windows
+484	wininit.exe	0x24e51ff15c0	TEMP	C:\Windows\TEMP
+484	wininit.exe	0x24e51ff15c0	TMP	C:\Windows\TEMP
+484	wininit.exe	0x24e51ff15c0	USERNAME	SYSTEM
+484	wininit.exe	0x24e51ff15c0	USERPROFILE	C:\Windows\system32\config\systemprofile
+484	wininit.exe	0x24e51ff15c0	windir	C:\Windows
+580	winlogon.exe	0x1c4237a15c0	ALLUSERSPROFILE	C:\ProgramData
+580	winlogon.exe	0x1c4237a15c0	CommonProgramFiles	C:\Program Files\Common Files
+580	winlogon.exe	0x1c4237a15c0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+580	winlogon.exe	0x1c4237a15c0	CommonProgramW6432	C:\Program Files\Common Files
+580	winlogon.exe	0x1c4237a15c0	COMPUTERNAME	DESKTOP-G8BLC8O
+580	winlogon.exe	0x1c4237a15c0	ComSpec	C:\Windows\system32\cmd.exe
+580	winlogon.exe	0x1c4237a15c0	DriverData	C:\Windows\System32\Drivers\DriverData
+580	winlogon.exe	0x1c4237a15c0	NUMBER_OF_PROCESSORS	2
+580	winlogon.exe	0x1c4237a15c0	OS	Windows_NT
+580	winlogon.exe	0x1c4237a15c0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+580	winlogon.exe	0x1c4237a15c0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+580	winlogon.exe	0x1c4237a15c0	PROCESSOR_ARCHITECTURE	AMD64
+580	winlogon.exe	0x1c4237a15c0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+580	winlogon.exe	0x1c4237a15c0	PROCESSOR_LEVEL	6
+580	winlogon.exe	0x1c4237a15c0	PROCESSOR_REVISION	a502
+580	winlogon.exe	0x1c4237a15c0	ProgramData	C:\ProgramData
+580	winlogon.exe	0x1c4237a15c0	ProgramFiles	C:\Program Files
+580	winlogon.exe	0x1c4237a15c0	ProgramFiles(x86)	C:\Program Files (x86)
+580	winlogon.exe	0x1c4237a15c0	ProgramW6432	C:\Program Files
+580	winlogon.exe	0x1c4237a15c0	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+580	winlogon.exe	0x1c4237a15c0	PUBLIC	C:\Users\Public
+580	winlogon.exe	0x1c4237a15c0	SystemDrive	C:
+580	winlogon.exe	0x1c4237a15c0	SystemRoot	C:\Windows
+580	winlogon.exe	0x1c4237a15c0	TEMP	C:\Windows\TEMP
+580	winlogon.exe	0x1c4237a15c0	TMP	C:\Windows\TEMP
+580	winlogon.exe	0x1c4237a15c0	USERNAME	SYSTEM
+580	winlogon.exe	0x1c4237a15c0	USERPROFILE	C:\Windows\system32\config\systemprofile
+580	winlogon.exe	0x1c4237a15c0	windir	C:\Windows
+620	services.exe	0x20316c03120	ALLUSERSPROFILE	C:\ProgramData
+620	services.exe	0x20316c03120	CommonProgramFiles	C:\Program Files\Common Files
+620	services.exe	0x20316c03120	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+620	services.exe	0x20316c03120	CommonProgramW6432	C:\Program Files\Common Files
+620	services.exe	0x20316c03120	COMPUTERNAME	DESKTOP-G8BLC8O
+620	services.exe	0x20316c03120	ComSpec	C:\Windows\system32\cmd.exe
+620	services.exe	0x20316c03120	DriverData	C:\Windows\System32\Drivers\DriverData
+620	services.exe	0x20316c03120	NUMBER_OF_PROCESSORS	2
+620	services.exe	0x20316c03120	OS	Windows_NT
+620	services.exe	0x20316c03120	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+620	services.exe	0x20316c03120	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+620	services.exe	0x20316c03120	PROCESSOR_ARCHITECTURE	AMD64
+620	services.exe	0x20316c03120	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+620	services.exe	0x20316c03120	PROCESSOR_LEVEL	6
+620	services.exe	0x20316c03120	PROCESSOR_REVISION	a502
+620	services.exe	0x20316c03120	ProgramData	C:\ProgramData
+620	services.exe	0x20316c03120	ProgramFiles	C:\Program Files
+620	services.exe	0x20316c03120	ProgramFiles(x86)	C:\Program Files (x86)
+620	services.exe	0x20316c03120	ProgramW6432	C:\Program Files
+620	services.exe	0x20316c03120	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+620	services.exe	0x20316c03120	PUBLIC	C:\Users\Public
+620	services.exe	0x20316c03120	SystemDrive	C:
+620	services.exe	0x20316c03120	SystemRoot	C:\Windows
+620	services.exe	0x20316c03120	TEMP	C:\Windows\TEMP
+620	services.exe	0x20316c03120	TMP	C:\Windows\TEMP
+620	services.exe	0x20316c03120	USERNAME	SYSTEM
+620	services.exe	0x20316c03120	USERPROFILE	C:\Windows\system32\config\systemprofile
+620	services.exe	0x20316c03120	windir	C:\Windows
+640	lsass.exe	0x2175b803120	ALLUSERSPROFILE	C:\ProgramData
+640	lsass.exe	0x2175b803120	CommonProgramFiles	C:\Program Files\Common Files
+640	lsass.exe	0x2175b803120	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+640	lsass.exe	0x2175b803120	CommonProgramW6432	C:\Program Files\Common Files
+640	lsass.exe	0x2175b803120	COMPUTERNAME	DESKTOP-G8BLC8O
+640	lsass.exe	0x2175b803120	ComSpec	C:\Windows\system32\cmd.exe
+640	lsass.exe	0x2175b803120	DriverData	C:\Windows\System32\Drivers\DriverData
+640	lsass.exe	0x2175b803120	NUMBER_OF_PROCESSORS	2
+640	lsass.exe	0x2175b803120	OS	Windows_NT
+640	lsass.exe	0x2175b803120	Path	C:\Windows\System32
+640	lsass.exe	0x2175b803120	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+640	lsass.exe	0x2175b803120	PROCESSOR_ARCHITECTURE	AMD64
+640	lsass.exe	0x2175b803120	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+640	lsass.exe	0x2175b803120	PROCESSOR_LEVEL	6
+640	lsass.exe	0x2175b803120	PROCESSOR_REVISION	a502
+640	lsass.exe	0x2175b803120	ProgramData	C:\ProgramData
+640	lsass.exe	0x2175b803120	ProgramFiles	C:\Program Files
+640	lsass.exe	0x2175b803120	ProgramFiles(x86)	C:\Program Files (x86)
+640	lsass.exe	0x2175b803120	ProgramW6432	C:\Program Files
+640	lsass.exe	0x2175b803120	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+640	lsass.exe	0x2175b803120	PUBLIC	C:\Users\Public
+640	lsass.exe	0x2175b803120	SystemDrive	C:
+640	lsass.exe	0x2175b803120	SystemRoot	C:\Windows
+640	lsass.exe	0x2175b803120	TEMP	C:\Windows\TEMP
+640	lsass.exe	0x2175b803120	TMP	C:\Windows\TEMP
+640	lsass.exe	0x2175b803120	USERNAME	SYSTEM
+640	lsass.exe	0x2175b803120	USERPROFILE	C:\Windows\system32\config\systemprofile
+640	lsass.exe	0x2175b803120	windir	C:\Windows
+640	lsass.exe	0x2175b803120	TMP	C:\Windows\TEMP
+640	lsass.exe	0x2175b803120	USERNAME	SYSTEM
+640	lsass.exe	0x2175b803120	USERPROFILE	C:\Windows\system32\config\systemprofile
+640	lsass.exe	0x2175b803120	windir	C:\Windows
+744	svchost.exe	0x14719003300	ALLUSERSPROFILE	C:\ProgramData
+744	svchost.exe	0x14719003300	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+744	svchost.exe	0x14719003300	CommonProgramFiles	C:\Program Files\Common Files
+744	svchost.exe	0x14719003300	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+744	svchost.exe	0x14719003300	CommonProgramW6432	C:\Program Files\Common Files
+744	svchost.exe	0x14719003300	COMPUTERNAME	DESKTOP-G8BLC8O
+744	svchost.exe	0x14719003300	ComSpec	C:\Windows\system32\cmd.exe
+744	svchost.exe	0x14719003300	DriverData	C:\Windows\System32\Drivers\DriverData
+744	svchost.exe	0x14719003300	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+744	svchost.exe	0x14719003300	NUMBER_OF_PROCESSORS	2
+744	svchost.exe	0x14719003300	OS	Windows_NT
+744	svchost.exe	0x14719003300	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+744	svchost.exe	0x14719003300	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+744	svchost.exe	0x14719003300	PROCESSOR_ARCHITECTURE	AMD64
+744	svchost.exe	0x14719003300	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+744	svchost.exe	0x14719003300	PROCESSOR_LEVEL	6
+744	svchost.exe	0x14719003300	PROCESSOR_REVISION	a502
+744	svchost.exe	0x14719003300	ProgramData	C:\ProgramData
+744	svchost.exe	0x14719003300	ProgramFiles	C:\Program Files
+744	svchost.exe	0x14719003300	ProgramFiles(x86)	C:\Program Files (x86)
+744	svchost.exe	0x14719003300	ProgramW6432	C:\Program Files
+744	svchost.exe	0x14719003300	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+744	svchost.exe	0x14719003300	PUBLIC	C:\Users\Public
+744	svchost.exe	0x14719003300	SystemDrive	C:
+744	svchost.exe	0x14719003300	SystemRoot	C:\Windows
+744	svchost.exe	0x14719003300	TEMP	C:\Windows\TEMP
+744	svchost.exe	0x14719003300	TMP	C:\Windows\TEMP
+744	svchost.exe	0x14719003300	USERDOMAIN	WORKGROUP
+744	svchost.exe	0x14719003300	USERNAME	DESKTOP-G8BLC8O$
+744	svchost.exe	0x14719003300	USERPROFILE	C:\Windows\system32\config\systemprofile
+744	svchost.exe	0x14719003300	windir	C:\Windows
+872	svchost.exe	0x11d67a03390	ALLUSERSPROFILE	C:\ProgramData
+872	svchost.exe	0x11d67a03390	APPDATA	C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+872	svchost.exe	0x11d67a03390	CommonProgramFiles	C:\Program Files\Common Files
+872	svchost.exe	0x11d67a03390	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+872	svchost.exe	0x11d67a03390	CommonProgramW6432	C:\Program Files\Common Files
+872	svchost.exe	0x11d67a03390	COMPUTERNAME	DESKTOP-G8BLC8O
+872	svchost.exe	0x11d67a03390	ComSpec	C:\Windows\system32\cmd.exe
+872	svchost.exe	0x11d67a03390	DriverData	C:\Windows\System32\Drivers\DriverData
+872	svchost.exe	0x11d67a03390	LOCALAPPDATA	C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+872	svchost.exe	0x11d67a03390	NUMBER_OF_PROCESSORS	2
+872	svchost.exe	0x11d67a03390	OS	Windows_NT
+872	svchost.exe	0x11d67a03390	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\WindowsApps
+872	svchost.exe	0x11d67a03390	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+872	svchost.exe	0x11d67a03390	PROCESSOR_ARCHITECTURE	AMD64
+872	svchost.exe	0x11d67a03390	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+872	svchost.exe	0x11d67a03390	PROCESSOR_LEVEL	6
+872	svchost.exe	0x11d67a03390	PROCESSOR_REVISION	a502
+872	svchost.exe	0x11d67a03390	ProgramData	C:\ProgramData
+872	svchost.exe	0x11d67a03390	ProgramFiles	C:\Program Files
+872	svchost.exe	0x11d67a03390	ProgramFiles(x86)	C:\Program Files (x86)
+872	svchost.exe	0x11d67a03390	ProgramW6432	C:\Program Files
+872	svchost.exe	0x11d67a03390	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+872	svchost.exe	0x11d67a03390	PUBLIC	C:\Users\Public
+872	svchost.exe	0x11d67a03390	SystemDrive	C:
+872	svchost.exe	0x11d67a03390	SystemRoot	C:\Windows
+872	svchost.exe	0x11d67a03390	TEMP	C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+872	svchost.exe	0x11d67a03390	TMP	C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+872	svchost.exe	0x11d67a03390	USERDOMAIN	WORKGROUP
+872	svchost.exe	0x11d67a03390	USERNAME	DESKTOP-G8BLC8O$
+872	svchost.exe	0x11d67a03390	USERPROFILE	C:\Windows\ServiceProfiles\NetworkService
+872	svchost.exe	0x11d67a03390	windir	C:\Windows
+948	dwm.exe	0x24e56201910	ALLUSERSPROFILE	C:\ProgramData
+948	dwm.exe	0x24e56201910	CommonProgramFiles	C:\Program Files\Common Files
+948	dwm.exe	0x24e56201910	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+948	dwm.exe	0x24e56201910	CommonProgramW6432	C:\Program Files\Common Files
+948	dwm.exe	0x24e56201910	COMPUTERNAME	DESKTOP-G8BLC8O
+948	dwm.exe	0x24e56201910	ComSpec	C:\Windows\system32\cmd.exe
+948	dwm.exe	0x24e56201910	DriverData	C:\Windows\System32\Drivers\DriverData
+948	dwm.exe	0x24e56201910	NUMBER_OF_PROCESSORS	2
+948	dwm.exe	0x24e56201910	OS	Windows_NT
+948	dwm.exe	0x24e56201910	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+948	dwm.exe	0x24e56201910	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+948	dwm.exe	0x24e56201910	PROCESSOR_ARCHITECTURE	AMD64
+948	dwm.exe	0x24e56201910	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+948	dwm.exe	0x24e56201910	PROCESSOR_LEVEL	6
+948	dwm.exe	0x24e56201910	PROCESSOR_REVISION	a502
+948	dwm.exe	0x24e56201910	ProgramData	C:\ProgramData
+948	dwm.exe	0x24e56201910	ProgramFiles	C:\Program Files
+948	dwm.exe	0x24e56201910	ProgramFiles(x86)	C:\Program Files (x86)
+948	dwm.exe	0x24e56201910	ProgramW6432	C:\Program Files
+948	dwm.exe	0x24e56201910	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+948	dwm.exe	0x24e56201910	PUBLIC	C:\Users\Public
+948	dwm.exe	0x24e56201910	SystemDrive	C:
+948	dwm.exe	0x24e56201910	SystemRoot	C:\Windows
+948	dwm.exe	0x24e56201910	TEMP	C:\Windows\TEMP
+948	dwm.exe	0x24e56201910	TMP	C:\Windows\TEMP
+948	dwm.exe	0x24e56201910	USERNAME	SYSTEM
+948	dwm.exe	0x24e56201910	USERPROFILE	C:\Windows\system32\config\systemprofile
+948	dwm.exe	0x24e56201910	windir	C:\Windows
+400	svchost.exe	0x159a7e03300	ALLUSERSPROFILE	C:\ProgramData
+400	svchost.exe	0x159a7e03300	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+400	svchost.exe	0x159a7e03300	CommonProgramFiles	C:\Program Files\Common Files
+400	svchost.exe	0x159a7e03300	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+400	svchost.exe	0x159a7e03300	CommonProgramW6432	C:\Program Files\Common Files
+400	svchost.exe	0x159a7e03300	COMPUTERNAME	DESKTOP-G8BLC8O
+400	svchost.exe	0x159a7e03300	ComSpec	C:\Windows\system32\cmd.exe
+400	svchost.exe	0x159a7e03300	DriverData	C:\Windows\System32\Drivers\DriverData
+400	svchost.exe	0x159a7e03300	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+400	svchost.exe	0x159a7e03300	NUMBER_OF_PROCESSORS	2
+400	svchost.exe	0x159a7e03300	OS	Windows_NT
+400	svchost.exe	0x159a7e03300	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+400	svchost.exe	0x159a7e03300	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+400	svchost.exe	0x159a7e03300	PROCESSOR_ARCHITECTURE	AMD64
+400	svchost.exe	0x159a7e03300	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+400	svchost.exe	0x159a7e03300	PROCESSOR_LEVEL	6
+400	svchost.exe	0x159a7e03300	PROCESSOR_REVISION	a502
+400	svchost.exe	0x159a7e03300	ProgramData	C:\ProgramData
+400	svchost.exe	0x159a7e03300	ProgramFiles	C:\Program Files
+400	svchost.exe	0x159a7e03300	ProgramFiles(x86)	C:\Program Files (x86)
+400	svchost.exe	0x159a7e03300	ProgramW6432	C:\Program Files
+400	svchost.exe	0x159a7e03300	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+400	svchost.exe	0x159a7e03300	PUBLIC	C:\Users\Public
+400	svchost.exe	0x159a7e03300	SystemDrive	C:
+400	svchost.exe	0x159a7e03300	SystemRoot	C:\Windows
+400	svchost.exe	0x159a7e03300	TEMP	C:\Windows\TEMP
+400	svchost.exe	0x159a7e03300	TMP	C:\Windows\TEMP
+400	svchost.exe	0x159a7e03300	USERDOMAIN	WORKGROUP
+400	svchost.exe	0x159a7e03300	USERNAME	DESKTOP-G8BLC8O$
+400	svchost.exe	0x159a7e03300	USERPROFILE	C:\Windows\system32\config\systemprofile
+400	svchost.exe	0x159a7e03300	windir	C:\Windows
+336	svchost.exe	0x18cdbc03380	ALLUSERSPROFILE	C:\ProgramData
+336	svchost.exe	0x18cdbc03380	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+336	svchost.exe	0x18cdbc03380	CommonProgramFiles	C:\Program Files\Common Files
+336	svchost.exe	0x18cdbc03380	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+336	svchost.exe	0x18cdbc03380	CommonProgramW6432	C:\Program Files\Common Files
+336	svchost.exe	0x18cdbc03380	COMPUTERNAME	DESKTOP-G8BLC8O
+336	svchost.exe	0x18cdbc03380	ComSpec	C:\Windows\system32\cmd.exe
+336	svchost.exe	0x18cdbc03380	DriverData	C:\Windows\System32\Drivers\DriverData
+336	svchost.exe	0x18cdbc03380	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+336	svchost.exe	0x18cdbc03380	NUMBER_OF_PROCESSORS	2
+336	svchost.exe	0x18cdbc03380	OS	Windows_NT
+336	svchost.exe	0x18cdbc03380	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+336	svchost.exe	0x18cdbc03380	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+336	svchost.exe	0x18cdbc03380	PROCESSOR_ARCHITECTURE	AMD64
+336	svchost.exe	0x18cdbc03380	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+336	svchost.exe	0x18cdbc03380	PROCESSOR_LEVEL	6
+336	svchost.exe	0x18cdbc03380	PROCESSOR_REVISION	a502
+336	svchost.exe	0x18cdbc03380	ProgramData	C:\ProgramData
+336	svchost.exe	0x18cdbc03380	ProgramFiles	C:\Program Files
+336	svchost.exe	0x18cdbc03380	ProgramFiles(x86)	C:\Program Files (x86)
+336	svchost.exe	0x18cdbc03380	ProgramW6432	C:\Program Files
+336	svchost.exe	0x18cdbc03380	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+336	svchost.exe	0x18cdbc03380	PUBLIC	C:\Users\Public
+336	svchost.exe	0x18cdbc03380	SystemDrive	C:
+336	svchost.exe	0x18cdbc03380	SystemRoot	C:\Windows
+336	svchost.exe	0x18cdbc03380	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+336	svchost.exe	0x18cdbc03380	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+336	svchost.exe	0x18cdbc03380	USERDOMAIN	NT AUTHORITY
+336	svchost.exe	0x18cdbc03380	USERNAME	LOCAL SERVICE
+336	svchost.exe	0x18cdbc03380	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+336	svchost.exe	0x18cdbc03380	windir	C:\Windows
+576	svchost.exe	0x1c83aa03380	ALLUSERSPROFILE	C:\ProgramData
+576	svchost.exe	0x1c83aa03380	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+576	svchost.exe	0x1c83aa03380	CommonProgramFiles	C:\Program Files\Common Files
+576	svchost.exe	0x1c83aa03380	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+576	svchost.exe	0x1c83aa03380	CommonProgramW6432	C:\Program Files\Common Files
+576	svchost.exe	0x1c83aa03380	COMPUTERNAME	DESKTOP-G8BLC8O
+576	svchost.exe	0x1c83aa03380	ComSpec	C:\Windows\system32\cmd.exe
+576	svchost.exe	0x1c83aa03380	DriverData	C:\Windows\System32\Drivers\DriverData
+576	svchost.exe	0x1c83aa03380	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+576	svchost.exe	0x1c83aa03380	NUMBER_OF_PROCESSORS	2
+576	svchost.exe	0x1c83aa03380	OS	Windows_NT
+576	svchost.exe	0x1c83aa03380	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+576	svchost.exe	0x1c83aa03380	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+576	svchost.exe	0x1c83aa03380	PROCESSOR_ARCHITECTURE	AMD64
+576	svchost.exe	0x1c83aa03380	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+576	svchost.exe	0x1c83aa03380	PROCESSOR_LEVEL	6
+576	svchost.exe	0x1c83aa03380	PROCESSOR_REVISION	a502
+576	svchost.exe	0x1c83aa03380	ProgramData	C:\ProgramData
+576	svchost.exe	0x1c83aa03380	ProgramFiles	C:\Program Files
+576	svchost.exe	0x1c83aa03380	ProgramFiles(x86)	C:\Program Files (x86)
+576	svchost.exe	0x1c83aa03380	ProgramW6432	C:\Program Files
+576	svchost.exe	0x1c83aa03380	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+576	svchost.exe	0x1c83aa03380	PUBLIC	C:\Users\Public
+576	svchost.exe	0x1c83aa03380	SystemDrive	C:
+576	svchost.exe	0x1c83aa03380	SystemRoot	C:\Windows
+576	svchost.exe	0x1c83aa03380	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+576	svchost.exe	0x1c83aa03380	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+576	svchost.exe	0x1c83aa03380	USERDOMAIN	NT AUTHORITY
+576	svchost.exe	0x1c83aa03380	USERNAME	LOCAL SERVICE
+576	svchost.exe	0x1c83aa03380	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+576	svchost.exe	0x1c83aa03380	windir	C:\Windows
+864	svchost.exe	0x1ec24c03380	ALLUSERSPROFILE	C:\ProgramData
+864	svchost.exe	0x1ec24c03380	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+864	svchost.exe	0x1ec24c03380	CommonProgramFiles	C:\Program Files\Common Files
+864	svchost.exe	0x1ec24c03380	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+864	svchost.exe	0x1ec24c03380	CommonProgramW6432	C:\Program Files\Common Files
+864	svchost.exe	0x1ec24c03380	COMPUTERNAME	DESKTOP-G8BLC8O
+864	svchost.exe	0x1ec24c03380	ComSpec	C:\Windows\system32\cmd.exe
+864	svchost.exe	0x1ec24c03380	DriverData	C:\Windows\System32\Drivers\DriverData
+864	svchost.exe	0x1ec24c03380	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+864	svchost.exe	0x1ec24c03380	NUMBER_OF_PROCESSORS	2
+864	svchost.exe	0x1ec24c03380	OS	Windows_NT
+864	svchost.exe	0x1ec24c03380	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+864	svchost.exe	0x1ec24c03380	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+864	svchost.exe	0x1ec24c03380	PROCESSOR_ARCHITECTURE	AMD64
+864	svchost.exe	0x1ec24c03380	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+864	svchost.exe	0x1ec24c03380	PROCESSOR_LEVEL	6
+864	svchost.exe	0x1ec24c03380	PROCESSOR_REVISION	a502
+864	svchost.exe	0x1ec24c03380	ProgramData	C:\ProgramData
+864	svchost.exe	0x1ec24c03380	ProgramFiles	C:\Program Files
+864	svchost.exe	0x1ec24c03380	ProgramFiles(x86)	C:\Program Files (x86)
+864	svchost.exe	0x1ec24c03380	ProgramW6432	C:\Program Files
+864	svchost.exe	0x1ec24c03380	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+864	svchost.exe	0x1ec24c03380	PUBLIC	C:\Users\Public
+864	svchost.exe	0x1ec24c03380	SystemDrive	C:
+864	svchost.exe	0x1ec24c03380	SystemRoot	C:\Windows
+864	svchost.exe	0x1ec24c03380	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+864	svchost.exe	0x1ec24c03380	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+864	svchost.exe	0x1ec24c03380	USERDOMAIN	NT AUTHORITY
+864	svchost.exe	0x1ec24c03380	USERNAME	LOCAL SERVICE
+864	svchost.exe	0x1ec24c03380	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+864	svchost.exe	0x1ec24c03380	windir	C:\Windows
+944	svchost.exe	0x289a9003380	ALLUSERSPROFILE	C:\ProgramData
+944	svchost.exe	0x289a9003380	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+944	svchost.exe	0x289a9003380	CommonProgramFiles	C:\Program Files\Common Files
+944	svchost.exe	0x289a9003380	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+944	svchost.exe	0x289a9003380	CommonProgramW6432	C:\Program Files\Common Files
+944	svchost.exe	0x289a9003380	COMPUTERNAME	DESKTOP-G8BLC8O
+944	svchost.exe	0x289a9003380	ComSpec	C:\Windows\system32\cmd.exe
+944	svchost.exe	0x289a9003380	DriverData	C:\Windows\System32\Drivers\DriverData
+944	svchost.exe	0x289a9003380	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+944	svchost.exe	0x289a9003380	NUMBER_OF_PROCESSORS	2
+944	svchost.exe	0x289a9003380	OS	Windows_NT
+944	svchost.exe	0x289a9003380	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+944	svchost.exe	0x289a9003380	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+944	svchost.exe	0x289a9003380	PROCESSOR_ARCHITECTURE	AMD64
+944	svchost.exe	0x289a9003380	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+944	svchost.exe	0x289a9003380	PROCESSOR_LEVEL	6
+944	svchost.exe	0x289a9003380	PROCESSOR_REVISION	a502
+944	svchost.exe	0x289a9003380	ProgramData	C:\ProgramData
+944	svchost.exe	0x289a9003380	ProgramFiles	C:\Program Files
+944	svchost.exe	0x289a9003380	ProgramFiles(x86)	C:\Program Files (x86)
+944	svchost.exe	0x289a9003380	ProgramW6432	C:\Program Files
+944	svchost.exe	0x289a9003380	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+944	svchost.exe	0x289a9003380	PUBLIC	C:\Users\Public
+944	svchost.exe	0x289a9003380	SystemDrive	C:
+944	svchost.exe	0x289a9003380	SystemRoot	C:\Windows
+944	svchost.exe	0x289a9003380	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+944	svchost.exe	0x289a9003380	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+944	svchost.exe	0x289a9003380	USERDOMAIN	NT AUTHORITY
+944	svchost.exe	0x289a9003380	USERNAME	LOCAL SERVICE
+944	svchost.exe	0x289a9003380	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+944	svchost.exe	0x289a9003380	windir	C:\Windows
+1088	svchost.exe	0x29963803300	ALLUSERSPROFILE	C:\ProgramData
+1088	svchost.exe	0x29963803300	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+1088	svchost.exe	0x29963803300	CommonProgramFiles	C:\Program Files\Common Files
+1088	svchost.exe	0x29963803300	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1088	svchost.exe	0x29963803300	CommonProgramW6432	C:\Program Files\Common Files
+1088	svchost.exe	0x29963803300	COMPUTERNAME	DESKTOP-G8BLC8O
+1088	svchost.exe	0x29963803300	ComSpec	C:\Windows\system32\cmd.exe
+1088	svchost.exe	0x29963803300	DriverData	C:\Windows\System32\Drivers\DriverData
+1088	svchost.exe	0x29963803300	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+1088	svchost.exe	0x29963803300	NUMBER_OF_PROCESSORS	2
+1088	svchost.exe	0x29963803300	OS	Windows_NT
+1088	svchost.exe	0x29963803300	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+1088	svchost.exe	0x29963803300	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1088	svchost.exe	0x29963803300	PROCESSOR_ARCHITECTURE	AMD64
+1088	svchost.exe	0x29963803300	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1088	svchost.exe	0x29963803300	PROCESSOR_LEVEL	6
+1088	svchost.exe	0x29963803300	PROCESSOR_REVISION	a502
+1088	svchost.exe	0x29963803300	ProgramData	C:\ProgramData
+1088	svchost.exe	0x29963803300	ProgramFiles	C:\Program Files
+1088	svchost.exe	0x29963803300	ProgramFiles(x86)	C:\Program Files (x86)
+1088	svchost.exe	0x29963803300	ProgramW6432	C:\Program Files
+1088	svchost.exe	0x29963803300	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1088	svchost.exe	0x29963803300	PUBLIC	C:\Users\Public
+1088	svchost.exe	0x29963803300	SystemDrive	C:
+1088	svchost.exe	0x29963803300	SystemRoot	C:\Windows
+1088	svchost.exe	0x29963803300	TEMP	C:\Windows\TEMP
+1088	svchost.exe	0x29963803300	TMP	C:\Windows\TEMP
+1088	svchost.exe	0x29963803300	USERDOMAIN	WORKGROUP
+1088	svchost.exe	0x29963803300	USERNAME	DESKTOP-G8BLC8O$
+1088	svchost.exe	0x29963803300	USERPROFILE	C:\Windows\system32\config\systemprofile
+1088	svchost.exe	0x29963803300	windir	C:\Windows
+1304	svchost.exe	0x187e8803300	ALLUSERSPROFILE	C:\ProgramData
+1304	svchost.exe	0x187e8803300	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+1304	svchost.exe	0x187e8803300	CommonProgramFiles	C:\Program Files\Common Files
+1304	svchost.exe	0x187e8803300	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1304	svchost.exe	0x187e8803300	CommonProgramW6432	C:\Program Files\Common Files
+1304	svchost.exe	0x187e8803300	COMPUTERNAME	DESKTOP-G8BLC8O
+1304	svchost.exe	0x187e8803300	ComSpec	C:\Windows\system32\cmd.exe
+1304	svchost.exe	0x187e8803300	DriverData	C:\Windows\System32\Drivers\DriverData
+1304	svchost.exe	0x187e8803300	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+1304	svchost.exe	0x187e8803300	NUMBER_OF_PROCESSORS	2
+1304	svchost.exe	0x187e8803300	OS	Windows_NT
+1304	svchost.exe	0x187e8803300	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+1304	svchost.exe	0x187e8803300	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1304	svchost.exe	0x187e8803300	PROCESSOR_ARCHITECTURE	AMD64
+1304	svchost.exe	0x187e8803300	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1304	svchost.exe	0x187e8803300	PROCESSOR_LEVEL	6
+1304	svchost.exe	0x187e8803300	PROCESSOR_REVISION	a502
+1304	svchost.exe	0x187e8803300	ProgramData	C:\ProgramData
+1304	svchost.exe	0x187e8803300	ProgramFiles	C:\Program Files
+1304	svchost.exe	0x187e8803300	ProgramFiles(x86)	C:\Program Files (x86)
+1304	svchost.exe	0x187e8803300	ProgramW6432	C:\Program Files
+1304	svchost.exe	0x187e8803300	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1304	svchost.exe	0x187e8803300	PUBLIC	C:\Users\Public
+1304	svchost.exe	0x187e8803300	SystemDrive	C:
+1304	svchost.exe	0x187e8803300	SystemRoot	C:\Windows
+1304	svchost.exe	0x187e8803300	TEMP	C:\Windows\TEMP
+1304	svchost.exe	0x187e8803300	TMP	C:\Windows\TEMP
+1304	svchost.exe	0x187e8803300	USERDOMAIN	WORKGROUP
+1304	svchost.exe	0x187e8803300	USERNAME	DESKTOP-G8BLC8O$
+1304	svchost.exe	0x187e8803300	USERPROFILE	C:\Windows\system32\config\systemprofile
+1304	svchost.exe	0x187e8803300	windir	C:\Windows
+1492	svchost.exe	0x2608ac03380	ALLUSERSPROFILE	C:\ProgramData
+1492	svchost.exe	0x2608ac03380	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+1492	svchost.exe	0x2608ac03380	CommonProgramFiles	C:\Program Files\Common Files
+1492	svchost.exe	0x2608ac03380	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1492	svchost.exe	0x2608ac03380	CommonProgramW6432	C:\Program Files\Common Files
+1492	svchost.exe	0x2608ac03380	COMPUTERNAME	DESKTOP-G8BLC8O
+1492	svchost.exe	0x2608ac03380	ComSpec	C:\Windows\system32\cmd.exe
+1492	svchost.exe	0x2608ac03380	DriverData	C:\Windows\System32\Drivers\DriverData
+1492	svchost.exe	0x2608ac03380	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+1492	svchost.exe	0x2608ac03380	NUMBER_OF_PROCESSORS	2
+1492	svchost.exe	0x2608ac03380	OS	Windows_NT
+1492	svchost.exe	0x2608ac03380	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+1492	svchost.exe	0x2608ac03380	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1492	svchost.exe	0x2608ac03380	PROCESSOR_ARCHITECTURE	AMD64
+1492	svchost.exe	0x2608ac03380	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1492	svchost.exe	0x2608ac03380	PROCESSOR_LEVEL	6
+1492	svchost.exe	0x2608ac03380	PROCESSOR_REVISION	a502
+1492	svchost.exe	0x2608ac03380	ProgramData	C:\ProgramData
+1492	svchost.exe	0x2608ac03380	ProgramFiles	C:\Program Files
+1492	svchost.exe	0x2608ac03380	ProgramFiles(x86)	C:\Program Files (x86)
+1492	svchost.exe	0x2608ac03380	ProgramW6432	C:\Program Files
+1492	svchost.exe	0x2608ac03380	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1492	svchost.exe	0x2608ac03380	PUBLIC	C:\Users\Public
+1492	svchost.exe	0x2608ac03380	SystemDrive	C:
+1492	svchost.exe	0x2608ac03380	SystemRoot	C:\Windows
+1492	svchost.exe	0x2608ac03380	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+1492	svchost.exe	0x2608ac03380	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+1492	svchost.exe	0x2608ac03380	USERDOMAIN	NT AUTHORITY
+1492	svchost.exe	0x2608ac03380	USERNAME	LOCAL SERVICE
+1492	svchost.exe	0x2608ac03380	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+1492	svchost.exe	0x2608ac03380	windir	C:\Windows
+1520	svchost.exe	0x12086603390	ALLUSERSPROFILE	C:\ProgramData
+1520	svchost.exe	0x12086603390	APPDATA	C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+1520	svchost.exe	0x12086603390	CommonProgramFiles	C:\Program Files\Common Files
+1520	svchost.exe	0x12086603390	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1520	svchost.exe	0x12086603390	CommonProgramW6432	C:\Program Files\Common Files
+1520	svchost.exe	0x12086603390	COMPUTERNAME	DESKTOP-G8BLC8O
+1520	svchost.exe	0x12086603390	ComSpec	C:\Windows\system32\cmd.exe
+1520	svchost.exe	0x12086603390	DriverData	C:\Windows\System32\Drivers\DriverData
+1520	svchost.exe	0x12086603390	LOCALAPPDATA	C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+1520	svchost.exe	0x12086603390	NUMBER_OF_PROCESSORS	2
+1520	svchost.exe	0x12086603390	OS	Windows_NT
+1520	svchost.exe	0x12086603390	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\WindowsApps
+1520	svchost.exe	0x12086603390	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1520	svchost.exe	0x12086603390	PROCESSOR_ARCHITECTURE	AMD64
+1520	svchost.exe	0x12086603390	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1520	svchost.exe	0x12086603390	PROCESSOR_LEVEL	6
+1520	svchost.exe	0x12086603390	PROCESSOR_REVISION	a502
+1520	svchost.exe	0x12086603390	ProgramData	C:\ProgramData
+1520	svchost.exe	0x12086603390	ProgramFiles	C:\Program Files
+1520	svchost.exe	0x12086603390	ProgramFiles(x86)	C:\Program Files (x86)
+1520	svchost.exe	0x12086603390	ProgramW6432	C:\Program Files
+1520	svchost.exe	0x12086603390	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1520	svchost.exe	0x12086603390	PUBLIC	C:\Users\Public
+1520	svchost.exe	0x12086603390	SystemDrive	C:
+1520	svchost.exe	0x12086603390	SystemRoot	C:\Windows
+1520	svchost.exe	0x12086603390	TEMP	C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+1520	svchost.exe	0x12086603390	TMP	C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+1520	svchost.exe	0x12086603390	USERDOMAIN	WORKGROUP
+1520	svchost.exe	0x12086603390	USERNAME	DESKTOP-G8BLC8O$
+1520	svchost.exe	0x12086603390	USERPROFILE	C:\Windows\ServiceProfiles\NetworkService
+1520	svchost.exe	0x12086603390	windir	C:\Windows
+1620	svchost.exe	0x2207a203380	ALLUSERSPROFILE	C:\ProgramData
+1620	svchost.exe	0x2207a203380	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+1620	svchost.exe	0x2207a203380	CommonProgramFiles	C:\Program Files\Common Files
+1620	svchost.exe	0x2207a203380	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1620	svchost.exe	0x2207a203380	CommonProgramW6432	C:\Program Files\Common Files
+1620	svchost.exe	0x2207a203380	COMPUTERNAME	DESKTOP-G8BLC8O
+1620	svchost.exe	0x2207a203380	ComSpec	C:\Windows\system32\cmd.exe
+1620	svchost.exe	0x2207a203380	DriverData	C:\Windows\System32\Drivers\DriverData
+1620	svchost.exe	0x2207a203380	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+1620	svchost.exe	0x2207a203380	NUMBER_OF_PROCESSORS	2
+1620	svchost.exe	0x2207a203380	OS	Windows_NT
+1620	svchost.exe	0x2207a203380	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+1620	svchost.exe	0x2207a203380	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1620	svchost.exe	0x2207a203380	PROCESSOR_ARCHITECTURE	AMD64
+1620	svchost.exe	0x2207a203380	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1620	svchost.exe	0x2207a203380	PROCESSOR_LEVEL	6
+1620	svchost.exe	0x2207a203380	PROCESSOR_REVISION	a502
+1620	svchost.exe	0x2207a203380	ProgramData	C:\ProgramData
+1620	svchost.exe	0x2207a203380	ProgramFiles	C:\Program Files
+1620	svchost.exe	0x2207a203380	ProgramFiles(x86)	C:\Program Files (x86)
+1620	svchost.exe	0x2207a203380	ProgramW6432	C:\Program Files
+1620	svchost.exe	0x2207a203380	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1620	svchost.exe	0x2207a203380	PUBLIC	C:\Users\Public
+1620	svchost.exe	0x2207a203380	SystemDrive	C:
+1620	svchost.exe	0x2207a203380	SystemRoot	C:\Windows
+1620	svchost.exe	0x2207a203380	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+1620	svchost.exe	0x2207a203380	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+1620	svchost.exe	0x2207a203380	USERDOMAIN	NT AUTHORITY
+1620	svchost.exe	0x2207a203380	USERNAME	LOCAL SERVICE
+1620	svchost.exe	0x2207a203380	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+1620	svchost.exe	0x2207a203380	windir	C:\Windows
+1728	svchost.exe	0x19391803300	ALLUSERSPROFILE	C:\ProgramData
+1728	svchost.exe	0x19391803300	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+1728	svchost.exe	0x19391803300	CommonProgramFiles	C:\Program Files\Common Files
+1728	svchost.exe	0x19391803300	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1728	svchost.exe	0x19391803300	CommonProgramW6432	C:\Program Files\Common Files
+1728	svchost.exe	0x19391803300	COMPUTERNAME	DESKTOP-G8BLC8O
+1728	svchost.exe	0x19391803300	ComSpec	C:\Windows\system32\cmd.exe
+1728	svchost.exe	0x19391803300	DriverData	C:\Windows\System32\Drivers\DriverData
+1728	svchost.exe	0x19391803300	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+1728	svchost.exe	0x19391803300	NUMBER_OF_PROCESSORS	2
+1728	svchost.exe	0x19391803300	OS	Windows_NT
+1728	svchost.exe	0x19391803300	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+1728	svchost.exe	0x19391803300	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1728	svchost.exe	0x19391803300	PROCESSOR_ARCHITECTURE	AMD64
+1728	svchost.exe	0x19391803300	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1728	svchost.exe	0x19391803300	PROCESSOR_LEVEL	6
+1728	svchost.exe	0x19391803300	PROCESSOR_REVISION	a502
+1728	svchost.exe	0x19391803300	ProgramData	C:\ProgramData
+1728	svchost.exe	0x19391803300	ProgramFiles	C:\Program Files
+1728	svchost.exe	0x19391803300	ProgramFiles(x86)	C:\Program Files (x86)
+1728	svchost.exe	0x19391803300	ProgramW6432	C:\Program Files
+1728	svchost.exe	0x19391803300	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1728	svchost.exe	0x19391803300	PUBLIC	C:\Users\Public
+1728	svchost.exe	0x19391803300	SystemDrive	C:
+1728	svchost.exe	0x19391803300	SystemRoot	C:\Windows
+1728	svchost.exe	0x19391803300	TEMP	C:\Windows\TEMP
+1728	svchost.exe	0x19391803300	TMP	C:\Windows\TEMP
+1728	svchost.exe	0x19391803300	USERDOMAIN	WORKGROUP
+1728	svchost.exe	0x19391803300	USERNAME	DESKTOP-G8BLC8O$
+1728	svchost.exe	0x19391803300	USERPROFILE	C:\Windows\system32\config\systemprofile
+1728	svchost.exe	0x19391803300	windir	C:\Windows
+1768	svchost.exe	0x1cb1ec03390	ALLUSERSPROFILE	C:\ProgramData
+1768	svchost.exe	0x1cb1ec03390	APPDATA	C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+1768	svchost.exe	0x1cb1ec03390	CommonProgramFiles	C:\Program Files\Common Files
+1768	svchost.exe	0x1cb1ec03390	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1768	svchost.exe	0x1cb1ec03390	CommonProgramW6432	C:\Program Files\Common Files
+1768	svchost.exe	0x1cb1ec03390	COMPUTERNAME	DESKTOP-G8BLC8O
+1768	svchost.exe	0x1cb1ec03390	ComSpec	C:\Windows\system32\cmd.exe
+1768	svchost.exe	0x1cb1ec03390	DriverData	C:\Windows\System32\Drivers\DriverData
+1768	svchost.exe	0x1cb1ec03390	LOCALAPPDATA	C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+1768	svchost.exe	0x1cb1ec03390	NUMBER_OF_PROCESSORS	2
+1768	svchost.exe	0x1cb1ec03390	OS	Windows_NT
+1768	svchost.exe	0x1cb1ec03390	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\WindowsApps
+1768	svchost.exe	0x1cb1ec03390	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1768	svchost.exe	0x1cb1ec03390	PROCESSOR_ARCHITECTURE	AMD64
+1768	svchost.exe	0x1cb1ec03390	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1768	svchost.exe	0x1cb1ec03390	PROCESSOR_LEVEL	6
+1768	svchost.exe	0x1cb1ec03390	PROCESSOR_REVISION	a502
+1768	svchost.exe	0x1cb1ec03390	ProgramData	C:\ProgramData
+1768	svchost.exe	0x1cb1ec03390	ProgramFiles	C:\Program Files
+1768	svchost.exe	0x1cb1ec03390	ProgramFiles(x86)	C:\Program Files (x86)
+1768	svchost.exe	0x1cb1ec03390	ProgramW6432	C:\Program Files
+1768	svchost.exe	0x1cb1ec03390	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1768	svchost.exe	0x1cb1ec03390	PUBLIC	C:\Users\Public
+1768	svchost.exe	0x1cb1ec03390	SystemDrive	C:
+1768	svchost.exe	0x1cb1ec03390	SystemRoot	C:\Windows
+1768	svchost.exe	0x1cb1ec03390	TEMP	C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+1768	svchost.exe	0x1cb1ec03390	TMP	C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+1768	svchost.exe	0x1cb1ec03390	USERDOMAIN	WORKGROUP
+1768	svchost.exe	0x1cb1ec03390	USERNAME	DESKTOP-G8BLC8O$
+1768	svchost.exe	0x1cb1ec03390	USERPROFILE	C:\Windows\ServiceProfiles\NetworkService
+1768	svchost.exe	0x1cb1ec03390	windir	C:\Windows
+1780	spoolsv.exe	0xc91af0	ALLUSERSPROFILE	C:\ProgramData
+1780	spoolsv.exe	0xc91af0	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+1780	spoolsv.exe	0xc91af0	CommonProgramFiles	C:\Program Files\Common Files
+1780	spoolsv.exe	0xc91af0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1780	spoolsv.exe	0xc91af0	CommonProgramW6432	C:\Program Files\Common Files
+1780	spoolsv.exe	0xc91af0	COMPUTERNAME	DESKTOP-G8BLC8O
+1780	spoolsv.exe	0xc91af0	ComSpec	C:\Windows\system32\cmd.exe
+1780	spoolsv.exe	0xc91af0	DriverData	C:\Windows\System32\Drivers\DriverData
+1780	spoolsv.exe	0xc91af0	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+1780	spoolsv.exe	0xc91af0	NUMBER_OF_PROCESSORS	2
+1780	spoolsv.exe	0xc91af0	OS	Windows_NT
+1780	spoolsv.exe	0xc91af0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+1780	spoolsv.exe	0xc91af0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1780	spoolsv.exe	0xc91af0	PROCESSOR_ARCHITECTURE	AMD64
+1780	spoolsv.exe	0xc91af0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1780	spoolsv.exe	0xc91af0	PROCESSOR_LEVEL	6
+1780	spoolsv.exe	0xc91af0	PROCESSOR_REVISION	a502
+1780	spoolsv.exe	0xc91af0	ProgramData	C:\ProgramData
+1780	spoolsv.exe	0xc91af0	ProgramFiles	C:\Program Files
+1780	spoolsv.exe	0xc91af0	ProgramFiles(x86)	C:\Program Files (x86)
+1780	spoolsv.exe	0xc91af0	ProgramW6432	C:\Program Files
+1780	spoolsv.exe	0xc91af0	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1780	spoolsv.exe	0xc91af0	PUBLIC	C:\Users\Public
+1780	spoolsv.exe	0xc91af0	SystemDrive	C:
+1780	spoolsv.exe	0xc91af0	SystemRoot	C:\Windows
+1780	spoolsv.exe	0xc91af0	TEMP	C:\Windows\TEMP
+1780	spoolsv.exe	0xc91af0	TMP	C:\Windows\TEMP
+1780	spoolsv.exe	0xc91af0	USERDOMAIN	WORKGROUP
+1780	spoolsv.exe	0xc91af0	USERNAME	DESKTOP-G8BLC8O$
+1780	spoolsv.exe	0xc91af0	USERPROFILE	C:\Windows\system32\config\systemprofile
+1780	spoolsv.exe	0xc91af0	windir	C:\Windows
+1788	svchost.exe	0x1ddf7c03380	ALLUSERSPROFILE	C:\ProgramData
+1788	svchost.exe	0x1ddf7c03380	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+1788	svchost.exe	0x1ddf7c03380	CommonProgramFiles	C:\Program Files\Common Files
+1788	svchost.exe	0x1ddf7c03380	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1788	svchost.exe	0x1ddf7c03380	CommonProgramW6432	C:\Program Files\Common Files
+1788	svchost.exe	0x1ddf7c03380	COMPUTERNAME	DESKTOP-G8BLC8O
+1788	svchost.exe	0x1ddf7c03380	ComSpec	C:\Windows\system32\cmd.exe
+1788	svchost.exe	0x1ddf7c03380	DriverData	C:\Windows\System32\Drivers\DriverData
+1788	svchost.exe	0x1ddf7c03380	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+1788	svchost.exe	0x1ddf7c03380	NUMBER_OF_PROCESSORS	2
+1788	svchost.exe	0x1ddf7c03380	OS	Windows_NT
+1788	svchost.exe	0x1ddf7c03380	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+1788	svchost.exe	0x1ddf7c03380	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1788	svchost.exe	0x1ddf7c03380	PROCESSOR_ARCHITECTURE	AMD64
+1788	svchost.exe	0x1ddf7c03380	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1788	svchost.exe	0x1ddf7c03380	PROCESSOR_LEVEL	6
+1788	svchost.exe	0x1ddf7c03380	PROCESSOR_REVISION	a502
+1788	svchost.exe	0x1ddf7c03380	ProgramData	C:\ProgramData
+1788	svchost.exe	0x1ddf7c03380	ProgramFiles	C:\Program Files
+1788	svchost.exe	0x1ddf7c03380	ProgramFiles(x86)	C:\Program Files (x86)
+1788	svchost.exe	0x1ddf7c03380	ProgramW6432	C:\Program Files
+1788	svchost.exe	0x1ddf7c03380	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1788	svchost.exe	0x1ddf7c03380	PUBLIC	C:\Users\Public
+1788	svchost.exe	0x1ddf7c03380	SystemDrive	C:
+1788	svchost.exe	0x1ddf7c03380	SystemRoot	C:\Windows
+1788	svchost.exe	0x1ddf7c03380	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+1788	svchost.exe	0x1ddf7c03380	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+1788	svchost.exe	0x1ddf7c03380	USERDOMAIN	NT AUTHORITY
+1788	svchost.exe	0x1ddf7c03380	USERNAME	LOCAL SERVICE
+1788	svchost.exe	0x1ddf7c03380	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+1788	svchost.exe	0x1ddf7c03380	windir	C:\Windows
+1280	svchost.exe	0x20a38a03380	ALLUSERSPROFILE	C:\ProgramData
+1280	svchost.exe	0x20a38a03380	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+1280	svchost.exe	0x20a38a03380	CommonProgramFiles	C:\Program Files\Common Files
+1280	svchost.exe	0x20a38a03380	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1280	svchost.exe	0x20a38a03380	CommonProgramW6432	C:\Program Files\Common Files
+1280	svchost.exe	0x20a38a03380	COMPUTERNAME	DESKTOP-G8BLC8O
+1280	svchost.exe	0x20a38a03380	ComSpec	C:\Windows\system32\cmd.exe
+1280	svchost.exe	0x20a38a03380	DriverData	C:\Windows\System32\Drivers\DriverData
+1280	svchost.exe	0x20a38a03380	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+1280	svchost.exe	0x20a38a03380	NUMBER_OF_PROCESSORS	2
+1280	svchost.exe	0x20a38a03380	OS	Windows_NT
+1280	svchost.exe	0x20a38a03380	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+1280	svchost.exe	0x20a38a03380	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1280	svchost.exe	0x20a38a03380	PROCESSOR_ARCHITECTURE	AMD64
+1280	svchost.exe	0x20a38a03380	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1280	svchost.exe	0x20a38a03380	PROCESSOR_LEVEL	6
+1280	svchost.exe	0x20a38a03380	PROCESSOR_REVISION	a502
+1280	svchost.exe	0x20a38a03380	ProgramData	C:\ProgramData
+1280	svchost.exe	0x20a38a03380	ProgramFiles	C:\Program Files
+1280	svchost.exe	0x20a38a03380	ProgramFiles(x86)	C:\Program Files (x86)
+1280	svchost.exe	0x20a38a03380	ProgramW6432	C:\Program Files
+1280	svchost.exe	0x20a38a03380	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1280	svchost.exe	0x20a38a03380	PUBLIC	C:\Users\Public
+1280	svchost.exe	0x20a38a03380	SystemDrive	C:
+1280	svchost.exe	0x20a38a03380	SystemRoot	C:\Windows
+1280	svchost.exe	0x20a38a03380	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+1280	svchost.exe	0x20a38a03380	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+1280	svchost.exe	0x20a38a03380	USERDOMAIN	NT AUTHORITY
+1280	svchost.exe	0x20a38a03380	USERNAME	LOCAL SERVICE
+1280	svchost.exe	0x20a38a03380	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+1280	svchost.exe	0x20a38a03380	windir	C:\Windows
+2208	vmtoolsd.exe	0x24ef2b91af0	ALLUSERSPROFILE	C:\ProgramData
+2208	vmtoolsd.exe	0x24ef2b91af0	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+2208	vmtoolsd.exe	0x24ef2b91af0	CommonProgramFiles	C:\Program Files\Common Files
+2208	vmtoolsd.exe	0x24ef2b91af0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+2208	vmtoolsd.exe	0x24ef2b91af0	CommonProgramW6432	C:\Program Files\Common Files
+2208	vmtoolsd.exe	0x24ef2b91af0	COMPUTERNAME	DESKTOP-G8BLC8O
+2208	vmtoolsd.exe	0x24ef2b91af0	ComSpec	C:\Windows\system32\cmd.exe
+2208	vmtoolsd.exe	0x24ef2b91af0	DriverData	C:\Windows\System32\Drivers\DriverData
+2208	vmtoolsd.exe	0x24ef2b91af0	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+2208	vmtoolsd.exe	0x24ef2b91af0	NUMBER_OF_PROCESSORS	2
+2208	vmtoolsd.exe	0x24ef2b91af0	OS	Windows_NT
+2208	vmtoolsd.exe	0x24ef2b91af0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+2208	vmtoolsd.exe	0x24ef2b91af0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2208	vmtoolsd.exe	0x24ef2b91af0	PROCESSOR_ARCHITECTURE	AMD64
+2208	vmtoolsd.exe	0x24ef2b91af0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+2208	vmtoolsd.exe	0x24ef2b91af0	PROCESSOR_LEVEL	6
+2208	vmtoolsd.exe	0x24ef2b91af0	PROCESSOR_REVISION	a502
+2208	vmtoolsd.exe	0x24ef2b91af0	ProgramData	C:\ProgramData
+2208	vmtoolsd.exe	0x24ef2b91af0	ProgramFiles	C:\Program Files
+2208	vmtoolsd.exe	0x24ef2b91af0	ProgramFiles(x86)	C:\Program Files (x86)
+2208	vmtoolsd.exe	0x24ef2b91af0	ProgramW6432	C:\Program Files
+2208	vmtoolsd.exe	0x24ef2b91af0	PSModulePath	C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+2208	vmtoolsd.exe	0x24ef2b91af0	PUBLIC	C:\Users\Public
+2208	vmtoolsd.exe	0x24ef2b91af0	SystemDrive	C:
+2208	vmtoolsd.exe	0x24ef2b91af0	SystemRoot	C:\Windows
+2208	vmtoolsd.exe	0x24ef2b91af0	TEMP	C:\Windows\TEMP
+2208	vmtoolsd.exe	0x24ef2b91af0	TMP	C:\Windows\TEMP
+2208	vmtoolsd.exe	0x24ef2b91af0	USERDOMAIN	WORKGROUP
+2208	vmtoolsd.exe	0x24ef2b91af0	USERNAME	DESKTOP-G8BLC8O$
+2208	vmtoolsd.exe	0x24ef2b91af0	USERPROFILE	C:\Windows\system32\config\systemprofile
+2208	vmtoolsd.exe	0x24ef2b91af0	windir	C:\Windows
+2228	MsMpEng.exe	0x297e0f41af0	ALLUSERSPROFILE	C:\ProgramData
+2228	MsMpEng.exe	0x297e0f41af0	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+2228	MsMpEng.exe	0x297e0f41af0	CommonProgramFiles	C:\Program Files\Common Files
+2228	MsMpEng.exe	0x297e0f41af0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+2228	MsMpEng.exe	0x297e0f41af0	CommonProgramW6432	C:\Program Files\Common Files
+2228	MsMpEng.exe	0x297e0f41af0	COMPUTERNAME	DESKTOP-G8BLC8O
+2228	MsMpEng.exe	0x297e0f41af0	ComSpec	C:\Windows\system32\cmd.exe
+2228	MsMpEng.exe	0x297e0f41af0	DriverData	C:\Windows\System32\Drivers\DriverData
+2228	MsMpEng.exe	0x297e0f41af0	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+2228	MsMpEng.exe	0x297e0f41af0	NUMBER_OF_PROCESSORS	2
+2228	MsMpEng.exe	0x297e0f41af0	OS	Windows_NT
+2228	MsMpEng.exe	0x297e0f41af0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+2228	MsMpEng.exe	0x297e0f41af0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2228	MsMpEng.exe	0x297e0f41af0	PROCESSOR_ARCHITECTURE	AMD64
+2228	MsMpEng.exe	0x297e0f41af0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+2228	MsMpEng.exe	0x297e0f41af0	PROCESSOR_LEVEL	6
+2228	MsMpEng.exe	0x297e0f41af0	PROCESSOR_REVISION	a502
+2228	MsMpEng.exe	0x297e0f41af0	ProgramData	C:\ProgramData
+2228	MsMpEng.exe	0x297e0f41af0	ProgramFiles	C:\Program Files
+2228	MsMpEng.exe	0x297e0f41af0	ProgramFiles(x86)	C:\Program Files (x86)
+2228	MsMpEng.exe	0x297e0f41af0	ProgramW6432	C:\Program Files
+2228	MsMpEng.exe	0x297e0f41af0	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+2228	MsMpEng.exe	0x297e0f41af0	PUBLIC	C:\Users\Public
+2228	MsMpEng.exe	0x297e0f41af0	SystemDrive	C:
+2228	MsMpEng.exe	0x297e0f41af0	SystemRoot	C:\Windows
+2228	MsMpEng.exe	0x297e0f41af0	TEMP	C:\Windows\TEMP
+2228	MsMpEng.exe	0x297e0f41af0	TMP	C:\Windows\TEMP
+2228	MsMpEng.exe	0x297e0f41af0	USERDOMAIN	WORKGROUP
+2228	MsMpEng.exe	0x297e0f41af0	USERNAME	DESKTOP-G8BLC8O$
+2228	MsMpEng.exe	0x297e0f41af0	USERPROFILE	C:\Windows\system32\config\systemprofile
+2228	MsMpEng.exe	0x297e0f41af0	windir	C:\Windows
+2228	MsMpEng.exe	0x297e0f41af0	C:\Windows\system32\config\systemprofil	C:\Windows\system32\config\systemprofile
+2228	MsMpEng.exe	0x297e0f41af0	windir	C:\Windows
+2228	MsMpEng.exe	0x297e0f41af0	ig\systemprofil	ig\systemprofile
+2228	MsMpEng.exe	0x297e0f41af0	windir	C:\Windows
+2228	MsMpEng.exe	0x297e0f41af0	OMAIN	WORKGROUP
+2228	MsMpEng.exe	0x297e0f41af0	USERNAME	DESKTOP-G8BLC8O$
+2228	MsMpEng.exe	0x297e0f41af0	USERPROFILE	C:\Windows\system32\config\systemprofile
+2228	MsMpEng.exe	0x297e0f41af0	windir	C:\Windows
+2228	MsMpEng.exe	0x297e0f41af0	ERPROFILE	C:\Windows\system32\config\systemprofile
+2228	MsMpEng.exe	0x297e0f41af0	windir	C:\Windows
+2228	MsMpEng.exe	0x297e0f41af0	ndows\system32\config\systemprofil	ndows\system32\config\systemprofile
+2228	MsMpEng.exe	0x297e0f41af0	windir	C:\Windows
+2228	MsMpEng.exe	0x297e0f41af0	fig\systemprofil	fig\systemprofile
+2228	MsMpEng.exe	0x297e0f41af0	windir	C:\Windows
+2484	WmiPrvSE.exe	0x20232a31af0	ALLUSERSPROFILE	C:\ProgramData
+2484	WmiPrvSE.exe	0x20232a31af0	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+2484	WmiPrvSE.exe	0x20232a31af0	CommonProgramFiles	C:\Program Files\Common Files
+2484	WmiPrvSE.exe	0x20232a31af0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+2484	WmiPrvSE.exe	0x20232a31af0	CommonProgramW6432	C:\Program Files\Common Files
+2484	WmiPrvSE.exe	0x20232a31af0	COMPUTERNAME	DESKTOP-G8BLC8O
+2484	WmiPrvSE.exe	0x20232a31af0	ComSpec	C:\Windows\system32\cmd.exe
+2484	WmiPrvSE.exe	0x20232a31af0	DriverData	C:\Windows\System32\Drivers\DriverData
+2484	WmiPrvSE.exe	0x20232a31af0	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+2484	WmiPrvSE.exe	0x20232a31af0	NUMBER_OF_PROCESSORS	2
+2484	WmiPrvSE.exe	0x20232a31af0	OS	Windows_NT
+2484	WmiPrvSE.exe	0x20232a31af0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+2484	WmiPrvSE.exe	0x20232a31af0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2484	WmiPrvSE.exe	0x20232a31af0	PROCESSOR_ARCHITECTURE	AMD64
+2484	WmiPrvSE.exe	0x20232a31af0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+2484	WmiPrvSE.exe	0x20232a31af0	PROCESSOR_LEVEL	6
+2484	WmiPrvSE.exe	0x20232a31af0	PROCESSOR_REVISION	a502
+2484	WmiPrvSE.exe	0x20232a31af0	ProgramData	C:\ProgramData
+2484	WmiPrvSE.exe	0x20232a31af0	ProgramFiles	C:\Program Files
+2484	WmiPrvSE.exe	0x20232a31af0	ProgramFiles(x86)	C:\Program Files (x86)
+2484	WmiPrvSE.exe	0x20232a31af0	ProgramW6432	C:\Program Files
+2484	WmiPrvSE.exe	0x20232a31af0	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+2484	WmiPrvSE.exe	0x20232a31af0	PUBLIC	C:\Users\Public
+2484	WmiPrvSE.exe	0x20232a31af0	SystemDrive	C:
+2484	WmiPrvSE.exe	0x20232a31af0	SystemRoot	C:\Windows
+2484	WmiPrvSE.exe	0x20232a31af0	TEMP	C:\Windows\TEMP
+2484	WmiPrvSE.exe	0x20232a31af0	TMP	C:\Windows\TEMP
+2484	WmiPrvSE.exe	0x20232a31af0	USERDOMAIN	WORKGROUP
+2484	WmiPrvSE.exe	0x20232a31af0	USERNAME	DESKTOP-G8BLC8O$
+2484	WmiPrvSE.exe	0x20232a31af0	USERPROFILE	C:\Windows\system32\config\systemprofile
+2484	WmiPrvSE.exe	0x20232a31af0	windir	C:\Windows
+2808	dllhost.exe	0x26241111af0	ALLUSERSPROFILE	C:\ProgramData
+2808	dllhost.exe	0x26241111af0	APPDATA	C:\Windows\system32\config\systemprofile\AppData\Roaming
+2808	dllhost.exe	0x26241111af0	CommonProgramFiles	C:\Program Files\Common Files
+2808	dllhost.exe	0x26241111af0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+2808	dllhost.exe	0x26241111af0	CommonProgramW6432	C:\Program Files\Common Files
+2808	dllhost.exe	0x26241111af0	COMPUTERNAME	DESKTOP-G8BLC8O
+2808	dllhost.exe	0x26241111af0	ComSpec	C:\Windows\system32\cmd.exe
+2808	dllhost.exe	0x26241111af0	DriverData	C:\Windows\System32\Drivers\DriverData
+2808	dllhost.exe	0x26241111af0	LOCALAPPDATA	C:\Windows\system32\config\systemprofile\AppData\Local
+2808	dllhost.exe	0x26241111af0	NUMBER_OF_PROCESSORS	2
+2808	dllhost.exe	0x26241111af0	OS	Windows_NT
+2808	dllhost.exe	0x26241111af0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+2808	dllhost.exe	0x26241111af0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2808	dllhost.exe	0x26241111af0	PROCESSOR_ARCHITECTURE	AMD64
+2808	dllhost.exe	0x26241111af0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+2808	dllhost.exe	0x26241111af0	PROCESSOR_LEVEL	6
+2808	dllhost.exe	0x26241111af0	PROCESSOR_REVISION	a502
+2808	dllhost.exe	0x26241111af0	ProgramData	C:\ProgramData
+2808	dllhost.exe	0x26241111af0	ProgramFiles	C:\Program Files
+2808	dllhost.exe	0x26241111af0	ProgramFiles(x86)	C:\Program Files (x86)
+2808	dllhost.exe	0x26241111af0	ProgramW6432	C:\Program Files
+2808	dllhost.exe	0x26241111af0	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+2808	dllhost.exe	0x26241111af0	PUBLIC	C:\Users\Public
+2808	dllhost.exe	0x26241111af0	SystemDrive	C:
+2808	dllhost.exe	0x26241111af0	SystemRoot	C:\Windows
+2808	dllhost.exe	0x26241111af0	TEMP	C:\Windows\TEMP
+2808	dllhost.exe	0x26241111af0	TMP	C:\Windows\TEMP
+2808	dllhost.exe	0x26241111af0	USERDOMAIN	WORKGROUP
+2808	dllhost.exe	0x26241111af0	USERNAME	DESKTOP-G8BLC8O$
+2808	dllhost.exe	0x26241111af0	USERPROFILE	C:\Windows\system32\config\systemprofile
+2808	dllhost.exe	0x26241111af0	windir	C:\Windows
+712	msdtc.exe	0x1aa8b451b70	ALLUSERSPROFILE	C:\ProgramData
+712	msdtc.exe	0x1aa8b451b70	APPDATA	C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+712	msdtc.exe	0x1aa8b451b70	CommonProgramFiles	C:\Program Files\Common Files
+712	msdtc.exe	0x1aa8b451b70	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+712	msdtc.exe	0x1aa8b451b70	CommonProgramW6432	C:\Program Files\Common Files
+712	msdtc.exe	0x1aa8b451b70	COMPUTERNAME	DESKTOP-G8BLC8O
+712	msdtc.exe	0x1aa8b451b70	ComSpec	C:\Windows\system32\cmd.exe
+712	msdtc.exe	0x1aa8b451b70	DriverData	C:\Windows\System32\Drivers\DriverData
+712	msdtc.exe	0x1aa8b451b70	LOCALAPPDATA	C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+712	msdtc.exe	0x1aa8b451b70	NUMBER_OF_PROCESSORS	2
+712	msdtc.exe	0x1aa8b451b70	OS	Windows_NT
+712	msdtc.exe	0x1aa8b451b70	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\WindowsApps
+712	msdtc.exe	0x1aa8b451b70	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+712	msdtc.exe	0x1aa8b451b70	PROCESSOR_ARCHITECTURE	AMD64
+712	msdtc.exe	0x1aa8b451b70	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+712	msdtc.exe	0x1aa8b451b70	PROCESSOR_LEVEL	6
+712	msdtc.exe	0x1aa8b451b70	PROCESSOR_REVISION	a502
+712	msdtc.exe	0x1aa8b451b70	ProgramData	C:\ProgramData
+712	msdtc.exe	0x1aa8b451b70	ProgramFiles	C:\Program Files
+712	msdtc.exe	0x1aa8b451b70	ProgramFiles(x86)	C:\Program Files (x86)
+712	msdtc.exe	0x1aa8b451b70	ProgramW6432	C:\Program Files
+712	msdtc.exe	0x1aa8b451b70	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+712	msdtc.exe	0x1aa8b451b70	PUBLIC	C:\Users\Public
+712	msdtc.exe	0x1aa8b451b70	SystemDrive	C:
+712	msdtc.exe	0x1aa8b451b70	SystemRoot	C:\Windows
+712	msdtc.exe	0x1aa8b451b70	TEMP	C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+712	msdtc.exe	0x1aa8b451b70	TMP	C:\Windows\SERVIC~1\NETWOR~1\AppData\Local\Temp
+712	msdtc.exe	0x1aa8b451b70	USERDOMAIN	WORKGROUP
+712	msdtc.exe	0x1aa8b451b70	USERNAME	DESKTOP-G8BLC8O$
+712	msdtc.exe	0x1aa8b451b70	USERPROFILE	C:\Windows\ServiceProfiles\NetworkService
+712	msdtc.exe	0x1aa8b451b70	windir	C:\Windows
+1688	sihost.exe	0x218769e1b20	ALLUSERSPROFILE	C:\ProgramData
+1688	sihost.exe	0x218769e1b20	APPDATA	C:\Users\CSGO\AppData\Roaming
+1688	sihost.exe	0x218769e1b20	CommonProgramFiles	C:\Program Files\Common Files
+1688	sihost.exe	0x218769e1b20	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1688	sihost.exe	0x218769e1b20	CommonProgramW6432	C:\Program Files\Common Files
+1688	sihost.exe	0x218769e1b20	COMPUTERNAME	DESKTOP-G8BLC8O
+1688	sihost.exe	0x218769e1b20	ComSpec	C:\Windows\system32\cmd.exe
+1688	sihost.exe	0x218769e1b20	DriverData	C:\Windows\System32\Drivers\DriverData
+1688	sihost.exe	0x218769e1b20	HOMEDRIVE	C:
+1688	sihost.exe	0x218769e1b20	HOMEPATH	\Users\CSGO
+1688	sihost.exe	0x218769e1b20	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+1688	sihost.exe	0x218769e1b20	LOGONSERVER	\\DESKTOP-G8BLC8O
+1688	sihost.exe	0x218769e1b20	NUMBER_OF_PROCESSORS	2
+1688	sihost.exe	0x218769e1b20	OS	Windows_NT
+1688	sihost.exe	0x218769e1b20	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+1688	sihost.exe	0x218769e1b20	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+1688	sihost.exe	0x218769e1b20	PROCESSOR_ARCHITECTURE	AMD64
+1688	sihost.exe	0x218769e1b20	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1688	sihost.exe	0x218769e1b20	PROCESSOR_LEVEL	6
+1688	sihost.exe	0x218769e1b20	PROCESSOR_REVISION	a502
+1688	sihost.exe	0x218769e1b20	ProgramData	C:\ProgramData
+1688	sihost.exe	0x218769e1b20	ProgramFiles	C:\Program Files
+1688	sihost.exe	0x218769e1b20	ProgramFiles(x86)	C:\Program Files (x86)
+1688	sihost.exe	0x218769e1b20	ProgramW6432	C:\Program Files
+1688	sihost.exe	0x218769e1b20	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1688	sihost.exe	0x218769e1b20	PUBLIC	C:\Users\Public
+1688	sihost.exe	0x218769e1b20	SystemDrive	C:
+1688	sihost.exe	0x218769e1b20	SystemRoot	C:\Windows
+1688	sihost.exe	0x218769e1b20	TEMP	C:\Users\CSGO\AppData\Local\Temp
+1688	sihost.exe	0x218769e1b20	TMP	C:\Users\CSGO\AppData\Local\Temp
+1688	sihost.exe	0x218769e1b20	USERDOMAIN	DESKTOP-G8BLC8O
+1688	sihost.exe	0x218769e1b20	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+1688	sihost.exe	0x218769e1b20	USERNAME	CSGO
+1688	sihost.exe	0x218769e1b20	USERPROFILE	C:\Users\CSGO
+1688	sihost.exe	0x218769e1b20	windir	C:\Windows
+2540	svchost.exe	0x192b3e03340	ALLUSERSPROFILE	C:\ProgramData
+2540	svchost.exe	0x192b3e03340	APPDATA	C:\Users\CSGO\AppData\Roaming
+2540	svchost.exe	0x192b3e03340	CommonProgramFiles	C:\Program Files\Common Files
+2540	svchost.exe	0x192b3e03340	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+2540	svchost.exe	0x192b3e03340	CommonProgramW6432	C:\Program Files\Common Files
+2540	svchost.exe	0x192b3e03340	COMPUTERNAME	DESKTOP-G8BLC8O
+2540	svchost.exe	0x192b3e03340	ComSpec	C:\Windows\system32\cmd.exe
+2540	svchost.exe	0x192b3e03340	DriverData	C:\Windows\System32\Drivers\DriverData
+2540	svchost.exe	0x192b3e03340	HOMEDRIVE	C:
+2540	svchost.exe	0x192b3e03340	HOMEPATH	\Users\CSGO
+2540	svchost.exe	0x192b3e03340	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+2540	svchost.exe	0x192b3e03340	LOGONSERVER	\\DESKTOP-G8BLC8O
+2540	svchost.exe	0x192b3e03340	NUMBER_OF_PROCESSORS	2
+2540	svchost.exe	0x192b3e03340	OS	Windows_NT
+2540	svchost.exe	0x192b3e03340	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+2540	svchost.exe	0x192b3e03340	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2540	svchost.exe	0x192b3e03340	PROCESSOR_ARCHITECTURE	AMD64
+2540	svchost.exe	0x192b3e03340	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+2540	svchost.exe	0x192b3e03340	PROCESSOR_LEVEL	6
+2540	svchost.exe	0x192b3e03340	PROCESSOR_REVISION	a502
+2540	svchost.exe	0x192b3e03340	ProgramData	C:\ProgramData
+2540	svchost.exe	0x192b3e03340	ProgramFiles	C:\Program Files
+2540	svchost.exe	0x192b3e03340	ProgramFiles(x86)	C:\Program Files (x86)
+2540	svchost.exe	0x192b3e03340	ProgramW6432	C:\Program Files
+2540	svchost.exe	0x192b3e03340	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+2540	svchost.exe	0x192b3e03340	PUBLIC	C:\Users\Public
+2540	svchost.exe	0x192b3e03340	SystemDrive	C:
+2540	svchost.exe	0x192b3e03340	SystemRoot	C:\Windows
+2540	svchost.exe	0x192b3e03340	TEMP	C:\Users\CSGO\AppData\Local\Temp
+2540	svchost.exe	0x192b3e03340	TMP	C:\Users\CSGO\AppData\Local\Temp
+2540	svchost.exe	0x192b3e03340	USERDOMAIN	DESKTOP-G8BLC8O
+2540	svchost.exe	0x192b3e03340	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+2540	svchost.exe	0x192b3e03340	USERNAME	CSGO
+2540	svchost.exe	0x192b3e03340	USERPROFILE	C:\Users\CSGO
+2540	svchost.exe	0x192b3e03340	windir	C:\Windows
+3364	ctfmon.exe	0x2b441611b20	ALLUSERSPROFILE	C:\ProgramData
+3364	ctfmon.exe	0x2b441611b20	APPDATA	C:\Users\CSGO\AppData\Roaming
+3364	ctfmon.exe	0x2b441611b20	CommonProgramFiles	C:\Program Files\Common Files
+3364	ctfmon.exe	0x2b441611b20	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+3364	ctfmon.exe	0x2b441611b20	CommonProgramW6432	C:\Program Files\Common Files
+3364	ctfmon.exe	0x2b441611b20	COMPUTERNAME	DESKTOP-G8BLC8O
+3364	ctfmon.exe	0x2b441611b20	ComSpec	C:\Windows\system32\cmd.exe
+3364	ctfmon.exe	0x2b441611b20	DriverData	C:\Windows\System32\Drivers\DriverData
+3364	ctfmon.exe	0x2b441611b20	HOMEDRIVE	C:
+3364	ctfmon.exe	0x2b441611b20	HOMEPATH	\Users\CSGO
+3364	ctfmon.exe	0x2b441611b20	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+3364	ctfmon.exe	0x2b441611b20	LOGONSERVER	\\DESKTOP-G8BLC8O
+3364	ctfmon.exe	0x2b441611b20	NUMBER_OF_PROCESSORS	2
+3364	ctfmon.exe	0x2b441611b20	OS	Windows_NT
+3364	ctfmon.exe	0x2b441611b20	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+3364	ctfmon.exe	0x2b441611b20	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3364	ctfmon.exe	0x2b441611b20	PROCESSOR_ARCHITECTURE	AMD64
+3364	ctfmon.exe	0x2b441611b20	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+3364	ctfmon.exe	0x2b441611b20	PROCESSOR_LEVEL	6
+3364	ctfmon.exe	0x2b441611b20	PROCESSOR_REVISION	a502
+3364	ctfmon.exe	0x2b441611b20	ProgramData	C:\ProgramData
+3364	ctfmon.exe	0x2b441611b20	ProgramFiles	C:\Program Files
+3364	ctfmon.exe	0x2b441611b20	ProgramFiles(x86)	C:\Program Files (x86)
+3364	ctfmon.exe	0x2b441611b20	ProgramW6432	C:\Program Files
+3364	ctfmon.exe	0x2b441611b20	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+3364	ctfmon.exe	0x2b441611b20	PUBLIC	C:\Users\Public
+3364	ctfmon.exe	0x2b441611b20	SystemDrive	C:
+3364	ctfmon.exe	0x2b441611b20	SystemRoot	C:\Windows
+3364	ctfmon.exe	0x2b441611b20	TEMP	C:\Users\CSGO\AppData\Local\Temp
+3364	ctfmon.exe	0x2b441611b20	TMP	C:\Users\CSGO\AppData\Local\Temp
+3364	ctfmon.exe	0x2b441611b20	USERDOMAIN	DESKTOP-G8BLC8O
+3364	ctfmon.exe	0x2b441611b20	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+3364	ctfmon.exe	0x2b441611b20	USERNAME	CSGO
+3364	ctfmon.exe	0x2b441611b20	USERPROFILE	C:\Users\CSGO
+3364	ctfmon.exe	0x2b441611b20	windir	C:\Windows
+3604	explorer.exe	0x1221b50	ALLUSERSPROFILE	C:\ProgramData
+3604	explorer.exe	0x1221b50	APPDATA	C:\Users\CSGO\AppData\Roaming
+3604	explorer.exe	0x1221b50	CommonProgramFiles	C:\Program Files\Common Files
+3604	explorer.exe	0x1221b50	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+3604	explorer.exe	0x1221b50	CommonProgramW6432	C:\Program Files\Common Files
+3604	explorer.exe	0x1221b50	COMPUTERNAME	DESKTOP-G8BLC8O
+3604	explorer.exe	0x1221b50	ComSpec	C:\Windows\system32\cmd.exe
+3604	explorer.exe	0x1221b50	DriverData	C:\Windows\System32\Drivers\DriverData
+3604	explorer.exe	0x1221b50	HOMEDRIVE	C:
+3604	explorer.exe	0x1221b50	HOMEPATH	\Users\CSGO
+3604	explorer.exe	0x1221b50	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+3604	explorer.exe	0x1221b50	LOGONSERVER	\\DESKTOP-G8BLC8O
+3604	explorer.exe	0x1221b50	NUMBER_OF_PROCESSORS	2
+3604	explorer.exe	0x1221b50	OS	Windows_NT
+3604	explorer.exe	0x1221b50	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps;
+3604	explorer.exe	0x1221b50	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3604	explorer.exe	0x1221b50	PROCESSOR_ARCHITECTURE	AMD64
+3604	explorer.exe	0x1221b50	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+3604	explorer.exe	0x1221b50	PROCESSOR_LEVEL	6
+3604	explorer.exe	0x1221b50	PROCESSOR_REVISION	a502
+3604	explorer.exe	0x1221b50	ProgramData	C:\ProgramData
+3604	explorer.exe	0x1221b50	ProgramFiles	C:\Program Files
+3604	explorer.exe	0x1221b50	ProgramFiles(x86)	C:\Program Files (x86)
+3604	explorer.exe	0x1221b50	ProgramW6432	C:\Program Files
+3604	explorer.exe	0x1221b50	PSModulePath	C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+3604	explorer.exe	0x1221b50	PUBLIC	C:\Users\Public
+3604	explorer.exe	0x1221b50	SESSIONNAME	Console
+3604	explorer.exe	0x1221b50	SystemDrive	C:
+3604	explorer.exe	0x1221b50	SystemRoot	C:\Windows
+3604	explorer.exe	0x1221b50	TEMP	C:\Users\CSGO\AppData\Local\Temp
+3604	explorer.exe	0x1221b50	TMP	C:\Users\CSGO\AppData\Local\Temp
+3604	explorer.exe	0x1221b50	USERDOMAIN	DESKTOP-G8BLC8O
+3604	explorer.exe	0x1221b50	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+3604	explorer.exe	0x1221b50	USERNAME	CSGO
+3604	explorer.exe	0x1221b50	USERPROFILE	C:\Users\CSGO
+3604	explorer.exe	0x1221b50	windir	C:\Windows
+3840	svchost.exe	0x1df0d203340	ALLUSERSPROFILE	C:\ProgramData
+3840	svchost.exe	0x1df0d203340	APPDATA	C:\Users\CSGO\AppData\Roaming
+3840	svchost.exe	0x1df0d203340	CommonProgramFiles	C:\Program Files\Common Files
+3840	svchost.exe	0x1df0d203340	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+3840	svchost.exe	0x1df0d203340	CommonProgramW6432	C:\Program Files\Common Files
+3840	svchost.exe	0x1df0d203340	COMPUTERNAME	DESKTOP-G8BLC8O
+3840	svchost.exe	0x1df0d203340	ComSpec	C:\Windows\system32\cmd.exe
+3840	svchost.exe	0x1df0d203340	DriverData	C:\Windows\System32\Drivers\DriverData
+3840	svchost.exe	0x1df0d203340	HOMEDRIVE	C:
+3840	svchost.exe	0x1df0d203340	HOMEPATH	\Users\CSGO
+3840	svchost.exe	0x1df0d203340	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+3840	svchost.exe	0x1df0d203340	LOGONSERVER	\\DESKTOP-G8BLC8O
+3840	svchost.exe	0x1df0d203340	NUMBER_OF_PROCESSORS	2
+3840	svchost.exe	0x1df0d203340	OS	Windows_NT
+3840	svchost.exe	0x1df0d203340	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+3840	svchost.exe	0x1df0d203340	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3840	svchost.exe	0x1df0d203340	PROCESSOR_ARCHITECTURE	AMD64
+3840	svchost.exe	0x1df0d203340	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+3840	svchost.exe	0x1df0d203340	PROCESSOR_LEVEL	6
+3840	svchost.exe	0x1df0d203340	PROCESSOR_REVISION	a502
+3840	svchost.exe	0x1df0d203340	ProgramData	C:\ProgramData
+3840	svchost.exe	0x1df0d203340	ProgramFiles	C:\Program Files
+3840	svchost.exe	0x1df0d203340	ProgramFiles(x86)	C:\Program Files (x86)
+3840	svchost.exe	0x1df0d203340	ProgramW6432	C:\Program Files
+3840	svchost.exe	0x1df0d203340	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+3840	svchost.exe	0x1df0d203340	PUBLIC	C:\Users\Public
+3840	svchost.exe	0x1df0d203340	SystemDrive	C:
+3840	svchost.exe	0x1df0d203340	SystemRoot	C:\Windows
+3840	svchost.exe	0x1df0d203340	TEMP	C:\Users\CSGO\AppData\Local\Temp
+3840	svchost.exe	0x1df0d203340	TMP	C:\Users\CSGO\AppData\Local\Temp
+3840	svchost.exe	0x1df0d203340	USERDOMAIN	DESKTOP-G8BLC8O
+3840	svchost.exe	0x1df0d203340	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+3840	svchost.exe	0x1df0d203340	USERNAME	CSGO
+3840	svchost.exe	0x1df0d203340	USERPROFILE	C:\Users\CSGO
+3840	svchost.exe	0x1df0d203340	windir	C:\Windows
+3940	dllhost.exe	0x1871a681b60	ALLUSERSPROFILE	C:\ProgramData
+3940	dllhost.exe	0x1871a681b60	APPDATA	C:\Users\CSGO\AppData\Roaming
+3940	dllhost.exe	0x1871a681b60	CommonProgramFiles	C:\Program Files\Common Files
+3940	dllhost.exe	0x1871a681b60	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+3940	dllhost.exe	0x1871a681b60	CommonProgramW6432	C:\Program Files\Common Files
+3940	dllhost.exe	0x1871a681b60	COMPUTERNAME	DESKTOP-G8BLC8O
+3940	dllhost.exe	0x1871a681b60	ComSpec	C:\Windows\system32\cmd.exe
+3940	dllhost.exe	0x1871a681b60	DriverData	C:\Windows\System32\Drivers\DriverData
+3940	dllhost.exe	0x1871a681b60	HOMEDRIVE	C:
+3940	dllhost.exe	0x1871a681b60	HOMEPATH	\Users\CSGO
+3940	dllhost.exe	0x1871a681b60	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+3940	dllhost.exe	0x1871a681b60	LOGONSERVER	\\DESKTOP-G8BLC8O
+3940	dllhost.exe	0x1871a681b60	NUMBER_OF_PROCESSORS	2
+3940	dllhost.exe	0x1871a681b60	OS	Windows_NT
+3940	dllhost.exe	0x1871a681b60	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps;
+3940	dllhost.exe	0x1871a681b60	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3940	dllhost.exe	0x1871a681b60	PROCESSOR_ARCHITECTURE	AMD64
+3940	dllhost.exe	0x1871a681b60	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+3940	dllhost.exe	0x1871a681b60	PROCESSOR_LEVEL	6
+3940	dllhost.exe	0x1871a681b60	PROCESSOR_REVISION	a502
+3940	dllhost.exe	0x1871a681b60	ProgramData	C:\ProgramData
+3940	dllhost.exe	0x1871a681b60	ProgramFiles	C:\Program Files
+3940	dllhost.exe	0x1871a681b60	ProgramFiles(x86)	C:\Program Files (x86)
+3940	dllhost.exe	0x1871a681b60	ProgramW6432	C:\Program Files
+3940	dllhost.exe	0x1871a681b60	PSModulePath	C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+3940	dllhost.exe	0x1871a681b60	PUBLIC	C:\Users\Public
+3940	dllhost.exe	0x1871a681b60	SESSIONNAME	Console
+3940	dllhost.exe	0x1871a681b60	SystemDrive	C:
+3940	dllhost.exe	0x1871a681b60	SystemRoot	C:\Windows
+3940	dllhost.exe	0x1871a681b60	TEMP	C:\Users\CSGO\AppData\Local\Temp
+3940	dllhost.exe	0x1871a681b60	TMP	C:\Users\CSGO\AppData\Local\Temp
+3940	dllhost.exe	0x1871a681b60	USERDOMAIN	DESKTOP-G8BLC8O
+3940	dllhost.exe	0x1871a681b60	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+3940	dllhost.exe	0x1871a681b60	USERNAME	CSGO
+3940	dllhost.exe	0x1871a681b60	USERPROFILE	C:\Users\CSGO
+3940	dllhost.exe	0x1871a681b60	windir	C:\Windows
+3720	StartMenuExper	0x2a3596034d0	ALLUSERSPROFILE	C:\ProgramData
+3720	StartMenuExper	0x2a3596034d0	APPDATA	C:\Users\CSGO\AppData\Roaming
+3720	StartMenuExper	0x2a3596034d0	CommonProgramFiles	C:\Program Files\Common Files
+3720	StartMenuExper	0x2a3596034d0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+3720	StartMenuExper	0x2a3596034d0	CommonProgramW6432	C:\Program Files\Common Files
+3720	StartMenuExper	0x2a3596034d0	COMPUTERNAME	DESKTOP-G8BLC8O
+3720	StartMenuExper	0x2a3596034d0	ComSpec	C:\Windows\system32\cmd.exe
+3720	StartMenuExper	0x2a3596034d0	DriverData	C:\Windows\System32\Drivers\DriverData
+3720	StartMenuExper	0x2a3596034d0	HOMEDRIVE	C:
+3720	StartMenuExper	0x2a3596034d0	HOMEPATH	\Users\CSGO
+3720	StartMenuExper	0x2a3596034d0	LOCALAPPDATA	C:\Users\CSGO\AppData\Local\Packages\microsoft.windows.startmenuexperiencehost_cw5n1h2txyewy\AC
+3720	StartMenuExper	0x2a3596034d0	LOGONSERVER	\\DESKTOP-G8BLC8O
+3720	StartMenuExper	0x2a3596034d0	NUMBER_OF_PROCESSORS	2
+3720	StartMenuExper	0x2a3596034d0	OS	Windows_NT
+3720	StartMenuExper	0x2a3596034d0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+3720	StartMenuExper	0x2a3596034d0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3720	StartMenuExper	0x2a3596034d0	PROCESSOR_ARCHITECTURE	AMD64
+3720	StartMenuExper	0x2a3596034d0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+3720	StartMenuExper	0x2a3596034d0	PROCESSOR_LEVEL	6
+3720	StartMenuExper	0x2a3596034d0	PROCESSOR_REVISION	a502
+3720	StartMenuExper	0x2a3596034d0	ProgramData	C:\ProgramData
+3720	StartMenuExper	0x2a3596034d0	ProgramFiles	C:\Program Files
+3720	StartMenuExper	0x2a3596034d0	ProgramFiles(x86)	C:\Program Files (x86)
+3720	StartMenuExper	0x2a3596034d0	ProgramW6432	C:\Program Files
+3720	StartMenuExper	0x2a3596034d0	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+3720	StartMenuExper	0x2a3596034d0	PUBLIC	C:\Users\Public
+3720	StartMenuExper	0x2a3596034d0	SystemDrive	C:
+3720	StartMenuExper	0x2a3596034d0	SystemRoot	C:\Windows
+3720	StartMenuExper	0x2a3596034d0	TEMP	C:\Users\CSGO\AppData\Local\Packages\microsoft.windows.startmenuexperiencehost_cw5n1h2txyewy\AC\Temp
+3720	StartMenuExper	0x2a3596034d0	TMP	C:\Users\CSGO\AppData\Local\Packages\microsoft.windows.startmenuexperiencehost_cw5n1h2txyewy\AC\Temp
+3720	StartMenuExper	0x2a3596034d0	USERDOMAIN	DESKTOP-G8BLC8O
+3720	StartMenuExper	0x2a3596034d0	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+3720	StartMenuExper	0x2a3596034d0	USERNAME	CSGO
+3720	StartMenuExper	0x2a3596034d0	USERPROFILE	C:\Users\CSGO
+3720	StartMenuExper	0x2a3596034d0	windir	C:\Windows
+4140	RuntimeBroker.	0x26cfce03340	ALLUSERSPROFILE	C:\ProgramData
+4140	RuntimeBroker.	0x26cfce03340	APPDATA	C:\Users\CSGO\AppData\Roaming
+4140	RuntimeBroker.	0x26cfce03340	CommonProgramFiles	C:\Program Files\Common Files
+4140	RuntimeBroker.	0x26cfce03340	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+4140	RuntimeBroker.	0x26cfce03340	CommonProgramW6432	C:\Program Files\Common Files
+4140	RuntimeBroker.	0x26cfce03340	COMPUTERNAME	DESKTOP-G8BLC8O
+4140	RuntimeBroker.	0x26cfce03340	ComSpec	C:\Windows\system32\cmd.exe
+4140	RuntimeBroker.	0x26cfce03340	DriverData	C:\Windows\System32\Drivers\DriverData
+4140	RuntimeBroker.	0x26cfce03340	HOMEDRIVE	C:
+4140	RuntimeBroker.	0x26cfce03340	HOMEPATH	\Users\CSGO
+4140	RuntimeBroker.	0x26cfce03340	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+4140	RuntimeBroker.	0x26cfce03340	LOGONSERVER	\\DESKTOP-G8BLC8O
+4140	RuntimeBroker.	0x26cfce03340	NUMBER_OF_PROCESSORS	2
+4140	RuntimeBroker.	0x26cfce03340	OS	Windows_NT
+4140	RuntimeBroker.	0x26cfce03340	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+4140	RuntimeBroker.	0x26cfce03340	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+4140	RuntimeBroker.	0x26cfce03340	PROCESSOR_ARCHITECTURE	AMD64
+4140	RuntimeBroker.	0x26cfce03340	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+4140	RuntimeBroker.	0x26cfce03340	PROCESSOR_LEVEL	6
+4140	RuntimeBroker.	0x26cfce03340	PROCESSOR_REVISION	a502
+4140	RuntimeBroker.	0x26cfce03340	ProgramData	C:\ProgramData
+4140	RuntimeBroker.	0x26cfce03340	ProgramFiles	C:\Program Files
+4140	RuntimeBroker.	0x26cfce03340	ProgramFiles(x86)	C:\Program Files (x86)
+4140	RuntimeBroker.	0x26cfce03340	ProgramW6432	C:\Program Files
+4140	RuntimeBroker.	0x26cfce03340	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+4140	RuntimeBroker.	0x26cfce03340	PUBLIC	C:\Users\Public
+4140	RuntimeBroker.	0x26cfce03340	SystemDrive	C:
+4140	RuntimeBroker.	0x26cfce03340	SystemRoot	C:\Windows
+4140	RuntimeBroker.	0x26cfce03340	TEMP	C:\Users\CSGO\AppData\Local\Temp
+4140	RuntimeBroker.	0x26cfce03340	TMP	C:\Users\CSGO\AppData\Local\Temp
+4140	RuntimeBroker.	0x26cfce03340	USERDOMAIN	DESKTOP-G8BLC8O
+4140	RuntimeBroker.	0x26cfce03340	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+4140	RuntimeBroker.	0x26cfce03340	USERNAME	CSGO
+4140	RuntimeBroker.	0x26cfce03340	USERPROFILE	C:\Users\CSGO
+4140	RuntimeBroker.	0x26cfce03340	windir	C:\Windows
+4528	RuntimeBroker.	0x22ce4803340	ALLUSERSPROFILE	C:\ProgramData
+4528	RuntimeBroker.	0x22ce4803340	APPDATA	C:\Users\CSGO\AppData\Roaming
+4528	RuntimeBroker.	0x22ce4803340	CommonProgramFiles	C:\Program Files\Common Files
+4528	RuntimeBroker.	0x22ce4803340	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+4528	RuntimeBroker.	0x22ce4803340	CommonProgramW6432	C:\Program Files\Common Files
+4528	RuntimeBroker.	0x22ce4803340	COMPUTERNAME	DESKTOP-G8BLC8O
+4528	RuntimeBroker.	0x22ce4803340	ComSpec	C:\Windows\system32\cmd.exe
+4528	RuntimeBroker.	0x22ce4803340	DriverData	C:\Windows\System32\Drivers\DriverData
+4528	RuntimeBroker.	0x22ce4803340	HOMEDRIVE	C:
+4528	RuntimeBroker.	0x22ce4803340	HOMEPATH	\Users\CSGO
+4528	RuntimeBroker.	0x22ce4803340	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+4528	RuntimeBroker.	0x22ce4803340	LOGONSERVER	\\DESKTOP-G8BLC8O
+4528	RuntimeBroker.	0x22ce4803340	NUMBER_OF_PROCESSORS	2
+4528	RuntimeBroker.	0x22ce4803340	OS	Windows_NT
+4528	RuntimeBroker.	0x22ce4803340	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+4528	RuntimeBroker.	0x22ce4803340	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+4528	RuntimeBroker.	0x22ce4803340	PROCESSOR_ARCHITECTURE	AMD64
+4528	RuntimeBroker.	0x22ce4803340	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+4528	RuntimeBroker.	0x22ce4803340	PROCESSOR_LEVEL	6
+4528	RuntimeBroker.	0x22ce4803340	PROCESSOR_REVISION	a502
+4528	RuntimeBroker.	0x22ce4803340	ProgramData	C:\ProgramData
+4528	RuntimeBroker.	0x22ce4803340	ProgramFiles	C:\Program Files
+4528	RuntimeBroker.	0x22ce4803340	ProgramFiles(x86)	C:\Program Files (x86)
+4528	RuntimeBroker.	0x22ce4803340	ProgramW6432	C:\Program Files
+4528	RuntimeBroker.	0x22ce4803340	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+4528	RuntimeBroker.	0x22ce4803340	PUBLIC	C:\Users\Public
+4528	RuntimeBroker.	0x22ce4803340	SystemDrive	C:
+4528	RuntimeBroker.	0x22ce4803340	SystemRoot	C:\Windows
+4528	RuntimeBroker.	0x22ce4803340	TEMP	C:\Users\CSGO\AppData\Local\Temp
+4528	RuntimeBroker.	0x22ce4803340	TMP	C:\Users\CSGO\AppData\Local\Temp
+4528	RuntimeBroker.	0x22ce4803340	USERDOMAIN	DESKTOP-G8BLC8O
+4528	RuntimeBroker.	0x22ce4803340	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+4528	RuntimeBroker.	0x22ce4803340	USERNAME	CSGO
+4528	RuntimeBroker.	0x22ce4803340	USERPROFILE	C:\Users\CSGO
+4528	RuntimeBroker.	0x22ce4803340	windir	C:\Windows
+4596	ApplicationFra	0x2000e8b1b20	ALLUSERSPROFILE	C:\ProgramData
+4596	ApplicationFra	0x2000e8b1b20	APPDATA	C:\Users\CSGO\AppData\Roaming
+4596	ApplicationFra	0x2000e8b1b20	CommonProgramFiles	C:\Program Files\Common Files
+4596	ApplicationFra	0x2000e8b1b20	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+4596	ApplicationFra	0x2000e8b1b20	CommonProgramW6432	C:\Program Files\Common Files
+4596	ApplicationFra	0x2000e8b1b20	COMPUTERNAME	DESKTOP-G8BLC8O
+4596	ApplicationFra	0x2000e8b1b20	ComSpec	C:\Windows\system32\cmd.exe
+4596	ApplicationFra	0x2000e8b1b20	DriverData	C:\Windows\System32\Drivers\DriverData
+4596	ApplicationFra	0x2000e8b1b20	HOMEDRIVE	C:
+4596	ApplicationFra	0x2000e8b1b20	HOMEPATH	\Users\CSGO
+4596	ApplicationFra	0x2000e8b1b20	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+4596	ApplicationFra	0x2000e8b1b20	LOGONSERVER	\\DESKTOP-G8BLC8O
+4596	ApplicationFra	0x2000e8b1b20	NUMBER_OF_PROCESSORS	2
+4596	ApplicationFra	0x2000e8b1b20	OS	Windows_NT
+4596	ApplicationFra	0x2000e8b1b20	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+4596	ApplicationFra	0x2000e8b1b20	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+4596	ApplicationFra	0x2000e8b1b20	PROCESSOR_ARCHITECTURE	AMD64
+4596	ApplicationFra	0x2000e8b1b20	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+4596	ApplicationFra	0x2000e8b1b20	PROCESSOR_LEVEL	6
+4596	ApplicationFra	0x2000e8b1b20	PROCESSOR_REVISION	a502
+4596	ApplicationFra	0x2000e8b1b20	ProgramData	C:\ProgramData
+4596	ApplicationFra	0x2000e8b1b20	ProgramFiles	C:\Program Files
+4596	ApplicationFra	0x2000e8b1b20	ProgramFiles(x86)	C:\Program Files (x86)
+4596	ApplicationFra	0x2000e8b1b20	ProgramW6432	C:\Program Files
+4596	ApplicationFra	0x2000e8b1b20	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+4596	ApplicationFra	0x2000e8b1b20	PUBLIC	C:\Users\Public
+4596	ApplicationFra	0x2000e8b1b20	SystemDrive	C:
+4596	ApplicationFra	0x2000e8b1b20	SystemRoot	C:\Windows
+4596	ApplicationFra	0x2000e8b1b20	TEMP	C:\Users\CSGO\AppData\Local\Temp
+4596	ApplicationFra	0x2000e8b1b20	TMP	C:\Users\CSGO\AppData\Local\Temp
+4596	ApplicationFra	0x2000e8b1b20	USERDOMAIN	DESKTOP-G8BLC8O
+4596	ApplicationFra	0x2000e8b1b20	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+4596	ApplicationFra	0x2000e8b1b20	USERNAME	CSGO
+4596	ApplicationFra	0x2000e8b1b20	USERPROFILE	C:\Users\CSGO
+4596	ApplicationFra	0x2000e8b1b20	windir	C:\Windows
+5052	RuntimeBroker.	0x2229da03340	ALLUSERSPROFILE	C:\ProgramData
+5052	RuntimeBroker.	0x2229da03340	APPDATA	C:\Users\CSGO\AppData\Roaming
+5052	RuntimeBroker.	0x2229da03340	CommonProgramFiles	C:\Program Files\Common Files
+5052	RuntimeBroker.	0x2229da03340	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+5052	RuntimeBroker.	0x2229da03340	CommonProgramW6432	C:\Program Files\Common Files
+5052	RuntimeBroker.	0x2229da03340	COMPUTERNAME	DESKTOP-G8BLC8O
+5052	RuntimeBroker.	0x2229da03340	ComSpec	C:\Windows\system32\cmd.exe
+5052	RuntimeBroker.	0x2229da03340	DriverData	C:\Windows\System32\Drivers\DriverData
+5052	RuntimeBroker.	0x2229da03340	HOMEDRIVE	C:
+5052	RuntimeBroker.	0x2229da03340	HOMEPATH	\Users\CSGO
+5052	RuntimeBroker.	0x2229da03340	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+5052	RuntimeBroker.	0x2229da03340	LOGONSERVER	\\DESKTOP-G8BLC8O
+5052	RuntimeBroker.	0x2229da03340	NUMBER_OF_PROCESSORS	2
+5052	RuntimeBroker.	0x2229da03340	OS	Windows_NT
+5052	RuntimeBroker.	0x2229da03340	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+5052	RuntimeBroker.	0x2229da03340	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+5052	RuntimeBroker.	0x2229da03340	PROCESSOR_ARCHITECTURE	AMD64
+5052	RuntimeBroker.	0x2229da03340	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+5052	RuntimeBroker.	0x2229da03340	PROCESSOR_LEVEL	6
+5052	RuntimeBroker.	0x2229da03340	PROCESSOR_REVISION	a502
+5052	RuntimeBroker.	0x2229da03340	ProgramData	C:\ProgramData
+5052	RuntimeBroker.	0x2229da03340	ProgramFiles	C:\Program Files
+5052	RuntimeBroker.	0x2229da03340	ProgramFiles(x86)	C:\Program Files (x86)
+5052	RuntimeBroker.	0x2229da03340	ProgramW6432	C:\Program Files
+5052	RuntimeBroker.	0x2229da03340	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+5052	RuntimeBroker.	0x2229da03340	PUBLIC	C:\Users\Public
+5052	RuntimeBroker.	0x2229da03340	SystemDrive	C:
+5052	RuntimeBroker.	0x2229da03340	SystemRoot	C:\Windows
+5052	RuntimeBroker.	0x2229da03340	TEMP	C:\Users\CSGO\AppData\Local\Temp
+5052	RuntimeBroker.	0x2229da03340	TMP	C:\Users\CSGO\AppData\Local\Temp
+5052	RuntimeBroker.	0x2229da03340	USERDOMAIN	DESKTOP-G8BLC8O
+5052	RuntimeBroker.	0x2229da03340	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+5052	RuntimeBroker.	0x2229da03340	USERNAME	CSGO
+5052	RuntimeBroker.	0x2229da03340	USERPROFILE	C:\Users\CSGO
+5052	RuntimeBroker.	0x2229da03340	windir	C:\Windows
+5480	RuntimeBroker.	0x24f2d003340	ALLUSERSPROFILE	C:\ProgramData
+5480	RuntimeBroker.	0x24f2d003340	APPDATA	C:\Users\CSGO\AppData\Roaming
+5480	RuntimeBroker.	0x24f2d003340	CommonProgramFiles	C:\Program Files\Common Files
+5480	RuntimeBroker.	0x24f2d003340	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+5480	RuntimeBroker.	0x24f2d003340	CommonProgramW6432	C:\Program Files\Common Files
+5480	RuntimeBroker.	0x24f2d003340	COMPUTERNAME	DESKTOP-G8BLC8O
+5480	RuntimeBroker.	0x24f2d003340	ComSpec	C:\Windows\system32\cmd.exe
+5480	RuntimeBroker.	0x24f2d003340	DriverData	C:\Windows\System32\Drivers\DriverData
+5480	RuntimeBroker.	0x24f2d003340	HOMEDRIVE	C:
+5480	RuntimeBroker.	0x24f2d003340	HOMEPATH	\Users\CSGO
+5480	RuntimeBroker.	0x24f2d003340	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+5480	RuntimeBroker.	0x24f2d003340	LOGONSERVER	\\DESKTOP-G8BLC8O
+5480	RuntimeBroker.	0x24f2d003340	NUMBER_OF_PROCESSORS	2
+5480	RuntimeBroker.	0x24f2d003340	OS	Windows_NT
+5480	RuntimeBroker.	0x24f2d003340	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+5480	RuntimeBroker.	0x24f2d003340	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+5480	RuntimeBroker.	0x24f2d003340	PROCESSOR_ARCHITECTURE	AMD64
+5480	RuntimeBroker.	0x24f2d003340	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+5480	RuntimeBroker.	0x24f2d003340	PROCESSOR_LEVEL	6
+5480	RuntimeBroker.	0x24f2d003340	PROCESSOR_REVISION	a502
+5480	RuntimeBroker.	0x24f2d003340	ProgramData	C:\ProgramData
+5480	RuntimeBroker.	0x24f2d003340	ProgramFiles	C:\Program Files
+5480	RuntimeBroker.	0x24f2d003340	ProgramFiles(x86)	C:\Program Files (x86)
+5480	RuntimeBroker.	0x24f2d003340	ProgramW6432	C:\Program Files
+5480	RuntimeBroker.	0x24f2d003340	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+5480	RuntimeBroker.	0x24f2d003340	PUBLIC	C:\Users\Public
+5480	RuntimeBroker.	0x24f2d003340	SystemDrive	C:
+5480	RuntimeBroker.	0x24f2d003340	SystemRoot	C:\Windows
+5480	RuntimeBroker.	0x24f2d003340	TEMP	C:\Users\CSGO\AppData\Local\Temp
+5480	RuntimeBroker.	0x24f2d003340	TMP	C:\Users\CSGO\AppData\Local\Temp
+5480	RuntimeBroker.	0x24f2d003340	USERDOMAIN	DESKTOP-G8BLC8O
+5480	RuntimeBroker.	0x24f2d003340	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+5480	RuntimeBroker.	0x24f2d003340	USERNAME	CSGO
+5480	RuntimeBroker.	0x24f2d003340	USERPROFILE	C:\Users\CSGO
+5480	RuntimeBroker.	0x24f2d003340	windir	C:\Windows
+5920	smartscreen.ex	0x11004c41b20	ALLUSERSPROFILE	C:\ProgramData
+5920	smartscreen.ex	0x11004c41b20	APPDATA	C:\Users\CSGO\AppData\Roaming
+5920	smartscreen.ex	0x11004c41b20	CommonProgramFiles	C:\Program Files\Common Files
+5920	smartscreen.ex	0x11004c41b20	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+5920	smartscreen.ex	0x11004c41b20	CommonProgramW6432	C:\Program Files\Common Files
+5920	smartscreen.ex	0x11004c41b20	COMPUTERNAME	DESKTOP-G8BLC8O
+5920	smartscreen.ex	0x11004c41b20	ComSpec	C:\Windows\system32\cmd.exe
+5920	smartscreen.ex	0x11004c41b20	DriverData	C:\Windows\System32\Drivers\DriverData
+5920	smartscreen.ex	0x11004c41b20	FPS_BROWSER_APP_PROFILE_STRING	Internet Explorer
+5920	smartscreen.ex	0x11004c41b20	FPS_BROWSER_USER_PROFILE_STRING	Default
+5920	smartscreen.ex	0x11004c41b20	HOMEDRIVE	C:
+5920	smartscreen.ex	0x11004c41b20	HOMEPATH	\Users\CSGO
+5920	smartscreen.ex	0x11004c41b20	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+5920	smartscreen.ex	0x11004c41b20	LOGONSERVER	\\DESKTOP-G8BLC8O
+5920	smartscreen.ex	0x11004c41b20	NUMBER_OF_PROCESSORS	2
+5920	smartscreen.ex	0x11004c41b20	OS	Windows_NT
+5920	smartscreen.ex	0x11004c41b20	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+5920	smartscreen.ex	0x11004c41b20	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+5920	smartscreen.ex	0x11004c41b20	PROCESSOR_ARCHITECTURE	AMD64
+5920	smartscreen.ex	0x11004c41b20	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+5920	smartscreen.ex	0x11004c41b20	PROCESSOR_LEVEL	6
+5920	smartscreen.ex	0x11004c41b20	PROCESSOR_REVISION	a502
+5920	smartscreen.ex	0x11004c41b20	ProgramData	C:\ProgramData
+5920	smartscreen.ex	0x11004c41b20	ProgramFiles	C:\Program Files
+5920	smartscreen.ex	0x11004c41b20	ProgramFiles(x86)	C:\Program Files (x86)
+5920	smartscreen.ex	0x11004c41b20	ProgramW6432	C:\Program Files
+5920	smartscreen.ex	0x11004c41b20	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+5920	smartscreen.ex	0x11004c41b20	PUBLIC	C:\Users\Public
+5920	smartscreen.ex	0x11004c41b20	SystemDrive	C:
+5920	smartscreen.ex	0x11004c41b20	SystemRoot	C:\Windows
+5920	smartscreen.ex	0x11004c41b20	TEMP	C:\Users\CSGO\AppData\Local\Temp
+5920	smartscreen.ex	0x11004c41b20	TMP	C:\Users\CSGO\AppData\Local\Temp
+5920	smartscreen.ex	0x11004c41b20	USERDOMAIN	DESKTOP-G8BLC8O
+5920	smartscreen.ex	0x11004c41b20	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+5920	smartscreen.ex	0x11004c41b20	USERNAME	CSGO
+5920	smartscreen.ex	0x11004c41b20	USERPROFILE	C:\Users\CSGO
+5920	smartscreen.ex	0x11004c41b20	windir	C:\Windows
+6072	vmtoolsd.exe	0x2667b6f1b60	ALLUSERSPROFILE	C:\ProgramData
+6072	vmtoolsd.exe	0x2667b6f1b60	APPDATA	C:\Users\CSGO\AppData\Roaming
+6072	vmtoolsd.exe	0x2667b6f1b60	CommonProgramFiles	C:\Program Files\Common Files
+6072	vmtoolsd.exe	0x2667b6f1b60	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+6072	vmtoolsd.exe	0x2667b6f1b60	CommonProgramW6432	C:\Program Files\Common Files
+6072	vmtoolsd.exe	0x2667b6f1b60	COMPUTERNAME	DESKTOP-G8BLC8O
+6072	vmtoolsd.exe	0x2667b6f1b60	ComSpec	C:\Windows\system32\cmd.exe
+6072	vmtoolsd.exe	0x2667b6f1b60	DriverData	C:\Windows\System32\Drivers\DriverData
+6072	vmtoolsd.exe	0x2667b6f1b60	HOMEDRIVE	C:
+6072	vmtoolsd.exe	0x2667b6f1b60	HOMEPATH	\Users\CSGO
+6072	vmtoolsd.exe	0x2667b6f1b60	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+6072	vmtoolsd.exe	0x2667b6f1b60	LOGONSERVER	\\DESKTOP-G8BLC8O
+6072	vmtoolsd.exe	0x2667b6f1b60	NUMBER_OF_PROCESSORS	2
+6072	vmtoolsd.exe	0x2667b6f1b60	OS	Windows_NT
+6072	vmtoolsd.exe	0x2667b6f1b60	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps;
+6072	vmtoolsd.exe	0x2667b6f1b60	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+6072	vmtoolsd.exe	0x2667b6f1b60	PROCESSOR_ARCHITECTURE	AMD64
+6072	vmtoolsd.exe	0x2667b6f1b60	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+6072	vmtoolsd.exe	0x2667b6f1b60	PROCESSOR_LEVEL	6
+6072	vmtoolsd.exe	0x2667b6f1b60	PROCESSOR_REVISION	a502
+6072	vmtoolsd.exe	0x2667b6f1b60	ProgramData	C:\ProgramData
+6072	vmtoolsd.exe	0x2667b6f1b60	ProgramFiles	C:\Program Files
+6072	vmtoolsd.exe	0x2667b6f1b60	ProgramFiles(x86)	C:\Program Files (x86)
+6072	vmtoolsd.exe	0x2667b6f1b60	ProgramW6432	C:\Program Files
+6072	vmtoolsd.exe	0x2667b6f1b60	PSModulePath	C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+6072	vmtoolsd.exe	0x2667b6f1b60	PUBLIC	C:\Users\Public
+6072	vmtoolsd.exe	0x2667b6f1b60	SESSIONNAME	Console
+6072	vmtoolsd.exe	0x2667b6f1b60	SystemDrive	C:
+6072	vmtoolsd.exe	0x2667b6f1b60	SystemRoot	C:\Windows
+6072	vmtoolsd.exe	0x2667b6f1b60	TEMP	C:\Users\CSGO\AppData\Local\Temp
+6072	vmtoolsd.exe	0x2667b6f1b60	TMP	C:\Users\CSGO\AppData\Local\Temp
+6072	vmtoolsd.exe	0x2667b6f1b60	USERDOMAIN	DESKTOP-G8BLC8O
+6072	vmtoolsd.exe	0x2667b6f1b60	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+6072	vmtoolsd.exe	0x2667b6f1b60	USERNAME	CSGO
+6072	vmtoolsd.exe	0x2667b6f1b60	USERPROFILE	C:\Users\CSGO
+6072	vmtoolsd.exe	0x2667b6f1b60	windir	C:\Windows
+3284	svchost.exe	0x1729da03380	ALLUSERSPROFILE	C:\ProgramData
+3284	svchost.exe	0x1729da03380	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+3284	svchost.exe	0x1729da03380	CommonProgramFiles	C:\Program Files\Common Files
+3284	svchost.exe	0x1729da03380	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+3284	svchost.exe	0x1729da03380	CommonProgramW6432	C:\Program Files\Common Files
+3284	svchost.exe	0x1729da03380	COMPUTERNAME	DESKTOP-G8BLC8O
+3284	svchost.exe	0x1729da03380	ComSpec	C:\Windows\system32\cmd.exe
+3284	svchost.exe	0x1729da03380	DriverData	C:\Windows\System32\Drivers\DriverData
+3284	svchost.exe	0x1729da03380	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+3284	svchost.exe	0x1729da03380	NUMBER_OF_PROCESSORS	2
+3284	svchost.exe	0x1729da03380	OS	Windows_NT
+3284	svchost.exe	0x1729da03380	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+3284	svchost.exe	0x1729da03380	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3284	svchost.exe	0x1729da03380	PROCESSOR_ARCHITECTURE	AMD64
+3284	svchost.exe	0x1729da03380	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+3284	svchost.exe	0x1729da03380	PROCESSOR_LEVEL	6
+3284	svchost.exe	0x1729da03380	PROCESSOR_REVISION	a502
+3284	svchost.exe	0x1729da03380	ProgramData	C:\ProgramData
+3284	svchost.exe	0x1729da03380	ProgramFiles	C:\Program Files
+3284	svchost.exe	0x1729da03380	ProgramFiles(x86)	C:\Program Files (x86)
+3284	svchost.exe	0x1729da03380	ProgramW6432	C:\Program Files
+3284	svchost.exe	0x1729da03380	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+3284	svchost.exe	0x1729da03380	PUBLIC	C:\Users\Public
+3284	svchost.exe	0x1729da03380	SystemDrive	C:
+3284	svchost.exe	0x1729da03380	SystemRoot	C:\Windows
+3284	svchost.exe	0x1729da03380	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+3284	svchost.exe	0x1729da03380	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+3284	svchost.exe	0x1729da03380	USERDOMAIN	NT AUTHORITY
+3284	svchost.exe	0x1729da03380	USERNAME	LOCAL SERVICE
+3284	svchost.exe	0x1729da03380	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+3284	svchost.exe	0x1729da03380	windir	C:\Windows
+3184	dllhost.exe	0x232aca21b20	ALLUSERSPROFILE	C:\ProgramData
+3184	dllhost.exe	0x232aca21b20	APPDATA	C:\Users\CSGO\AppData\Roaming
+3184	dllhost.exe	0x232aca21b20	CommonProgramFiles	C:\Program Files\Common Files
+3184	dllhost.exe	0x232aca21b20	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+3184	dllhost.exe	0x232aca21b20	CommonProgramW6432	C:\Program Files\Common Files
+3184	dllhost.exe	0x232aca21b20	COMPUTERNAME	DESKTOP-G8BLC8O
+3184	dllhost.exe	0x232aca21b20	ComSpec	C:\Windows\system32\cmd.exe
+3184	dllhost.exe	0x232aca21b20	DriverData	C:\Windows\System32\Drivers\DriverData
+3184	dllhost.exe	0x232aca21b20	FPS_BROWSER_APP_PROFILE_STRING	Internet Explorer
+3184	dllhost.exe	0x232aca21b20	FPS_BROWSER_USER_PROFILE_STRING	Default
+3184	dllhost.exe	0x232aca21b20	HOMEDRIVE	C:
+3184	dllhost.exe	0x232aca21b20	HOMEPATH	\Users\CSGO
+3184	dllhost.exe	0x232aca21b20	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+3184	dllhost.exe	0x232aca21b20	LOGONSERVER	\\DESKTOP-G8BLC8O
+3184	dllhost.exe	0x232aca21b20	NUMBER_OF_PROCESSORS	2
+3184	dllhost.exe	0x232aca21b20	OS	Windows_NT
+3184	dllhost.exe	0x232aca21b20	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+3184	dllhost.exe	0x232aca21b20	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3184	dllhost.exe	0x232aca21b20	PROCESSOR_ARCHITECTURE	AMD64
+3184	dllhost.exe	0x232aca21b20	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+3184	dllhost.exe	0x232aca21b20	PROCESSOR_LEVEL	6
+3184	dllhost.exe	0x232aca21b20	PROCESSOR_REVISION	a502
+3184	dllhost.exe	0x232aca21b20	ProgramData	C:\ProgramData
+3184	dllhost.exe	0x232aca21b20	ProgramFiles	C:\Program Files
+3184	dllhost.exe	0x232aca21b20	ProgramFiles(x86)	C:\Program Files (x86)
+3184	dllhost.exe	0x232aca21b20	ProgramW6432	C:\Program Files
+3184	dllhost.exe	0x232aca21b20	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+3184	dllhost.exe	0x232aca21b20	PUBLIC	C:\Users\Public
+3184	dllhost.exe	0x232aca21b20	SystemDrive	C:
+3184	dllhost.exe	0x232aca21b20	SystemRoot	C:\Windows
+3184	dllhost.exe	0x232aca21b20	TEMP	C:\Users\CSGO\AppData\Local\Temp
+3184	dllhost.exe	0x232aca21b20	TMP	C:\Users\CSGO\AppData\Local\Temp
+3184	dllhost.exe	0x232aca21b20	USERDOMAIN	DESKTOP-G8BLC8O
+3184	dllhost.exe	0x232aca21b20	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+3184	dllhost.exe	0x232aca21b20	USERNAME	CSGO
+3184	dllhost.exe	0x232aca21b20	USERPROFILE	C:\Users\CSGO
+3184	dllhost.exe	0x232aca21b20	windir	C:\Windows
+5272	cmd.exe	0x1a170701b60	ALLUSERSPROFILE	C:\ProgramData
+5272	cmd.exe	0x1a170701b60	APPDATA	C:\Users\CSGO\AppData\Roaming
+5272	cmd.exe	0x1a170701b60	CommonProgramFiles	C:\Program Files\Common Files
+5272	cmd.exe	0x1a170701b60	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+5272	cmd.exe	0x1a170701b60	CommonProgramW6432	C:\Program Files\Common Files
+5272	cmd.exe	0x1a170701b60	COMPUTERNAME	DESKTOP-G8BLC8O
+5272	cmd.exe	0x1a170701b60	ComSpec	C:\Windows\system32\cmd.exe
+5272	cmd.exe	0x1a170701b60	DriverData	C:\Windows\System32\Drivers\DriverData
+5272	cmd.exe	0x1a170701b60	HOMEDRIVE	C:
+5272	cmd.exe	0x1a170701b60	HOMEPATH	\Users\CSGO
+5272	cmd.exe	0x1a170701b60	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+5272	cmd.exe	0x1a170701b60	LOGONSERVER	\\DESKTOP-G8BLC8O
+5272	cmd.exe	0x1a170701b60	NUMBER_OF_PROCESSORS	2
+5272	cmd.exe	0x1a170701b60	OS	Windows_NT
+5272	cmd.exe	0x1a170701b60	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps;
+5272	cmd.exe	0x1a170701b60	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+5272	cmd.exe	0x1a170701b60	PROCESSOR_ARCHITECTURE	AMD64
+5272	cmd.exe	0x1a170701b60	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+5272	cmd.exe	0x1a170701b60	PROCESSOR_LEVEL	6
+5272	cmd.exe	0x1a170701b60	PROCESSOR_REVISION	a502
+5272	cmd.exe	0x1a170701b60	ProgramData	C:\ProgramData
+5272	cmd.exe	0x1a170701b60	ProgramFiles	C:\Program Files
+5272	cmd.exe	0x1a170701b60	ProgramFiles(x86)	C:\Program Files (x86)
+5272	cmd.exe	0x1a170701b60	ProgramW6432	C:\Program Files
+5272	cmd.exe	0x1a170701b60	PROMPT	$P$G
+5272	cmd.exe	0x1a170701b60	PSModulePath	C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+5272	cmd.exe	0x1a170701b60	PUBLIC	C:\Users\Public
+5272	cmd.exe	0x1a170701b60	SESSIONNAME	Console
+5272	cmd.exe	0x1a170701b60	SystemDrive	C:
+5272	cmd.exe	0x1a170701b60	SystemRoot	C:\Windows
+5272	cmd.exe	0x1a170701b60	TEMP	C:\Users\CSGO\AppData\Local\Temp
+5272	cmd.exe	0x1a170701b60	TMP	C:\Users\CSGO\AppData\Local\Temp
+5272	cmd.exe	0x1a170701b60	USERDOMAIN	DESKTOP-G8BLC8O
+5272	cmd.exe	0x1a170701b60	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+5272	cmd.exe	0x1a170701b60	USERNAME	CSGO
+5272	cmd.exe	0x1a170701b60	USERPROFILE	C:\Users\CSGO
+5272	cmd.exe	0x1a170701b60	windir	C:\Windows
+4380	conhost.exe	0x15c62e91b60	ALLUSERSPROFILE	C:\ProgramData
+4380	conhost.exe	0x15c62e91b60	APPDATA	C:\Users\CSGO\AppData\Roaming
+4380	conhost.exe	0x15c62e91b60	CommonProgramFiles	C:\Program Files\Common Files
+4380	conhost.exe	0x15c62e91b60	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+4380	conhost.exe	0x15c62e91b60	CommonProgramW6432	C:\Program Files\Common Files
+4380	conhost.exe	0x15c62e91b60	COMPUTERNAME	DESKTOP-G8BLC8O
+4380	conhost.exe	0x15c62e91b60	ComSpec	C:\Windows\system32\cmd.exe
+4380	conhost.exe	0x15c62e91b60	DriverData	C:\Windows\System32\Drivers\DriverData
+4380	conhost.exe	0x15c62e91b60	HOMEDRIVE	C:
+4380	conhost.exe	0x15c62e91b60	HOMEPATH	\Users\CSGO
+4380	conhost.exe	0x15c62e91b60	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+4380	conhost.exe	0x15c62e91b60	LOGONSERVER	\\DESKTOP-G8BLC8O
+4380	conhost.exe	0x15c62e91b60	NUMBER_OF_PROCESSORS	2
+4380	conhost.exe	0x15c62e91b60	OS	Windows_NT
+4380	conhost.exe	0x15c62e91b60	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps;
+4380	conhost.exe	0x15c62e91b60	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+4380	conhost.exe	0x15c62e91b60	PROCESSOR_ARCHITECTURE	AMD64
+4380	conhost.exe	0x15c62e91b60	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+4380	conhost.exe	0x15c62e91b60	PROCESSOR_LEVEL	6
+4380	conhost.exe	0x15c62e91b60	PROCESSOR_REVISION	a502
+4380	conhost.exe	0x15c62e91b60	ProgramData	C:\ProgramData
+4380	conhost.exe	0x15c62e91b60	ProgramFiles	C:\Program Files
+4380	conhost.exe	0x15c62e91b60	ProgramFiles(x86)	C:\Program Files (x86)
+4380	conhost.exe	0x15c62e91b60	ProgramW6432	C:\Program Files
+4380	conhost.exe	0x15c62e91b60	PSModulePath	C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+4380	conhost.exe	0x15c62e91b60	PUBLIC	C:\Users\Public
+4380	conhost.exe	0x15c62e91b60	SESSIONNAME	Console
+4380	conhost.exe	0x15c62e91b60	SystemDrive	C:
+4380	conhost.exe	0x15c62e91b60	SystemRoot	C:\Windows
+4380	conhost.exe	0x15c62e91b60	TEMP	C:\Users\CSGO\AppData\Local\Temp
+4380	conhost.exe	0x15c62e91b60	TMP	C:\Users\CSGO\AppData\Local\Temp
+4380	conhost.exe	0x15c62e91b60	USERDOMAIN	DESKTOP-G8BLC8O
+4380	conhost.exe	0x15c62e91b60	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+4380	conhost.exe	0x15c62e91b60	USERNAME	CSGO
+4380	conhost.exe	0x15c62e91b60	USERPROFILE	C:\Users\CSGO
+4380	conhost.exe	0x15c62e91b60	windir	C:\Windows
+5180	audiodg.exe	0x234bf791b60	ALLUSERSPROFILE	C:\ProgramData
+5180	audiodg.exe	0x234bf791b60	APPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+5180	audiodg.exe	0x234bf791b60	CommonProgramFiles	C:\Program Files\Common Files
+5180	audiodg.exe	0x234bf791b60	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+5180	audiodg.exe	0x234bf791b60	CommonProgramW6432	C:\Program Files\Common Files
+5180	audiodg.exe	0x234bf791b60	COMPUTERNAME	DESKTOP-G8BLC8O
+5180	audiodg.exe	0x234bf791b60	ComSpec	C:\Windows\system32\cmd.exe
+5180	audiodg.exe	0x234bf791b60	DriverData	C:\Windows\System32\Drivers\DriverData
+5180	audiodg.exe	0x234bf791b60	LOCALAPPDATA	C:\Windows\ServiceProfiles\LocalService\AppData\Local
+5180	audiodg.exe	0x234bf791b60	NUMBER_OF_PROCESSORS	2
+5180	audiodg.exe	0x234bf791b60	OS	Windows_NT
+5180	audiodg.exe	0x234bf791b60	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps
+5180	audiodg.exe	0x234bf791b60	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+5180	audiodg.exe	0x234bf791b60	PROCESSOR_ARCHITECTURE	AMD64
+5180	audiodg.exe	0x234bf791b60	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+5180	audiodg.exe	0x234bf791b60	PROCESSOR_LEVEL	6
+5180	audiodg.exe	0x234bf791b60	PROCESSOR_REVISION	a502
+5180	audiodg.exe	0x234bf791b60	ProgramData	C:\ProgramData
+5180	audiodg.exe	0x234bf791b60	ProgramFiles	C:\Program Files
+5180	audiodg.exe	0x234bf791b60	ProgramFiles(x86)	C:\Program Files (x86)
+5180	audiodg.exe	0x234bf791b60	ProgramW6432	C:\Program Files
+5180	audiodg.exe	0x234bf791b60	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+5180	audiodg.exe	0x234bf791b60	PUBLIC	C:\Users\Public
+5180	audiodg.exe	0x234bf791b60	SystemDrive	C:
+5180	audiodg.exe	0x234bf791b60	SystemRoot	C:\Windows
+5180	audiodg.exe	0x234bf791b60	TEMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+5180	audiodg.exe	0x234bf791b60	TMP	C:\Windows\SERVIC~1\LOCALS~1\AppData\Local\Temp
+5180	audiodg.exe	0x234bf791b60	USERDOMAIN	NT AUTHORITY
+5180	audiodg.exe	0x234bf791b60	USERNAME	LOCAL SERVICE
+5180	audiodg.exe	0x234bf791b60	USERPROFILE	C:\Windows\ServiceProfiles\LocalService
+5180	audiodg.exe	0x234bf791b60	windir	C:\Windows
+3628	WUDFHost.exe	0x1b8b3b31910	ACTIVE_DEVICES	SWD\WPDBUSENUM\{087A776E-3010-11EC-B3EF-342EB797156B}#0000000000008000;SWD\WPDBUSENUM\{087A776E-3010-11EC-B3EF-342EB797156B}#00000000AE254000;
+3628	WUDFHost.exe	0x1b8b3b31910	ALLUSERSPROFILE	C:\ProgramData
+3628	WUDFHost.exe	0x1b8b3b31910	CommonProgramFiles	C:\Program Files\Common Files
+3628	WUDFHost.exe	0x1b8b3b31910	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+3628	WUDFHost.exe	0x1b8b3b31910	CommonProgramW6432	C:\Program Files\Common Files
+3628	WUDFHost.exe	0x1b8b3b31910	COMPUTERNAME	DESKTOP-G8BLC8O
+3628	WUDFHost.exe	0x1b8b3b31910	ComSpec	C:\Windows\system32\cmd.exe
+3628	WUDFHost.exe	0x1b8b3b31910	DriverData	C:\Windows\System32\Drivers\DriverData
+3628	WUDFHost.exe	0x1b8b3b31910	NUMBER_OF_PROCESSORS	2
+3628	WUDFHost.exe	0x1b8b3b31910	OS	Windows_NT
+3628	WUDFHost.exe	0x1b8b3b31910	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\
+3628	WUDFHost.exe	0x1b8b3b31910	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3628	WUDFHost.exe	0x1b8b3b31910	PROCESSOR_ARCHITECTURE	AMD64
+3628	WUDFHost.exe	0x1b8b3b31910	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+3628	WUDFHost.exe	0x1b8b3b31910	PROCESSOR_LEVEL	6
+3628	WUDFHost.exe	0x1b8b3b31910	PROCESSOR_REVISION	a502
+3628	WUDFHost.exe	0x1b8b3b31910	ProgramData	C:\ProgramData
+3628	WUDFHost.exe	0x1b8b3b31910	ProgramFiles	C:\Program Files
+3628	WUDFHost.exe	0x1b8b3b31910	ProgramFiles(x86)	C:\Program Files (x86)
+3628	WUDFHost.exe	0x1b8b3b31910	ProgramW6432	C:\Program Files
+3628	WUDFHost.exe	0x1b8b3b31910	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+3628	WUDFHost.exe	0x1b8b3b31910	PUBLIC	C:\Users\Public
+3628	WUDFHost.exe	0x1b8b3b31910	SystemDrive	C:
+3628	WUDFHost.exe	0x1b8b3b31910	SystemRoot	C:\Windows
+3628	WUDFHost.exe	0x1b8b3b31910	TEMP	C:\Windows\TEMP
+3628	WUDFHost.exe	0x1b8b3b31910	TMP	C:\Windows\TEMP
+3628	WUDFHost.exe	0x1b8b3b31910	USERNAME	SYSTEM
+3628	WUDFHost.exe	0x1b8b3b31910	USERPROFILE	C:\Windows\system32\config\systemprofile
+3628	WUDFHost.exe	0x1b8b3b31910	windir	C:\Windows
+3092	ShellExperienc	0x197442034c0	ALLUSERSPROFILE	C:\ProgramData
+3092	ShellExperienc	0x197442034c0	APPDATA	C:\Users\CSGO\AppData\Roaming
+3092	ShellExperienc	0x197442034c0	CommonProgramFiles	C:\Program Files\Common Files
+3092	ShellExperienc	0x197442034c0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+3092	ShellExperienc	0x197442034c0	CommonProgramW6432	C:\Program Files\Common Files
+3092	ShellExperienc	0x197442034c0	COMPUTERNAME	DESKTOP-G8BLC8O
+3092	ShellExperienc	0x197442034c0	ComSpec	C:\Windows\system32\cmd.exe
+3092	ShellExperienc	0x197442034c0	DriverData	C:\Windows\System32\Drivers\DriverData
+3092	ShellExperienc	0x197442034c0	HOMEDRIVE	C:
+3092	ShellExperienc	0x197442034c0	HOMEPATH	\Users\CSGO
+3092	ShellExperienc	0x197442034c0	LOCALAPPDATA	C:\Users\CSGO\AppData\Local\Packages\microsoft.windows.shellexperiencehost_cw5n1h2txyewy\AC
+3092	ShellExperienc	0x197442034c0	LOGONSERVER	\\DESKTOP-G8BLC8O
+3092	ShellExperienc	0x197442034c0	NUMBER_OF_PROCESSORS	2
+3092	ShellExperienc	0x197442034c0	OS	Windows_NT
+3092	ShellExperienc	0x197442034c0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+3092	ShellExperienc	0x197442034c0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3092	ShellExperienc	0x197442034c0	PROCESSOR_ARCHITECTURE	AMD64
+3092	ShellExperienc	0x197442034c0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+3092	ShellExperienc	0x197442034c0	PROCESSOR_LEVEL	6
+3092	ShellExperienc	0x197442034c0	PROCESSOR_REVISION	a502
+3092	ShellExperienc	0x197442034c0	ProgramData	C:\ProgramData
+3092	ShellExperienc	0x197442034c0	ProgramFiles	C:\Program Files
+3092	ShellExperienc	0x197442034c0	ProgramFiles(x86)	C:\Program Files (x86)
+3092	ShellExperienc	0x197442034c0	ProgramW6432	C:\Program Files
+3092	ShellExperienc	0x197442034c0	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+3092	ShellExperienc	0x197442034c0	PUBLIC	C:\Users\Public
+3092	ShellExperienc	0x197442034c0	SystemDrive	C:
+3092	ShellExperienc	0x197442034c0	SystemRoot	C:\Windows
+3092	ShellExperienc	0x197442034c0	TEMP	C:\Users\CSGO\AppData\Local\Packages\microsoft.windows.shellexperiencehost_cw5n1h2txyewy\AC\Temp
+3092	ShellExperienc	0x197442034c0	TMP	C:\Users\CSGO\AppData\Local\Packages\microsoft.windows.shellexperiencehost_cw5n1h2txyewy\AC\Temp
+3092	ShellExperienc	0x197442034c0	USERDOMAIN	DESKTOP-G8BLC8O
+3092	ShellExperienc	0x197442034c0	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+3092	ShellExperienc	0x197442034c0	USERNAME	CSGO
+3092	ShellExperienc	0x197442034c0	USERPROFILE	C:\Users\CSGO
+3092	ShellExperienc	0x197442034c0	windir	C:\Windows
+4684	RuntimeBroker.	0x15e6f403340	ALLUSERSPROFILE	C:\ProgramData
+4684	RuntimeBroker.	0x15e6f403340	APPDATA	C:\Users\CSGO\AppData\Roaming
+4684	RuntimeBroker.	0x15e6f403340	CommonProgramFiles	C:\Program Files\Common Files
+4684	RuntimeBroker.	0x15e6f403340	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+4684	RuntimeBroker.	0x15e6f403340	CommonProgramW6432	C:\Program Files\Common Files
+4684	RuntimeBroker.	0x15e6f403340	COMPUTERNAME	DESKTOP-G8BLC8O
+4684	RuntimeBroker.	0x15e6f403340	ComSpec	C:\Windows\system32\cmd.exe
+4684	RuntimeBroker.	0x15e6f403340	DriverData	C:\Windows\System32\Drivers\DriverData
+4684	RuntimeBroker.	0x15e6f403340	HOMEDRIVE	C:
+4684	RuntimeBroker.	0x15e6f403340	HOMEPATH	\Users\CSGO
+4684	RuntimeBroker.	0x15e6f403340	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+4684	RuntimeBroker.	0x15e6f403340	LOGONSERVER	\\DESKTOP-G8BLC8O
+4684	RuntimeBroker.	0x15e6f403340	NUMBER_OF_PROCESSORS	2
+4684	RuntimeBroker.	0x15e6f403340	OS	Windows_NT
+4684	RuntimeBroker.	0x15e6f403340	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+4684	RuntimeBroker.	0x15e6f403340	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+4684	RuntimeBroker.	0x15e6f403340	PROCESSOR_ARCHITECTURE	AMD64
+4684	RuntimeBroker.	0x15e6f403340	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+4684	RuntimeBroker.	0x15e6f403340	PROCESSOR_LEVEL	6
+4684	RuntimeBroker.	0x15e6f403340	PROCESSOR_REVISION	a502
+4684	RuntimeBroker.	0x15e6f403340	ProgramData	C:\ProgramData
+4684	RuntimeBroker.	0x15e6f403340	ProgramFiles	C:\Program Files
+4684	RuntimeBroker.	0x15e6f403340	ProgramFiles(x86)	C:\Program Files (x86)
+4684	RuntimeBroker.	0x15e6f403340	ProgramW6432	C:\Program Files
+4684	RuntimeBroker.	0x15e6f403340	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+4684	RuntimeBroker.	0x15e6f403340	PUBLIC	C:\Users\Public
+4684	RuntimeBroker.	0x15e6f403340	SystemDrive	C:
+4684	RuntimeBroker.	0x15e6f403340	SystemRoot	C:\Windows
+4684	RuntimeBroker.	0x15e6f403340	TEMP	C:\Users\CSGO\AppData\Local\Temp
+4684	RuntimeBroker.	0x15e6f403340	TMP	C:\Users\CSGO\AppData\Local\Temp
+4684	RuntimeBroker.	0x15e6f403340	USERDOMAIN	DESKTOP-G8BLC8O
+4684	RuntimeBroker.	0x15e6f403340	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+4684	RuntimeBroker.	0x15e6f403340	USERNAME	CSGO
+4684	RuntimeBroker.	0x15e6f403340	USERPROFILE	C:\Users\CSGO
+4684	RuntimeBroker.	0x15e6f403340	windir	C:\Windows
+5492	FTK Imager.exe	0x401b20	ALLUSERSPROFILE	C:\ProgramData
+5492	FTK Imager.exe	0x401b20	APPDATA	C:\Users\CSGO\AppData\Roaming
+5492	FTK Imager.exe	0x401b20	CommonProgramFiles	C:\Program Files\Common Files
+5492	FTK Imager.exe	0x401b20	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+5492	FTK Imager.exe	0x401b20	CommonProgramW6432	C:\Program Files\Common Files
+5492	FTK Imager.exe	0x401b20	COMPUTERNAME	DESKTOP-G8BLC8O
+5492	FTK Imager.exe	0x401b20	ComSpec	C:\Windows\system32\cmd.exe
+5492	FTK Imager.exe	0x401b20	DriverData	C:\Windows\System32\Drivers\DriverData
+5492	FTK Imager.exe	0x401b20	FPS_BROWSER_APP_PROFILE_STRING	Internet Explorer
+5492	FTK Imager.exe	0x401b20	FPS_BROWSER_USER_PROFILE_STRING	Default
+5492	FTK Imager.exe	0x401b20	HOMEDRIVE	C:
+5492	FTK Imager.exe	0x401b20	HOMEPATH	\Users\CSGO
+5492	FTK Imager.exe	0x401b20	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+5492	FTK Imager.exe	0x401b20	LOGONSERVER	\\DESKTOP-G8BLC8O
+5492	FTK Imager.exe	0x401b20	NUMBER_OF_PROCESSORS	2
+5492	FTK Imager.exe	0x401b20	OS	Windows_NT
+5492	FTK Imager.exe	0x401b20	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+5492	FTK Imager.exe	0x401b20	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+5492	FTK Imager.exe	0x401b20	PROCESSOR_ARCHITECTURE	AMD64
+5492	FTK Imager.exe	0x401b20	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+5492	FTK Imager.exe	0x401b20	PROCESSOR_LEVEL	6
+5492	FTK Imager.exe	0x401b20	PROCESSOR_REVISION	a502
+5492	FTK Imager.exe	0x401b20	ProgramData	C:\ProgramData
+5492	FTK Imager.exe	0x401b20	ProgramFiles	C:\Program Files
+5492	FTK Imager.exe	0x401b20	ProgramFiles(x86)	C:\Program Files (x86)
+5492	FTK Imager.exe	0x401b20	ProgramW6432	C:\Program Files
+5492	FTK Imager.exe	0x401b20	PSModulePath	C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+5492	FTK Imager.exe	0x401b20	PUBLIC	C:\Users\Public
+5492	FTK Imager.exe	0x401b20	SystemDrive	C:
+5492	FTK Imager.exe	0x401b20	SystemRoot	C:\Windows
+5492	FTK Imager.exe	0x401b20	TEMP	C:\Users\CSGO\AppData\Local\Temp
+5492	FTK Imager.exe	0x401b20	TMP	C:\Users\CSGO\AppData\Local\Temp
+5492	FTK Imager.exe	0x401b20	USERDOMAIN	DESKTOP-G8BLC8O
+5492	FTK Imager.exe	0x401b20	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+5492	FTK Imager.exe	0x401b20	USERNAME	CSGO
+5492	FTK Imager.exe	0x401b20	USERPROFILE	C:\Users\CSGO
+5492	FTK Imager.exe	0x401b20	windir	C:\Windows
+5492	FTK Imager.exe	0x401b20	__COMPAT_LAYER	Installer
+500	RuntimeBroker.	0x24967403340	ALLUSERSPROFILE	C:\ProgramData
+500	RuntimeBroker.	0x24967403340	APPDATA	C:\Users\CSGO\AppData\Roaming
+500	RuntimeBroker.	0x24967403340	CommonProgramFiles	C:\Program Files\Common Files
+500	RuntimeBroker.	0x24967403340	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+500	RuntimeBroker.	0x24967403340	CommonProgramW6432	C:\Program Files\Common Files
+500	RuntimeBroker.	0x24967403340	COMPUTERNAME	DESKTOP-G8BLC8O
+500	RuntimeBroker.	0x24967403340	ComSpec	C:\Windows\system32\cmd.exe
+500	RuntimeBroker.	0x24967403340	DriverData	C:\Windows\System32\Drivers\DriverData
+500	RuntimeBroker.	0x24967403340	HOMEDRIVE	C:
+500	RuntimeBroker.	0x24967403340	HOMEPATH	\Users\CSGO
+500	RuntimeBroker.	0x24967403340	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+500	RuntimeBroker.	0x24967403340	LOGONSERVER	\\DESKTOP-G8BLC8O
+500	RuntimeBroker.	0x24967403340	NUMBER_OF_PROCESSORS	2
+500	RuntimeBroker.	0x24967403340	OS	Windows_NT
+500	RuntimeBroker.	0x24967403340	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps
+500	RuntimeBroker.	0x24967403340	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+500	RuntimeBroker.	0x24967403340	PROCESSOR_ARCHITECTURE	AMD64
+500	RuntimeBroker.	0x24967403340	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+500	RuntimeBroker.	0x24967403340	PROCESSOR_LEVEL	6
+500	RuntimeBroker.	0x24967403340	PROCESSOR_REVISION	a502
+500	RuntimeBroker.	0x24967403340	ProgramData	C:\ProgramData
+500	RuntimeBroker.	0x24967403340	ProgramFiles	C:\Program Files
+500	RuntimeBroker.	0x24967403340	ProgramFiles(x86)	C:\Program Files (x86)
+500	RuntimeBroker.	0x24967403340	ProgramW6432	C:\Program Files
+500	RuntimeBroker.	0x24967403340	PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+500	RuntimeBroker.	0x24967403340	PUBLIC	C:\Users\Public
+500	RuntimeBroker.	0x24967403340	SystemDrive	C:
+500	RuntimeBroker.	0x24967403340	SystemRoot	C:\Windows
+500	RuntimeBroker.	0x24967403340	TEMP	C:\Users\CSGO\AppData\Local\Temp
+500	RuntimeBroker.	0x24967403340	TMP	C:\Users\CSGO\AppData\Local\Temp
+500	RuntimeBroker.	0x24967403340	USERDOMAIN	DESKTOP-G8BLC8O
+500	RuntimeBroker.	0x24967403340	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+500	RuntimeBroker.	0x24967403340	USERNAME	CSGO
+500	RuntimeBroker.	0x24967403340	USERPROFILE	C:\Users\CSGO
+500	RuntimeBroker.	0x24967403340	windir	C:\Windows
+780	powershell.exe	0x25569f81bb0	ALLUSERSPROFILE	C:\ProgramData
+780	powershell.exe	0x25569f81bb0	APPDATA	C:\Users\CSGO\AppData\Roaming
+780	powershell.exe	0x25569f81bb0	CommonProgramFiles	C:\Program Files\Common Files
+780	powershell.exe	0x25569f81bb0	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+780	powershell.exe	0x25569f81bb0	CommonProgramW6432	C:\Program Files\Common Files
+780	powershell.exe	0x25569f81bb0	COMPUTERNAME	DESKTOP-G8BLC8O
+780	powershell.exe	0x25569f81bb0	ComSpec	C:\Windows\system32\cmd.exe
+780	powershell.exe	0x25569f81bb0	DriverData	C:\Windows\System32\Drivers\DriverData
+780	powershell.exe	0x25569f81bb0	HOMEDRIVE	C:
+780	powershell.exe	0x25569f81bb0	HOMEPATH	\Users\CSGO
+780	powershell.exe	0x25569f81bb0	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+780	powershell.exe	0x25569f81bb0	LOGONSERVER	\\DESKTOP-G8BLC8O
+780	powershell.exe	0x25569f81bb0	NUMBER_OF_PROCESSORS	2
+780	powershell.exe	0x25569f81bb0	OS	Windows_NT
+780	powershell.exe	0x25569f81bb0	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps;
+780	powershell.exe	0x25569f81bb0	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+780	powershell.exe	0x25569f81bb0	PROCESSOR_ARCHITECTURE	AMD64
+780	powershell.exe	0x25569f81bb0	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+780	powershell.exe	0x25569f81bb0	PROCESSOR_LEVEL	6
+780	powershell.exe	0x25569f81bb0	PROCESSOR_REVISION	a502
+780	powershell.exe	0x25569f81bb0	ProgramData	C:\ProgramData
+780	powershell.exe	0x25569f81bb0	ProgramFiles	C:\Program Files
+780	powershell.exe	0x25569f81bb0	ProgramFiles(x86)	C:\Program Files (x86)
+780	powershell.exe	0x25569f81bb0	ProgramW6432	C:\Program Files
+780	powershell.exe	0x25569f81bb0	PROMPT	$P$G
+780	powershell.exe	0x25569f81bb0	PSModulePath	C:\Users\CSGO\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+780	powershell.exe	0x25569f81bb0	PUBLIC	C:\Users\Public
+780	powershell.exe	0x25569f81bb0	SESSIONNAME	Console
+780	powershell.exe	0x25569f81bb0	SystemDrive	C:
+780	powershell.exe	0x25569f81bb0	SystemRoot	C:\Windows
+780	powershell.exe	0x25569f81bb0	TEMP	C:\Users\CSGO\AppData\Local\Temp
+780	powershell.exe	0x25569f81bb0	TMP	C:\Users\CSGO\AppData\Local\Temp
+780	powershell.exe	0x25569f81bb0	USERDOMAIN	DESKTOP-G8BLC8O
+780	powershell.exe	0x25569f81bb0	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+780	powershell.exe	0x25569f81bb0	USERNAME	CSGO
+780	powershell.exe	0x25569f81bb0	USERPROFILE	C:\Users\CSGO
+780	powershell.exe	0x25569f81bb0	windir	C:\Windows
+780	powershell.exe	0x25569f81bb0	USERNAME	CSGO
+780	powershell.exe	0x25569f81bb0	USERPROFILE	C:\Users\CSGO
+780	powershell.exe	0x25569f81bb0	windir	C:\Windows
+780	powershell.exe	0x25569f81bb0	LE	C:\Users\CSGO
+780	powershell.exe	0x25569f81bb0	windir	C:\Windows
+780	powershell.exe	0x25569f81bb0	MINGPROFILE	DESKTOP-G8BLC8O
+780	powershell.exe	0x25569f81bb0	USERNAME	CSGO
+780	powershell.exe	0x25569f81bb0	USERPROFILE	C:\Users\CSGO
+780	powershell.exe	0x25569f81bb0	windir	C:\Windows
+780	powershell.exe	0x25569f81bb0	OP-G8BLC8	OP-G8BLC8O
+780	powershell.exe	0x25569f81bb0	USERNAME	CSGO
+780	powershell.exe	0x25569f81bb0	USERPROFILE	C:\Users\CSGO
+780	powershell.exe	0x25569f81bb0	windir	C:\Windows
+780	powershell.exe	0x25569f81bb0	NAME	CSGO
+780	powershell.exe	0x25569f81bb0	USERPROFILE	C:\Users\CSGO
+780	powershell.exe	0x25569f81bb0	windir	C:\Windows
+780	powershell.exe	0x25569f81bb0	ILE	C:\Users\CSGO
+780	powershell.exe	0x25569f81bb0	windir	C:\Windows
+1420	info.exe	0x24aa7701c20	ALLUSERSPROFILE	C:\ProgramData
+1420	info.exe	0x24aa7701c20	APPDATA	C:\Users\CSGO\AppData\Roaming
+1420	info.exe	0x24aa7701c20	CommonProgramFiles	C:\Program Files\Common Files
+1420	info.exe	0x24aa7701c20	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+1420	info.exe	0x24aa7701c20	CommonProgramW6432	C:\Program Files\Common Files
+1420	info.exe	0x24aa7701c20	COMPUTERNAME	DESKTOP-G8BLC8O
+1420	info.exe	0x24aa7701c20	ComSpec	C:\Windows\system32\cmd.exe
+1420	info.exe	0x24aa7701c20	DriverData	C:\Windows\System32\Drivers\DriverData
+1420	info.exe	0x24aa7701c20	HOMEDRIVE	C:
+1420	info.exe	0x24aa7701c20	HOMEPATH	\Users\CSGO
+1420	info.exe	0x24aa7701c20	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+1420	info.exe	0x24aa7701c20	LOGONSERVER	\\DESKTOP-G8BLC8O
+1420	info.exe	0x24aa7701c20	NUMBER_OF_PROCESSORS	2
+1420	info.exe	0x24aa7701c20	OS	Windows_NT
+1420	info.exe	0x24aa7701c20	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps;
+1420	info.exe	0x24aa7701c20	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+1420	info.exe	0x24aa7701c20	PROCESSOR_ARCHITECTURE	AMD64
+1420	info.exe	0x24aa7701c20	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+1420	info.exe	0x24aa7701c20	PROCESSOR_LEVEL	6
+1420	info.exe	0x24aa7701c20	PROCESSOR_REVISION	a502
+1420	info.exe	0x24aa7701c20	ProgramData	C:\ProgramData
+1420	info.exe	0x24aa7701c20	ProgramFiles	C:\Program Files
+1420	info.exe	0x24aa7701c20	ProgramFiles(x86)	C:\Program Files (x86)
+1420	info.exe	0x24aa7701c20	ProgramW6432	C:\Program Files
+1420	info.exe	0x24aa7701c20	PROMPT	$P$G
+1420	info.exe	0x24aa7701c20	PSModulePath	C:\Users\CSGO\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+1420	info.exe	0x24aa7701c20	PUBLIC	C:\Users\Public
+1420	info.exe	0x24aa7701c20	SESSIONNAME	Console
+1420	info.exe	0x24aa7701c20	SystemDrive	C:
+1420	info.exe	0x24aa7701c20	SystemRoot	C:\Windows
+1420	info.exe	0x24aa7701c20	TEMP	C:\Users\CSGO\AppData\Local\Temp
+1420	info.exe	0x24aa7701c20	TMP	C:\Users\CSGO\AppData\Local\Temp
+1420	info.exe	0x24aa7701c20	USERDOMAIN	DESKTOP-G8BLC8O
+1420	info.exe	0x24aa7701c20	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+1420	info.exe	0x24aa7701c20	USERNAME	CSGO
+1420	info.exe	0x24aa7701c20	USERPROFILE	C:\Users\CSGO
+1420	info.exe	0x24aa7701c20	windir	C:\Windows
+2112	conhost.exe	0x1e0ac4f1c20	ALLUSERSPROFILE	C:\ProgramData
+2112	conhost.exe	0x1e0ac4f1c20	APPDATA	C:\Users\CSGO\AppData\Roaming
+2112	conhost.exe	0x1e0ac4f1c20	CommonProgramFiles	C:\Program Files\Common Files
+2112	conhost.exe	0x1e0ac4f1c20	CommonProgramFiles(x86)	C:\Program Files (x86)\Common Files
+2112	conhost.exe	0x1e0ac4f1c20	CommonProgramW6432	C:\Program Files\Common Files
+2112	conhost.exe	0x1e0ac4f1c20	COMPUTERNAME	DESKTOP-G8BLC8O
+2112	conhost.exe	0x1e0ac4f1c20	ComSpec	C:\Windows\system32\cmd.exe
+2112	conhost.exe	0x1e0ac4f1c20	DriverData	C:\Windows\System32\Drivers\DriverData
+2112	conhost.exe	0x1e0ac4f1c20	HOMEDRIVE	C:
+2112	conhost.exe	0x1e0ac4f1c20	HOMEPATH	\Users\CSGO
+2112	conhost.exe	0x1e0ac4f1c20	LOCALAPPDATA	C:\Users\CSGO\AppData\Local
+2112	conhost.exe	0x1e0ac4f1c20	LOGONSERVER	\\DESKTOP-G8BLC8O
+2112	conhost.exe	0x1e0ac4f1c20	NUMBER_OF_PROCESSORS	2
+2112	conhost.exe	0x1e0ac4f1c20	OS	Windows_NT
+2112	conhost.exe	0x1e0ac4f1c20	Path	C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\CSGO\AppData\Local\Microsoft\WindowsApps;
+2112	conhost.exe	0x1e0ac4f1c20	PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+2112	conhost.exe	0x1e0ac4f1c20	PROCESSOR_ARCHITECTURE	AMD64
+2112	conhost.exe	0x1e0ac4f1c20	PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+2112	conhost.exe	0x1e0ac4f1c20	PROCESSOR_LEVEL	6
+2112	conhost.exe	0x1e0ac4f1c20	PROCESSOR_REVISION	a502
+2112	conhost.exe	0x1e0ac4f1c20	ProgramData	C:\ProgramData
+2112	conhost.exe	0x1e0ac4f1c20	ProgramFiles	C:\Program Files
+2112	conhost.exe	0x1e0ac4f1c20	ProgramFiles(x86)	C:\Program Files (x86)
+2112	conhost.exe	0x1e0ac4f1c20	ProgramW6432	C:\Program Files
+2112	conhost.exe	0x1e0ac4f1c20	PROMPT	$P$G
+2112	conhost.exe	0x1e0ac4f1c20	PSModulePath	C:\Users\CSGO\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+2112	conhost.exe	0x1e0ac4f1c20	PUBLIC	C:\Users\Public
+2112	conhost.exe	0x1e0ac4f1c20	SESSIONNAME	Console
+2112	conhost.exe	0x1e0ac4f1c20	SystemDrive	C:
+2112	conhost.exe	0x1e0ac4f1c20	SystemRoot	C:\Windows
+2112	conhost.exe	0x1e0ac4f1c20	TEMP	C:\Users\CSGO\AppData\Local\Temp
+2112	conhost.exe	0x1e0ac4f1c20	TMP	C:\Users\CSGO\AppData\Local\Temp
+2112	conhost.exe	0x1e0ac4f1c20	USERDOMAIN	DESKTOP-G8BLC8O
+2112	conhost.exe	0x1e0ac4f1c20	USERDOMAIN_ROAMINGPROFILE	DESKTOP-G8BLC8O
+2112	conhost.exe	0x1e0ac4f1c20	USERNAME	CSGO
+2112	conhost.exe	0x1e0ac4f1c20	USERPROFILE	C:\Users\CSGO
+2112	conhost.exe	0x1e0ac4f1c20	windir	C:\Windows

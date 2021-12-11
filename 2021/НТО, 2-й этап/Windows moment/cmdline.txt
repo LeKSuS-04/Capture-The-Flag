@@ -1,0 +1,118 @@
+Volatility 3 Framework 2.0.0
+
+PID	Process	Args
+
+4	System	Required memory at 0x20 is not valid (process exited?)
+88	Registry	Required memory at 0x20 is not valid (process exited?)
+288	smss.exe	\SystemRoot\System32\smss.exe
+408	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+484	wininit.exe	wininit.exe
+492	csrss.exe	Required memory at 0x161ed0033ec is inaccessible (swapped)
+580	winlogon.exe	winlogon.exe
+620	services.exe	C:\Windows\system32\services.exe
+640	lsass.exe	C:\Windows\system32\lsass.exe
+744	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch -p
+752	fontdrvhost.ex	Required memory at 0x1c910e81a28 is inaccessible (swapped)
+768	fontdrvhost.ex	Required memory at 0x1aaa0cd1a28 is inaccessible (swapped)
+872	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS -p
+948	dwm.exe	"dwm.exe"
+956	LogonUI.exe	Required memory at 0x7914ddd020 is not valid (process exited?)
+400	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p
+336	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p
+576	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+864	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+944	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p
+1088	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+1304	svchost.exe	C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+1444	MemCompression	Required memory at 0x20 is not valid (process exited?)
+1492	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+1520	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p
+1608	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+1620	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+1728	svchost.exe	C:\Windows\system32\svchost.exe -k appmodel -p
+1768	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p
+1780	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+1788	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+1280	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p
+2076	svchost.exe	C:\Windows\System32\svchost.exe -k utcsvc -p
+2188	vm3dservice.ex	Required memory at 0x182b0f01ae8 is inaccessible (swapped)
+2196	VGAuthService.	Required memory at 0x151f3691ae8 is inaccessible (swapped)
+2208	vmtoolsd.exe	"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+2228	MsMpEng.exe	"C:\Program Files\Windows Defender\MsMpEng.exe"
+2336	vm3dservice.ex	Required memory at 0x1c2bd801ae8 is inaccessible (swapped)
+2484	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
+2656	dllhost.exe	Required memory at 0x22cc06b1ae8 is inaccessible (swapped)
+2808	dllhost.exe	C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+2836	svchost.exe	Required memory at 0x2313e0032f8 is inaccessible (swapped)
+3052	NisSrv.exe	"C:\Program Files\Windows Defender\NisSrv.exe"
+712	msdtc.exe	C:\Windows\System32\msdtc.exe
+1688	sihost.exe	sihost.exe
+2540	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+3076	taskhostw.exe	taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+3364	ctfmon.exe	"ctfmon.exe"
+3480	VSSVC.exe	Required memory at 0x16cddee1ae8 is inaccessible (swapped)
+3568	userinit.exe	Required memory at 0x6d92dbe020 is not valid (process exited?)
+3604	explorer.exe	C:\Windows\Explorer.EXE
+3840	svchost.exe	C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p
+3940	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+3720	StartMenuExper	"C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+4140	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4296	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+4336	SearchUI.exe	Required memory at 0xa070558020 is inaccessible (swapped)
+4528	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4596	ApplicationFra	C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+4628	MicrosoftEdge.	Required memory at 0x50a778df is not valid (process exited?)
+4788	browser_broker	Required memory at 0x1d389ba1b18 is inaccessible (swapped)
+5052	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4224	MicrosoftEdgeC	Required memory at 0x7a934ce020 is inaccessible (swapped)
+4948	MicrosoftEdgeS	Required memory at 0xa13e979020 is inaccessible (swapped)
+5360	LockApp.exe	Required memory at 0xb562074020 is inaccessible (swapped)
+5480	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5920	smartscreen.ex	C:\Windows\System32\smartscreen.exe -Embedding
+5964	SecurityHealth	Required memory at 0x208a5b41b58 is inaccessible (swapped)
+5996	SecurityHealth	Required memory at 0x174b7391ae8 is inaccessible (swapped)
+6072	vmtoolsd.exe	"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+3284	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+3184	dllhost.exe	�
+绐7�
+�
+覸7�
+�
+ᯐ8�
+
+ᰌ8
+
+绀7
+
+绀7
+
+ᰨ8
+
+终7
+
+ᱨ8
+
+终7
+
+ᱴ8
+
+᲌8
+
+믠7
+
+终
+2664	RuntimeBroker.	Required memory at 0x1649ba03338 is inaccessible (swapped)
+5712	WmiPrvSE.exe	Required memory at 0x27d71fc1ae8 is inaccessible (swapped)
+5272	cmd.exe	"C:\Windows\system32\cmd.exe" 
+4380	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+3652	WmiApSrv.exe	Required memory at 0x1b3364b1ae8 is inaccessible (swapped)
+5180	audiodg.exe	C:\Windows\system32\AUDIODG.EXE 0x4d8
+3628	WUDFHost.exe	"C:\Windows\System32\WUDFHost.exe" -HostGUID:{193a1820-d9ac-4997-8c55-be817523f6aa} -IoEventPortName:\UMDFCommunicationPorts\WUDF\HostProcess-1992a90e-717d-4e35-b991-8f57f32513c9 -SystemEventPortName:\UMDFCommunicationPorts\WUDF\HostProcess-1294a608-7935-47df-9364-339d0975ea81 -IoCancelEventPortName:\UMDFCommunicationPorts\WUDF\HostProcess-70bcb8f1-8cd0-48e9-b4b9-80ef58deca98 -NonStateChangingEventPortName:\UMDFCommunicationPorts\WUDF\HostProcess-b351d8fb-50a4-45bd-9a10-24a908ef0cf6 -LifetimeId:a73a5286-9459-46be-bfc6-3980b74be208 -DeviceGroupId:WpdFsGroup -HostArg:0
+3092	ShellExperienc	"C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+4684	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5492	FTK Imager.exe	"E:\FTK Imager\FTK Imager.exe" 
+5164	WinStore.App.e	Required memory at 0x228caa03458 is inaccessible (swapped)
+500	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+780	powershell.exe	powershell  ./s.ps1
+1420	info.exe	"C:\sysinfo\info.exe" 
+2112	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
