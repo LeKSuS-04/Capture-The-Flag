@@ -1,8 +1,6 @@
 from __future__ import annotations
 from collections import deque
 from collections.abc import MutableSequence
-import pathlib
-from re import S
 from pwn import *
 from pwnlib import timeout
 
