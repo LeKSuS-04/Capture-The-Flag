@@ -2,9 +2,15 @@
 2021/DEADFACE CTF/Window Pains/memdump.zip
 2021/НТО, 2-й этап/Windows moment/memdump.mem
 
-# Secret folders >:D
-Tools
-ShadowServants
+# Folders with tools
+/pwn
+/Tools
+
+# Folders, content of which should not be shared
+/ShadowServants
 
 # Configs
 *.ovpn
+
+# Files, containing private data
+2022/Innopolis Open (2 этап)
