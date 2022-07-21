@@ -1,0 +1,80 @@
+GET /api/omaha/update/?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromiumcrx&prodchannel=Stable&prodversion=99.0.4844.84&lang=ru&acceptformat=crx3&x=id%3Dcom.opera.crx.blacklist%26v%3D2022.4.10%26installedby%3Dinternal%26uc HTTP/1.1
+Host: extension-updates.opera.com
+Connection: keep-alive
+X-Goog-Update-Interactivity: bg
+X-Goog-Update-AppId: com.opera.crx.blacklist
+X-Goog-Update-Updater: chromiumcrx-99.0.4844.84
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:50:21 GMT
+Content-Type: application/xhtml+xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Allow: GET
+Content-Security-Policy: default-src 'self';
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+ea
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+    
+        <app appid="com.opera.crx.blacklist" status="ok">
+    <updatecheck status="noupdate" />
+</app>
+    
+</gupdate>
+0
+
+GET /api/omaha/update/?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromiumcrx&prodchannel=Stable&prodversion=99.0.4844.84&lang=ru&acceptformat=crx3&x=id%3Dpphjpkjjljnllpnebififokmoejkeahp%26v%3D0.0.0.0%26installedby%3Dother%26uc&x=id%3Denegjkbbakeegngfapepobipndnebkdk%26v%3D0.9.8%26installedby%3Dother%26uc&x=id%3Dkbmoiomgmchbpihhdpabemajcbjpcijk%26v%3D1.0.0.1%26installedby%3Dother%26uc HTTP/1.1
+Host: extension-updates.opera.com
+Connection: keep-alive
+X-Goog-Update-Interactivity: fg
+X-Goog-Update-AppId: enegjkbbakeegngfapepobipndnebkdk,kbmoiomgmchbpihhdpabemajcbjpcijk,pphjpkjjljnllpnebififokmoejkeahp
+X-Goog-Update-Updater: chromiumcrx-99.0.4844.84
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:50:21 GMT
+Content-Type: application/xhtml+xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Allow: GET
+Content-Security-Policy: default-src 'self';
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+1dd
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+    
+        <app appid="pphjpkjjljnllpnebififokmoejkeahp" status="ok">
+    <updatecheck status="noupdate" />
+</app>
+    
+        <app appid="enegjkbbakeegngfapepobipndnebkdk" status="ok">
+    <updatecheck status="noupdate" />
+</app>
+    
+        <app appid="kbmoiomgmchbpihhdpabemajcbjpcijk" status="ok">
+    <updatecheck status="noupdate" />
+</app>
+    
+</gupdate>
+0
+

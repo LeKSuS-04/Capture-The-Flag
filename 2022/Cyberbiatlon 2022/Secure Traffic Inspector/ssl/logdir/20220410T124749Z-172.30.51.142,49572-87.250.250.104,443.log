@@ -1,0 +1,23 @@
+POST /csp HTTP/1.1
+Host: csp.yandex.net
+Connection: keep-alive
+Content-Length: 189
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+Accept: */*
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Origin: https://yandex.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://yandex.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+from=web4&path=690.1893.1894&reqid=1649594867344834-15635838655877501072-sas2-0510-sas-l7-balancer-8080-BAL-4232&url=https%3A%2F%2Fyandex.site%2F&yandex_login=&yandexuid=2964057031649425726HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Content-Length: 0
+Date: Sun, 10 Apr 2022 12:47:49 GMT
+

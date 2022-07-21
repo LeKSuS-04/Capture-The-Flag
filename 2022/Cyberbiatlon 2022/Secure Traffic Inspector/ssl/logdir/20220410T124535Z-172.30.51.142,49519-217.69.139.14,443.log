@@ -1,0 +1,23 @@
+GET /multimedia_pxt?doc_id=6308588627235906501&meta_info=eNpzEuQ4svH2x2Wv7xzmF7gy58viVywAZ1oK4Q%3D%3D&meta_type=doc&qid=ee5d594b-f318-4b1b-9d1d-f971912d00c0&source_id=6115257028045650506&split=1&stream_id=lenta_main_mail_ru_mediaproject&title_position=21993&uh_vid=VA59pCYAAAA%3D&url=https%3A%2F%2Fhi-tech.mail.ru%2Fnews%2F57511-televidenie-uhodit-v-proshloe-eksperty-opredelilis-s-ego-zamenoy%2F%3Ffrommail%3Dft_ml&p=show HTTP/1.1
+Host: likemore-go.imgsmail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Sun, 10 Apr 2022 12:45:35 GMT
+Connection: keep-alive
+Expires: Sun, 10 Apr 2022 12:45:35 GMT
+Cache-Control: max-age=0
+Cache-Control: no-store, must-revalidate
+

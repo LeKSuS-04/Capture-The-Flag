@@ -1,0 +1,59 @@
+OPTIONS /ads/trace HTTP/1.1
+Host: yandex.ru
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: https://mail.ru
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 200 Ok
+NEL: {"report_to": "network-errors", "max_age": 86400, "success_fraction": 0.001, "failure_fraction": 0.1}
+Report-To: { "group": "network-errors", "max_age": 86400, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+Set-Cookie: i=hqRmnA7zBT91LsbTC+xn5274TSmnE9FUeLijQ/i5wWvfNSbnihaML//c/IAB59Xuf8WJjZ5ZeJPMS1pzTQ7rwH1sG8M=; Expires=Tue, 09-Apr-2024 12:42:42 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly; SameSite=None
+Transfer-Encoding: chunked
+X-Content-Type-Options: nosniff
+X-Yandex-Req-Id: 1649594562888823-14662702292332208981-sas3-0718-025-sas-l7-balancer-8080-BAL-37
+access-control-allow-credentials: true
+access-control-allow-headers: content-type
+access-control-allow-origin: https://mail.ru
+access-control-request-method: post
+
+0
+
+POST /ads/trace HTTP/1.1
+Host: yandex.ru
+Connection: keep-alive
+Content-Length: 262
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Content-Type: application/json
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"data":{"imageAreaPortion":0.8,"imageContainerHeight":240,"imageContainerWidth":300,"renderedImageWidth":300,"renderedImageHeight":300,"imageRatio":1,"imageContainerRatio":1.25},"name":"NATIVE_IMAGE_DATA","version":"57532","is_ssr":false,"unixtime":1649594559}
+HTTP/1.1 200 Ok
+Access-Control-Allow-Origin: *
+NEL: {"report_to": "network-errors", "max_age": 86400, "success_fraction": 0.001, "failure_fraction": 0.1}
+Report-To: { "group": "network-errors", "max_age": 86400, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+Set-Cookie: i=bX2F4Ataet2qW7Ntu1G6SLeI98KM1KQptCGnIPCtCAxy72FReTANaPUuEgKX8SOQNdaQKE/xHz7PYSVvNWwCuRV2yNg=; Expires=Tue, 09-Apr-2024 12:42:43 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly; SameSite=None
+Transfer-Encoding: chunked
+X-Content-Type-Options: nosniff
+X-Yandex-Req-Id: 1649594563094603-2087315016596845252-sas3-0718-025-sas-l7-balancer-8080-BAL-1282
+
+0
+

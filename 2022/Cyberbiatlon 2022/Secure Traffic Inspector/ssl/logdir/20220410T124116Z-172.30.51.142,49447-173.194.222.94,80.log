@@ -1,0 +1,13 @@
+GET /generate_204 HTTP/1.1
+Host: www.gstatic.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Sun, 10 Apr 2022 12:41:16 GMT
+

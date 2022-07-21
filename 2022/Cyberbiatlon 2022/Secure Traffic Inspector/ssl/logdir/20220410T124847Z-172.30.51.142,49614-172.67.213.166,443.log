@@ -1,0 +1,26 @@
+GET /update/getDownloadUrl.php?version=8.33&param=x64 HTTP/1.1
+Host: notepad-plus-plus.org
+User-Agent: Notepad++/8.33 (WinGup/5.22)
+Accept: */*
+
+HTTP/1.1 200 OK
+Date: Sun, 10 Apr 2022 12:48:47 GMT
+Content-Type: text/xml;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-powered-by: PHP/7.2.34
+vary: Accept-Encoding
+content-security-policy: upgrade-insecure-requests
+x-turbo-charged-by: LiteSpeed
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QaeqQG1TZX5t0Mp9i8L4iXMWfX8lQx7zyDioSefd%2FK7LUku1kfLuDa1NsbDDYZc5CY89XjIpvLV58IcXZnbiPL7fenkQr2m9qcQBuyXMfGOVbiS3sQw1DxFp7Jf1PIoKNklGSb4%2BLlw%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 6f9b994b3c9e38b2-VIE
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+30
+<GUP><NeedToBeUpdated>no</NeedToBeUpdated></GUP>
+0
+

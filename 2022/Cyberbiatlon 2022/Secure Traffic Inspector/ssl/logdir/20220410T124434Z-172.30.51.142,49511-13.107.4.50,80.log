@@ -1,0 +1,23 @@
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Cache-Control: public,max-age=900
+Content-Type: application/vnd.ms-cab-compressed
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Accept-Ranges: bytes
+ETag: "80252ce6b229d81:0"
+X-Cache: TCP_HIT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-CID: 7
+X-CCC: US
+X-MSEdge-Ref: Ref A: FF2340CB3FAB4F48A3EDE84FB4298ED5 Ref B: FRAEDGE1312 Ref C: 2022-04-10T12:44:34Z
+Date: Sun, 10 Apr 2022 12:44:33 GMT
+

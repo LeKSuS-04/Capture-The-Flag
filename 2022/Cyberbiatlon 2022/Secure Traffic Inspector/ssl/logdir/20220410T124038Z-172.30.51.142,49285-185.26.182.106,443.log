@@ -1,0 +1,52 @@
+GET /location?id=254946&language=ru HTTP/1.1
+Host: weather.opera-api.com
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: chrome://startpage
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:40:38 GMT
+Content-Type: application/json
+Content-Length: 391
+Connection: keep-alive
+Access-Control-Allow-Origin: chrome://startpage
+Vary: Origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+{"location_id":"254946","city":"Осло","text":"Солнечно","temp_c":10,"temp_f":50,"air_quality":{"category":"Средний","category_color":"#FFC300","link":"https://www.accuweather.com/ru/no/oslo/254946/air-quality-index/254946","overall_plume_labs_index":35.6},"icon_id":1,"link":"https://www.accuweather.com/ru/no/oslo/254946/current-weather/254946?partner=wdg_operanrw_web"}
+GET /location?id=254946&language=ru HTTP/1.1
+Host: weather.opera-api.com
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: chrome://startpage
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:41:03 GMT
+Content-Type: application/json
+Content-Length: 391
+Connection: keep-alive
+Access-Control-Allow-Origin: chrome://startpage
+Vary: Origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+{"location_id":"254946","city":"Осло","text":"Солнечно","temp_c":10,"temp_f":50,"air_quality":{"category":"Средний","category_color":"#FFC300","link":"https://www.accuweather.com/ru/no/oslo/254946/air-quality-index/254946","overall_plume_labs_index":35.6},"icon_id":1,"link":"https://www.accuweather.com/ru/no/oslo/254946/current-weather/254946?partner=wdg_operanrw_web"}

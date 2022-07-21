@@ -4,6 +4,7 @@
 
 # Folders with tools
 /pwn
+/pwngun
 /Tools
 
 # Folders, content of which should not be shared
@@ -14,3 +15,4 @@
 
 # Files, containing private data
 2022/Innopolis Open (2 этап)
+2022/Ugra CTF 2022 Quals/forensics/Прикольная находка

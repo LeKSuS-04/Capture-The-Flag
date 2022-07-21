@@ -1,0 +1,10 @@
+192.168.6.56  - client
+51.250.81.57  - server
+
+
+user:1usual_2http_3traffic!
+
+
+
+17: creds
+

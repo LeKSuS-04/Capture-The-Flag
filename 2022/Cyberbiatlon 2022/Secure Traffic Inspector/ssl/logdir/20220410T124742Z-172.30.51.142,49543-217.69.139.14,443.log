@@ -1,0 +1,25 @@
+POST /recostream_pxt?qid=e352f131be304d45&split=2&meta_info=eJydkb1KA0EUhe9AiuU2RuJPjEoSbQSbgEQsrUREQbQJNuPsOOsOzOwMs7MkpVha%2BQB2gr2NWFiI5hHs9Am0EnwAd10Qsdz6wne%2Bcw%2Fu4jQ2uEm1oZrJhHqhrWJetNYCqEMTOrACPdiATdiGfRjAMcRg4YyQCxIED6S%2B1TxfvSTknpBHAniEy9gtaVGmlBcjT4fSxzTNwpQ7ab00SVqNvYMNnPxjOmROZ7Yaaw9ncOqfp3VGm2q4ZoFzQjFLI%2BNo3tQoxUIl8BAXsJVa43zurGjIkhPp0%2BpfhiJugF1sl%2FaWOZ8IlxMdiyLJqRjxmCWnlfYjuIjzOFcW4UZr4bhk6vdFeFCcy%2BAiTxnKMl5M%2BrNIpTKt2WB8%2B%2Fp58%2FH2PFF%2Fufq6fq8t1fr93npnfPfU%2FgbszanG&uh_vid=VA59pCYAAACmwsJB61GPvkmUY4EIgh0iD1BE8oCPcbsxiS%2BrUZoedTF4JNxK%2BCdC8G7ng4q58ixdSsiBij1yJi04HNtT7luEZn9h&cold_lenta=true&meta_type=hit&p=end&page_id=86877197926060151649594437584&stream_id=lenta_main_mail_ru_v1&reco_session_id=16bdc0a6252d049&_=1649594856609 HTTP/1.1
+Host: likemore-go.imgsmail.ru
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Sun, 10 Apr 2022 12:47:42 GMT
+Connection: keep-alive
+Expires: Sun, 10 Apr 2022 12:47:42 GMT
+Cache-Control: max-age=0
+Cache-Control: no-store, must-revalidate
+

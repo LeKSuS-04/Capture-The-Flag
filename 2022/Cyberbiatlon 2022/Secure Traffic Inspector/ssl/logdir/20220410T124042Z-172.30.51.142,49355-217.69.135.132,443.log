@@ -1,0 +1,30 @@
+GET /imgpreview?fr=srchimg&key=lenta_admin-image-2d5b6c4a-d5ca-40c9-8ac2-46dd4daa97f9&mb=pulse HTTP/1.1
+Host: go.imgsmail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sun, 10 Apr 2022 12:40:42 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://pulse.imgsmail.ru/imgpreview?fr=srchimg&key=lenta_admin-image-2d5b6c4a-d5ca-40c9-8ac2-46dd4daa97f9&mb=pulse
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

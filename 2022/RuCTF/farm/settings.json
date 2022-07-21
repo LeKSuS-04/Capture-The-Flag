@@ -1,0 +1,18 @@
+{
+    "attack_data_link": "http://link-to-json",
+    "submitting_flags_link": "http://something/lol",
+
+    "sleep_time": 30,
+
+    "attack": {
+        "command1_ip_goes_here": "First team",
+        "command2_ip_goes_here": "Ololo alala"
+    },
+    "tokens": {
+        "your_token_here": "your_team_name"
+    },
+    "attacks": [
+        "example_1",
+        "example_2"
+    ]
+}

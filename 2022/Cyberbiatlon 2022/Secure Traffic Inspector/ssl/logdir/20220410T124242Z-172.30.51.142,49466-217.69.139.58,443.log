@@ -1,0 +1,199 @@
+GET /NaviData?mac=1&Socials=1&gamescnt=1&_=1650391657625 HTTP/1.1
+Host: portal.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: act=aa8d600b6aea4a70813058a67050d659; mrcu=79946252D0433A68EF927B754FD5; p=v3EBAOkilvQA; searchuid=2964057031649425726; tmr_lvid=a726b3bcc70b1bbb986830becc80a966; tmr_lvidTS=1649594438750; mtrc=%7B%22mytrackerid%22%3A58519%2C%22tmr_lvid%22%3A%22undefined%22%7D; i=AQBG0FJiAgC9BwgEAYIVAYkNBQIBAA==; s=ww=1400|wh=790|fver=0; b=k0oQAKDlQBUA96OFEYkt0REVUosMe12rEX8nBQpBnm8MlaqFET/c4QgBAAAIr1tICgcywwxBrVMMrzanDG0Y3wxpYdsLixvfDKfY4psB; c=YNBSYgIAoFQLAAAUAAQAeYIAwAQAAKDgQMwDExoA; tmr_reqNum=18; VID=2aVGvK2eU8I900000c1CH4o9:::0-0-0-76d2908:CAASEDoGwVPkaH7W02aHwIKFyKAaYAWWI_QV2hpEiH8DzxLeDhPU_zgAUWzivj4Z0IZD_YuGyXgTzCWnXCtwDByoCDQ-tgiqNJS0W00RV0gspntO_cB9YR38imPIAoFjrAHmsFrfYg9WzPmZu8aMzCbIjhPaZg
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Sun, 10 Apr 2022 12:42:42 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 54
+Connection: keep-alive
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Sat, 10 Apr 2021 12:42:42 GMT
+Last-Modified: Sun, 10 Apr 2022 15:42:42 GMT
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Credentials: true
+X-Mru-Request-Id: 7dc6bc65
+X-Host: spf52.m.smailru.net
+
+{"status":"noauth","data":{"action":"list","list":[]}}GET /NaviData?mac=1&Socials=1&gamescnt=1&_=1650163592488 HTTP/1.1
+Host: portal.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: act=aa8d600b6aea4a70813058a67050d659; mrcu=79946252D0433A68EF927B754FD5; p=v3EBAOkilvQA; searchuid=2964057031649425726; tmr_lvid=a726b3bcc70b1bbb986830becc80a966; tmr_lvidTS=1649594438750; mtrc=%7B%22mytrackerid%22%3A58519%2C%22tmr_lvid%22%3A%22undefined%22%7D; i=AQBG0FJiAgC9BwgEAYIVAYkNBQIBAA==; s=ww=1400|wh=790|fver=0; b=k0oQAKDlQBUA96OFEYkt0REVUosMe12rEX8nBQpBnm8MlaqFET/c4QgBAAAIr1tICgcywwxBrVMMrzanDG0Y3wxpYdsLixvfDKfY4psB; c=YNBSYgIAoFQLAAAUAAQAeYIAwAQAAKDgQMwDExoA; tmr_reqNum=18; VID=2aVGvK2eU8I900000c1CH4o9:::0-0-0-76d2908:CAASEEeV7pJsnh6RNkn3IyFfpngaYFjcgs4kaHEOkwKqXISAnUjySTk2CAgNkJ3Sd0sVMymntQiPGNKDc6xjUjtqb6uqK0YrQdxffptxU7XVeVriwfKOaKhqd979oMC4d7ekw4c5wmwgiVmhyksCxgwnZ5TIXw
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Sun, 10 Apr 2022 12:43:05 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 54
+Connection: keep-alive
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Sat, 10 Apr 2021 12:43:05 GMT
+Last-Modified: Sun, 10 Apr 2022 15:43:05 GMT
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Credentials: true
+X-Mru-Request-Id: 6834480e
+X-Host: spf52.m.smailru.net
+
+{"status":"noauth","data":{"action":"list","list":[]}}GET /NaviData?mac=1&Socials=1&gamescnt=1&_=1650522446993 HTTP/1.1
+Host: portal.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: act=aa8d600b6aea4a70813058a67050d659; mrcu=79946252D0433A68EF927B754FD5; p=v3EBAOkilvQA; searchuid=2964057031649425726; tmr_lvid=a726b3bcc70b1bbb986830becc80a966; tmr_lvidTS=1649594438750; mtrc=%7B%22mytrackerid%22%3A58519%2C%22tmr_lvid%22%3A%22undefined%22%7D; i=AQBG0FJiAgC9BwgEAYIVAYkNBQIBAA==; s=ww=1400|wh=790|fver=0; b=k0oQAKDlQBUA96OFEYkt0REVUosMe12rEX8nBQpBnm8MlaqFET/c4QgBAAAIr1tICgcywwxBrVMMrzanDG0Y3wxpYdsLixvfDKfY4psB; c=YNBSYgIAoFQLAAAUAAQAeYIAwAQAAKDgQMwDExoA; tmr_reqNum=18; VID=2aVGvK2eU8I900000c1CH4o9:::0-0-0-76d2908:CAASEEeV7pJsnh6RNkn3IyFfpngaYFjcgs4kaHEOkwKqXISAnUjySTk2CAgNkJ3Sd0sVMymntQiPGNKDc6xjUjtqb6uqK0YrQdxffptxU7XVeVriwfKOaKhqd979oMC4d7ekw4c5wmwgiVmhyksCxgwnZ5TIXw
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Sun, 10 Apr 2022 12:43:21 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 54
+Connection: keep-alive
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Sat, 10 Apr 2021 12:43:21 GMT
+Last-Modified: Sun, 10 Apr 2022 15:43:21 GMT
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Credentials: true
+X-Mru-Request-Id: 6c079b76
+X-Host: spf52.m.smailru.net
+
+{"status":"noauth","data":{"action":"list","list":[]}}GET /NaviData?mac=1&Socials=1&gamescnt=1&_=1649981213783 HTTP/1.1
+Host: portal.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: act=aa8d600b6aea4a70813058a67050d659; mrcu=79946252D0433A68EF927B754FD5; p=v3EBAOkilvQA; searchuid=2964057031649425726; tmr_lvid=a726b3bcc70b1bbb986830becc80a966; tmr_lvidTS=1649594438750; mtrc=%7B%22mytrackerid%22%3A58519%2C%22tmr_lvid%22%3A%22undefined%22%7D; i=AQBG0FJiAgC9BwgEAYIVAYkNBQIBAA==; s=ww=1400|wh=790|fver=0; b=k0oQAKDlQBUA96OFEYkt0REVUosMe12rEX8nBQpBnm8MlaqFET/c4QgBAAAIr1tICgcywwxBrVMMrzanDG0Y3wxpYdsLixvfDKfY4psB; c=YNBSYgIAoFQLAAAUAAQAeYIAwAQAAKDgQMwDExoA; tmr_reqNum=18; VID=2aVGvK2eU8I900000c1CH4o9:::0-0-0-76d2908:CAASEEeV7pJsnh6RNkn3IyFfpngaYFjcgs4kaHEOkwKqXISAnUjySTk2CAgNkJ3Sd0sVMymntQiPGNKDc6xjUjtqb6uqK0YrQdxffptxU7XVeVriwfKOaKhqd979oMC4d7ekw4c5wmwgiVmhyksCxgwnZ5TIXw
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Sun, 10 Apr 2022 12:43:35 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 54
+Connection: keep-alive
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Sat, 10 Apr 2021 12:43:35 GMT
+Last-Modified: Sun, 10 Apr 2022 15:43:35 GMT
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Credentials: true
+X-Mru-Request-Id: bb6508db
+X-Host: spf52.m.smailru.net
+
+{"status":"noauth","data":{"action":"list","list":[]}}GET /NaviData?mac=1&Socials=1&gamescnt=1&_=1649943219733 HTTP/1.1
+Host: portal.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: act=aa8d600b6aea4a70813058a67050d659; mrcu=79946252D0433A68EF927B754FD5; p=v3EBAOkilvQA; searchuid=2964057031649425726; tmr_lvid=a726b3bcc70b1bbb986830becc80a966; tmr_lvidTS=1649594438750; mtrc=%7B%22mytrackerid%22%3A58519%2C%22tmr_lvid%22%3A%22undefined%22%7D; i=AQBG0FJiAgC9BwgEAYIVAYkNBQIBAA==; s=ww=1400|wh=790|fver=0; b=k0oQAKDlQBUA96OFEYkt0REVUosMe12rEX8nBQpBnm8MlaqFET/c4QgBAAAIr1tICgcywwxBrVMMrzanDG0Y3wxpYdsLixvfDKfY4psB; c=YNBSYgIAoFQLAAAUAAQAeYIAwAQAAKDgQMwDExoA; tmr_reqNum=12; VID=2aVGvK2eU8I900000c1CH4o9:::0-0-0-76d2908:CAASEArHUK8DCDjZklm041EHjYMaYGFwBR7N7sYfvXai91BdE8feeK-pJmtHsGkdm32GaccBzjQ4voMX3CWQMMnlgqWX23LEtAu13a8vX_FkvtqJuNtKGCPeCQ6Kf4BvRhvo6yf1BmaowroIQbwnHGTlhZgmjw
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Sun, 10 Apr 2022 12:43:42 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 54
+Connection: keep-alive
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Sat, 10 Apr 2021 12:43:42 GMT
+Last-Modified: Sun, 10 Apr 2022 15:43:42 GMT
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Credentials: true
+X-Mru-Request-Id: 651cd9a0
+X-Host: spf52.m.smailru.net
+
+{"status":"noauth","data":{"action":"list","list":[]}}GET /NaviData?mac=1&Socials=1&gamescnt=1&_=1650079918048 HTTP/1.1
+Host: portal.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: act=aa8d600b6aea4a70813058a67050d659; mrcu=79946252D0433A68EF927B754FD5; p=v3EBAOkilvQA; searchuid=2964057031649425726; tmr_lvid=a726b3bcc70b1bbb986830becc80a966; tmr_lvidTS=1649594438750; mtrc=%7B%22mytrackerid%22%3A58519%2C%22tmr_lvid%22%3A%22undefined%22%7D; i=AQBG0FJiAgC9BwgEAYIVAYkNBQIBAA==; s=ww=1400|wh=790|fver=0; b=k0oQAKDlQBUA96OFEYkt0REVUosMe12rEX8nBQpBnm8MlaqFET/c4QgBAAAIr1tICgcywwxBrVMMrzanDG0Y3wxpYdsLixvfDKfY4psB; c=YNBSYgIAoFQLAAAUAAQAeYIAwAQAAKDgQMwDExoA; tmr_reqNum=12; VID=2aVGvK2eU8I900000c1CH4o9:::0-0-0-76d2908:CAASEArHUK8DCDjZklm041EHjYMaYGFwBR7N7sYfvXai91BdE8feeK-pJmtHsGkdm32GaccBzjQ4voMX3CWQMMnlgqWX23LEtAu13a8vX_FkvtqJuNtKGCPeCQ6Kf4BvRhvo6yf1BmaowroIQbwnHGTlhZgmjw
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Sun, 10 Apr 2022 12:44:06 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 54
+Connection: keep-alive
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Sat, 10 Apr 2021 12:44:06 GMT
+Last-Modified: Sun, 10 Apr 2022 15:44:06 GMT
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Credentials: true
+X-Mru-Request-Id: 2d91c3fa
+X-Host: spf52.m.smailru.net
+
+{"status":"noauth","data":{"action":"list","list":[]}}

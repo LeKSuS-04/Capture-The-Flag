@@ -1,0 +1,19 @@
+GET /api/v2/features?country=RU&language=ru&uuid=a41cfcc3-1e2a-4068-8276-c687c9304809&product=&channel=Stable&version=85.0.4341.47&edition= HTTP/1.1
+Host: features.opera-api.com
+Connection: keep-alive
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:40:36 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 1173
+Connection: keep-alive
+Cache-Control: max-age=3672
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+{"features":{"01e8764562d9":{"state":"enabled"},"112833e0e686":{"state":"disabled"},"1d24dceb937a":{"state":"enabled"},"278deecb29a1":{"state":"enabled"},"2ddb1de6a669":{"state":"enabled"},"409e23aad9e1":{"state":"enabled"},"47c3eaf8e6a9":{"state":"enabled"},"4aa1936950e8":{"state":"disabled"},"4b1a01cc7e97":{"state":"enabled"},"4ce5951bc434":{"state":"enabled"},"51e2eff0626c":{"state":"disabled"},"5aceda74693f":{"state":"enabled"},"603cade21cf7":{"state":"enabled"},"73d990a0241d":{"state":"enabled"},"79b4f892c4fe":{"state":"disabled"},"7d2b9cb259c5":{"state":"disabled"},"818c3ef12d0b":{"state":"enabled","dna_filter":{"required_dna":["64336fb81a04836eb8108d24fbca3aa3682db0a5"],"forbidden_dna":["5b3eb4a6c335a0659d16d1a189ca155e4441ea14"]}},"9e7d198d5684":{"state":"enabled"},"b6023ede83bb":{"state":"disabled"},"b9677b166709":{"state":"disabled"},"c57119eb4723":{"state":"enabled"},"c9a44eaecc11":{"state":"enabled"},"cc6fe6454aa9":{"state":"enabled"},"cefd792aabc3":{"state":"enabled"},"d144067b33ec":{"state":"enabled"},"dce301a6c594":{"state":"enabled"},"f3834d6657d8":{"state":"enabled"},"f4cea73c83af":{"state":"enabled"},"fd0749971006":{"state":"enabled"}}}

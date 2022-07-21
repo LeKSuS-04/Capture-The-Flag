@@ -1,0 +1,22 @@
+POST /showpxt?pxn=covid_show&_=1649892937552&experimentId=undefined&sitezone=15&segment=undefined&page_id=16504596074721649916716608&user_hash=MmFWR3ZLMmVVOEk5MDAwMDBjMUNING85Ojo6MC0wLTAtNzZkMjkwODpDQUFTRUxINUlrODlnRlJsc0xHQjhuTDF4dDhhWUhCYXVSVkYzdXFYaHdpY3B4S3RxT3VFYl9CcVd3N2xvcDktcVRBdEREeG9rSnhkSmg2dkExN0gzYlFWRWg4M2pxY2FpczZvcGxHMXdCTzMtaGF5U1VnR2RyMHNpZXg4c2ZuNlpONTNna0djNnlWYmIwMFVoVDJPR3hBdVcxNll5UQ%3D%3D&email=&mpop=0&count_of_email=0&platform=desktop&version=resplash HTTP/1.1
+Host: fmdata.imgsmail.ru
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Sun, 10 Apr 2022 12:50:25 GMT
+Connection: keep-alive
+

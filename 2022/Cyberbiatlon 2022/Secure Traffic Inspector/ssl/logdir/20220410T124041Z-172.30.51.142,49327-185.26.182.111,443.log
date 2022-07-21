@@ -1,0 +1,31 @@
+GET /api/teaser/v2/config?language=ru&country=ru&uuid=9696b5a1-d67c-f71d-8f40-813bc4b6195c HTTP/1.1
+Host: merchandise.opera-api.com
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: chrome://startpage
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:40:41 GMT
+Content-Type: application/json
+Content-Length: 1263
+Connection: keep-alive
+Accept-Ranges: bytes
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Origin: chrome://startpage
+Cache-Control: max-age=3600
+Etag: QTXE0V3VnNNsE8c0vdP8AZjb1O0=
+Expires: Sun, 10 Apr 2022 13:40:41 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+{"campaignId":"aliexpress","locale":"ru","events":[{"eventId":"bday","campaignId":"aliexpress","wide":false,"simple":false,"title":"AliExpress","tiles":[{"title":"Проверьте лучшие предложения!","imageURL":"https://sd-images.operacdn.com/api/v1/images/14a705eb1d4856923500a17b3ddd0681f1240d45.png","targetURL":"https://alitems.site/g/vv3q4oey1va47a83735cb6d1781017/?ulp=https%3A%2F%2Fbest.aliexpress.ru%2F%3Flan%3Des%26gatewayAdapt%3Dglo2esp\u0026subid=search","faviconURL":"https://sd-images.operacdn.com/api/v1/images/9c6f0b19b3f7c200d6fb1367826ce0d418ccceda.png","provider":"AliExpress"},{"title":"Начать шопинг!","imageURL":"https://sd-images.operacdn.com/api/v1/images/7e00a60c5fa1b19bbb665395709645693213ac60.png","targetURL":"https://alitems.site/g/vv3q4oey1va47a83735cb6d1781017/?ulp=https%3A%2F%2Fsale.aliexpress.ru%2Fru%2F__pc%2FmezfS0RxVO.htm%3Fspm%3Da2g0o.best.channel.2.70955430m253MZ%26_ga%3D2.161453502.2030235791.1648471689-996263526.1648471689\u0026subid=search","faviconURL":"https://sd-images.operacdn.com/api/v1/images/9c6f0b19b3f7c200d6fb1367826ce0d418ccceda.png","provider":"AliExpress"}],"locale":"ru","eventTime":1648533600,"showCounter":false,"visibilityEnd":1648792800,"visibilityStart":1648533600}]}

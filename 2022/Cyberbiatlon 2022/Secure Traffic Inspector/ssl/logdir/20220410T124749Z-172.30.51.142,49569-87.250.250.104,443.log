@@ -1,0 +1,23 @@
+POST /csp?from=web4%3Adesktop&project=web4&reqid=1649594867344834-15635838655877501072-sas2-0510-sas-l7-balancer-8080-BAL-4232&yandexuid=2964057031649425726&yandex_login= HTTP/1.1
+Host: csp.yandex.net
+Connection: keep-alive
+Content-Length: 2714
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Content-Type: application/csp-report
+Accept: */*
+Origin: https://yandex.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: report
+Referer: https://yandex.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"csp-report":{"document-uri":"https://yandex.ru/search/?clid=2404991&text=notepad%2B%2B&l10n=ru&lr=213","referrer":"","violated-directive":"script-src-elem","effective-directive":"script-src-elem","original-policy":"child-src 'self' data: blob: yabrowser: yandexadexchange.net *.yandexadexchange.net *.kinopoisk.ru www.youtube.com video.khl.ru www.video.khl.ru 1tv.ru www.1tv.ru stream.1tv.ru www.stream.1tv.ru player.vgtrk.com www.player.vgtrk.com my.ntv.ru www.my.ntv.ru www.ntv.ru otr.webcaster.pro www.otr.webcaster.pro news.sportbox.ru yabs.yandex.ru paymentcard.yamoney.ru widget.bookform.ru *.turbopages.org *.turbo.site mc.yandex.md yoomoney.ru yandex.ru *.yandex.ru yastat.net yastatic.net *.yastatic.net yandex.net *.yandex.net;connect-src 'self' blob: wss://*.yandex.net wss://yandex.net wss://*.yandex.ru wss://yandex.ru yandexmetrica.com:* mc.admetrica.ru mc.yandex.md yandex.ru *.yandex.ru yastat.net yastatic.net *.yastatic.net yandex.net *.yandex.net mc.yandex.com;default-src 'self' blob: yandex.ru *.yandex.ru yastat.net yastatic.net *.yastatic.net yandex.net *.yandex.net;img-src * data: blob:;script-src 'self' 'unsafe-inline' 'unsafe-eval' yandex.ru *.yandex.ru yastat.net yastatic.net *.yastatic.net yandex.net *.yandex.net 'nonce-5466' mc.yandex.com;style-src blob: 'self' 'unsafe-inline' yandex.ru *.yandex.ru yastat.net yastatic.net *.yastatic.net yandex.net *.yandex.net;frame-src 'self' data: blob: yabrowser: yandexadexchange.net *.yandexadexchange.net *.kinopoisk.ru www.youtube.com video.khl.ru www.video.khl.ru 1tv.ru www.1tv.ru stream.1tv.ru www.stream.1tv.ru player.vgtrk.com www.player.vgtrk.com my.ntv.ru www.my.ntv.ru www.ntv.ru otr.webcaster.pro www.otr.webcaster.pro news.sportbox.ru yabs.yandex.ru paymentcard.yamoney.ru widget.bookform.ru *.turbopages.org *.turbo.site mc.yandex.md yoomoney.ru yandex.ru *.yandex.ru yastat.net yastatic.net *.yastatic.net yandex.net *.yandex.net mc.yandex.com;media-src 'self' data: blob: yandex.ru *.yandex.ru yastat.net yastatic.net *.yastatic.net yandex.net *.yandex.net;font-src 'self' data: blob: yandex.ru *.yandex.ru yastat.net yastatic.net *.yastatic.net yandex.net *.yandex.net;frame-ancestors yandex.ru *.yandex.ru sandbox.toloka.yandex.com sandbox.iframe-toloka.com iframe-toloka.com yang.yandex-team.ru;report-uri https://csp.yandex.net/csp?from=web4%3Adesktop&project=web4&reqid=1649594867344834-15635838655877501072-sas2-0510-sas-l7-balancer-8080-BAL-4232&yandexuid=2964057031649425726&yandex_login=;","disposition":"enforce","blocked-uri":"https://yandex.site/","line-number":6,"column-number":96354,"source-file":"https://yastatic.net/s3/web4static/_/v2/qIbantRQpwenj6aWaycb71oY348.js","status-code":200,"script-sample":""}}HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Content-Length: 0
+Date: Sun, 10 Apr 2022 12:47:48 GMT
+

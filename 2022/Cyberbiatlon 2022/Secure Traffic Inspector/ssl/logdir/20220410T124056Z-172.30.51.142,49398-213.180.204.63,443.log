@@ -1,0 +1,11 @@
+GET /suggest-ya.cgi?v=4&part=%D1%8C&l10n=ru HTTP/1.1
+Host: suggest.yandex.ru
+Connection: keep-alive
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: yandexuid=2964057031649425726; yuidss=2964057031649425726; i=5WQb4A7AN45sQYxxB+abEP0J4NMKzE3GqejD8YFwpRyq/lbgO87zI8NvyEgiJktoP+1cOw+1pIfD/ymubd0wT6QanoA=; ymex=1964785726.yrts.1649425726#1964785726.yrtsi.1649425726
+

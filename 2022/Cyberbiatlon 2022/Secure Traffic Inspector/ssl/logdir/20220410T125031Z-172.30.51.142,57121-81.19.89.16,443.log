@@ -1,0 +1,30 @@
+GET /top100.cnt?730049 HTTP/1.1
+Host: counter.rambler.ru
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://www.patriarchia.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: ruid=1CIAAD09UGJvmQouAfxuWwB=
+If-Modified-Since: Mon, 28 Sep 1970 06:00:00 GMT
+
+HTTP/1.1 304 Not Modified
+Server: nginx/1.19.4
+Date: Sun, 10 Apr 2022 12:50:31 GMT
+Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+Connection: keep-alive
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: image/gif
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: content-type
+Access-Control-Allow-Credentials: true
+X-Srv: 1node0043.top100.rambler.tech
+Set-Cookie: proto_uid=1CIAAJfSUmJtNGNFAYh+ZgB=; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rambler.ru; path=/
+P3P: CP="NON DSP NID ADMa DEVa TAIa PSAa PSDa OUR IND UNI COM NAV"
+

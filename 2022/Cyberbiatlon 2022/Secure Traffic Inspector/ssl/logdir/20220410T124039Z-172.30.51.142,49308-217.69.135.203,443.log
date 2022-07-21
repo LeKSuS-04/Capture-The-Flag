@@ -1,0 +1,44 @@
+POST /showpxt?pxn=pulse_show&_=1650318942761&experimentId=undefined&sitezone=15&segment=undefined&page_id=16496844163191649733703256&user_hash=&email=&mpop=2&count_of_email=0&platform=desktop&version=resplash HTTP/1.1
+Host: fmdata.imgsmail.ru
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Sun, 10 Apr 2022 12:40:39 GMT
+Connection: keep-alive
+
+POST /showpxt?pxn=mail_b_show&_=1650557665336&experimentId=undefined&sitezone=15&segment=undefined&page_id=16498975418091649855852955&user_hash=MmFWR3ZLMmVVOEk5MDAwMDBjMUNING85Ojo6MC0wLTAtNzZkMjkwODpDQUFTRVBvQTg4VTkxRjR3ZjFZNmQ2RVRwRklhWUZ2alpjd0U4dGdGNnZSSU00QldOc0E5eGhNOUh3c3NYUFU0bDdtNnlFdDNSYVVxVWoxUVJTR25sTThRLVJMaUtHWjJyN0lCRV9vb044UGtXaEN0SUo3SjF5cHphTVJqUVJKTkZtRlNCSFRxYUNkWU1pOGxCaEFNY1doSmFVQVA2UQ%3D%3D&email=&mpop=0&count_of_email=0&platform=desktop&version=resplash HTTP/1.1
+Host: fmdata.imgsmail.ru
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Sun, 10 Apr 2022 12:41:02 GMT
+Connection: keep-alive
+

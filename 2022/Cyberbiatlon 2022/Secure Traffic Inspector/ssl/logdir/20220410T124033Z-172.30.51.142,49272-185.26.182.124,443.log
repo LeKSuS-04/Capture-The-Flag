@@ -1,0 +1,57 @@
+GET /geolocation/ HTTP/1.1
+Host: autoupdate.geo.opera.com
+Connection: keep-alive
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:40:35 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Allow: HEAD, GET
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0
+Pragma: no-cache
+Expires: Thu, 1 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+2e
+{
+ "country": "RU",
+ "timestamp": 1649594435
+}
+0
+
+POST / HTTP/1.1
+Host: autoupdate.geo.opera.com
+Connection: keep-alive
+Content-Length: 2053
+Content-Type: application/x-www-form-urlencoded
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+
+<?xml version="1.0"?>
+<autoupdate schema-version="2.1" type="automatic" origin="BrowserComponentUpdate"><system><platform><opsys>Windows</opsys><opsys-arch>x86_64</opsys-arch><opsys-version>7</opsys-version><arch>x64</arch><package>EXE</package><physical-memory-mb>4095</physical-memory-mb></platform></system><product installer-settings-ro="1"><name>Opera</name><version>85.0.4341.47</version><language>ru</language><edition/><tracking>OTdmNzM4OTViZTEzNDhkODI1Mzg1MTIyMjVlMDYyYzZmYTgyYjRhOWY2YWMyYTljMjFjZTljNzZhNTExZWI2Mjp7ImNvdW50cnkiOiJSVSIsImh0dHBfcmVmZXJyZXIiOiJodHRwczovL3d3dy5vcGVyYS5jb20vcnUvY29tcHV0ZXIvdGhhbmtzP25pPXN0YWJsZSZvcz13aW5kb3dzIiwiaW5zdGFsbGVyX25hbWUiOiJPcGVyYVNldHVwLmV4ZSIsInByb2R1Y3QiOiJvcGVyYSIsInF1ZXJ5IjoiL29wZXJhL3N0YWJsZS93aW5kb3dzP2h0dHBfcmVmZXJyZXI9aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8mdXRtX3NvdXJjZT1nb29nbGVfdmlhX29wZXJhX2NvbSZ1dG1fbWVkaXVtPW9zZSZ1dG1fY2FtcGFpZ249Z29vZ2xlX29zZV92aWFfb3BlcmFfY29tX2h0dHBzJnV0bV9sYXN0cGFnZT1vcGVyYS5jb20vJmRsX3Rva2VuPTk3OTEwMTU2IiwidGltZXN0YW1wIjoiMTU1OTM4NjE5Mi4wODM4IiwidXNlcmFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xNjkgU2FmYXJpLzUzNy4zNiIsInV0bSI6eyJjYW1wYWlnbiI6Imdvb2dsZV9vc2VfdmlhX29wZXJhX2NvbV9odHRwcyIsImxhc3RwYWdlIjoib3BlcmEuY29tLyIsIm1lZGl1bSI6Im9zZSIsInNvdXJjZSI6Imdvb2dsZV92aWFfb3BlcmFfY29tIn0sInV1aWQiOiIwYTgyNDQ2YS01YWE3LTQ0ZmQtOTUwMC1mYWI0ZmY2NzAxODAifQ==    </tracking><resources><resource><name>PrefsOverride</name><version>10</version></resource><resource><name>sitepatcher_opautoupdatechecker</name><version>1644520200</version></resource><resource><name>sitepatcher_opautoupdatechecker_siteprefs</name><version>1649085319</version></resource><resource><name>Partner Content Autoupdate</name><version>99</version></resource><resource><name>PartnerRules</name><version>1637765741</version></resource><resource><name>Hint</name><version>20096</version></resource><resource><name>autoupdateclient</name><version>1.3.0</version></resource></resources></product></autoupdate>
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:41:31 GMT
+Content-Type: text/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Allow: HEAD, POST
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0
+Pragma: no-cache
+Expires: Thu, 1 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+e6
+<autoupdate schema-version="2.1"><system><metrics><uid /><lut /><metricsfailurenotificationurl>https://autoupdate.geo.opera.com/api/failedmetrics/?uuid=&amp;lut=&amp;</metricsfailurenotificationurl></metrics></system></autoupdate>
+0
+

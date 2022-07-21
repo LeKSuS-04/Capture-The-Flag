@@ -1,0 +1,161 @@
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Date: Sun, 10 Apr 2022 12:43:35 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=900
+ETag: "80252ce6b229d81:0"
+Expires: Sun, 10 Apr 2022 12:58:35 GMT
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-CID: 3
+X-CCC: DK
+MSREGION: EMEA
+Age: 470
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Date: Sun, 10 Apr 2022 12:43:35 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=900
+ETag: "80252ce6b229d81:0"
+Expires: Sun, 10 Apr 2022 12:58:35 GMT
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-CID: 3
+X-CCC: DK
+MSREGION: EMEA
+Age: 488
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Date: Sun, 10 Apr 2022 12:43:35 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=900
+ETag: "80252ce6b229d81:0"
+Expires: Sun, 10 Apr 2022 12:58:35 GMT
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-CID: 3
+X-CCC: DK
+MSREGION: EMEA
+Age: 493
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Date: Sun, 10 Apr 2022 12:43:35 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=900
+ETag: "80252ce6b229d81:0"
+Expires: Sun, 10 Apr 2022 12:58:35 GMT
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-CID: 3
+X-CCC: DK
+MSREGION: EMEA
+Age: 506
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Date: Sun, 10 Apr 2022 12:43:35 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=900
+ETag: "80252ce6b229d81:0"
+Expires: Sun, 10 Apr 2022 12:58:35 GMT
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-CID: 3
+X-CCC: DK
+MSREGION: EMEA
+Age: 510
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Date: Sun, 10 Apr 2022 12:43:35 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=900
+ETag: "80252ce6b229d81:0"
+Expires: Sun, 10 Apr 2022 12:58:35 GMT
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-CID: 3
+X-CCC: DK
+MSREGION: EMEA
+Age: 528
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Date: Sun, 10 Apr 2022 12:43:35 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=900
+ETag: "80252ce6b229d81:0"
+Expires: Sun, 10 Apr 2022 12:58:35 GMT
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-CID: 3
+X-CCC: DK
+MSREGION: EMEA
+Age: 533
+

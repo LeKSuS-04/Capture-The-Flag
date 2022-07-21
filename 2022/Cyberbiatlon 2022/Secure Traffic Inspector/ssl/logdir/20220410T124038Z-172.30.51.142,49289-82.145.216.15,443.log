@@ -1,0 +1,25 @@
+GET /api/v1/thumbnails/mail.ru HTTP/1.1
+Host: speeddials.opera.com
+Connection: keep-alive
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+
+HTTP/1.1 302 Found
+Server: nginx
+Date: Sun, 10 Apr 2022 12:40:38 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Location: https://sd-images.operacdn.com/api/v1/images/6bf7438b92679f2c347d77a64e867c4375ecb8fa.png
+Cache-Control: max-age=84132
+Allow: GET, HEAD, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Content-Type
+ETag: "d41d8cd98f00b204e9800998ecf8427e"
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+0
+

@@ -1,0 +1,35 @@
+OPTIONS /report/v3?s=ngmWdhokNan4hn8UoFGpVivehVhIkb8DlY%2Fpf2eikh2PX%2BKIWv0kRLJe4ths3mo2s%2BE2%2FfE2Op2qP6DErSiuT8DEE1h7WYLi%2Bx4b7%2FpcOvsRHOW%2BmsQ4akfAwdpz4A9SwzgJn2f2rP0%3D HTTP/1.1
+Host: a.nel.cloudflare.com
+Connection: keep-alive
+Origin: https://notepad-plus-plus.org
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 200 OK
+content-length: 0
+access-control-max-age: 86400
+access-control-allow-methods: OPTIONS, POST
+access-control-allow-origin: *
+access-control-allow-headers: content-length, content-type
+date: Sun, 10 Apr 2022 12:48:13 GMT
+Via: 1.1 google
+Alt-Svc: clear
+
+POST /report/v3?s=ngmWdhokNan4hn8UoFGpVivehVhIkb8DlY%2Fpf2eikh2PX%2BKIWv0kRLJe4ths3mo2s%2BE2%2FfE2Op2qP6DErSiuT8DEE1h7WYLi%2Bx4b7%2FpcOvsRHOW%2BmsQ4akfAwdpz4A9SwzgJn2f2rP0%3D HTTP/1.1
+Host: a.nel.cloudflare.com
+Connection: keep-alive
+Content-Length: 939
+Content-Type: application/reports+json
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"age":19282,"body":{"elapsed_time":95,"method":"GET","phase":"application","protocol":"http/1.1","referrer":"https://notepad-plus-plus.org/","sampling_fraction":1.0,"server_ip":"172.67.213.166","status_code":404,"type":"http.error"},"type":"network-error","url":"https://notepad-plus-plus.org/android-chrome-512x512.png","user_agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47"},{"age":19606,"body":{"elapsed_time":62,"method":"GET","phase":"application","protocol":"http/1.1","referrer":"https://notepad-plus-plus.org/","sampling_fraction":1.0,"server_ip":"172.67.213.166","status_code":404,"type":"http.error"},"type":"network-error","url":"https://notepad-plus-plus.org/android-chrome-192x192.png","user_agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47"}]HTTP/1.1 200 OK
+content-length: 0
+date: Sun, 10 Apr 2022 12:48:13 GMT
+Via: 1.1 google
+Alt-Svc: clear
+

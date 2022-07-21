@@ -1,0 +1,49 @@
+POST /bx_stat HTTP/1.1
+Host: bitrix.info
+Connection: keep-alive
+Content-Length: 378
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: http://www.airportufa.ru
+Referer: http://www.airportufa.ru/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+d=www.airportufa.ru&ru=%2F&dns=0&tcp=20&srt=109&pdt=2&rrt=3&dit=361&clt=361&st=&prc=183&sr=1440x900&com=0&slr=0&tmz=-180&xts=1649594606664&ver=2&aid=29f2f3dae64588b53a57ce923a0df5b5&lcp=361&ptitle_64=0JDQniDCq9Cc0LXQttC00YPQvdCw0YDQvtC00L3Ri9C5INCw0Y3RgNC%2B0L%2FQvtGA0YIgwqvQo9GE0LDCuw%3D%3D&ph1_64=0JzQtdC20LTRg9C90LDRgNC%2B0LTQvdGL0LnQsNGN0YDQvtC%2F0L7RgNGCIMKr0KPRhNCwwrs%3DHTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://www.airportufa.ru
+Content-Type: application/javascript
+Date: Sun, 10 Apr 2022 12:43:30 GMT
+ETag: 92cfc880726a1d6526de574dcedf6e1d
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Server: nginx/1.10.1
+Set-Cookie: bx_user_id=92cfc880726a1d6526de574dcedf6e1d; expires=Wed, 07-Apr-32 12:43:30 GMT; path=/; domain=bitrix.info; SameSite=None; Secure
+Content-Length: 42
+Connection: keep-alive
+
+{"uid":"92cfc880726a1d6526de574dcedf6e1d"}POST /bx_stat HTTP/1.1
+Host: bitrix.info
+Connection: keep-alive
+Content-Length: 376
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: http://www.airportufa.ru
+Referer: http://www.airportufa.ru/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+d=www.airportufa.ru&ru=%2F&dns=0&tcp=0&srt=95&pdt=9&rrt=6&dit=341&clt=341&st=&prc=178&sr=1440x900&com=0&slr=0&tmz=-180&xts=1649594609151&ver=2&aid=29f2f3dae64588b53a57ce923a0df5b5&lcp=341&ptitle_64=0JDQniDCq9Cc0LXQttC00YPQvdCw0YDQvtC00L3Ri9C5INCw0Y3RgNC%2B0L%2FQvtGA0YIgwqvQo9GE0LDCuw%3D%3D&ph1_64=0JzQtdC20LTRg9C90LDRgNC%2B0LTQvdGL0LnQsNGN0YDQvtC%2F0L7RgNGCIMKr0KPRhNCwwrs%3DHTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://www.airportufa.ru
+Content-Type: application/javascript
+Date: Sun, 10 Apr 2022 12:43:32 GMT
+ETag: 77e1e2727cf1a47a6623977c91ecd336
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Server: nginx/1.10.1
+Set-Cookie: bx_user_id=77e1e2727cf1a47a6623977c91ecd336; expires=Wed, 07-Apr-32 12:43:32 GMT; path=/; domain=bitrix.info; SameSite=None; Secure
+Content-Length: 42
+Connection: keep-alive
+
+{"uid":"77e1e2727cf1a47a6623977c91ecd336"}

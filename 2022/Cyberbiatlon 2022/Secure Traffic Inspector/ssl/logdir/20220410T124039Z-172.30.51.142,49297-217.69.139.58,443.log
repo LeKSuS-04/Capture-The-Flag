@@ -1,0 +1,67 @@
+GET /NaviData?mac=1&Socials=1&ldata=1&ok_counters=1&_=1649767476430 HTTP/1.1
+Host: portal.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: act=aa8d600b6aea4a70813058a67050d659; mrcu=79946252D0433A68EF927B754FD5; s=ww=1400|wh=788
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Sun, 10 Apr 2022 12:40:38 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 54
+Connection: keep-alive
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Sat, 10 Apr 2021 12:40:38 GMT
+Last-Modified: Sun, 10 Apr 2022 15:40:38 GMT
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Credentials: true
+X-Mru-Request-Id: 24056b00
+X-Host: spf16.i.mail.ru
+
+{"status":"noauth","data":{"action":"list","list":[]}}GET /NaviData?mac=1&Socials=1&ldata=1&ok_counters=1&_=1649728380464 HTTP/1.1
+Host: portal.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: act=aa8d600b6aea4a70813058a67050d659; mrcu=79946252D0433A68EF927B754FD5; p=v3EBAOkilvQA; searchuid=2964057031649425726; tmr_lvid=a726b3bcc70b1bbb986830becc80a966; tmr_lvidTS=1649594438750; mtrc=%7B%22mytrackerid%22%3A58519%2C%22tmr_lvid%22%3A%22undefined%22%7D; i=AQBG0FJiAgC9BwgEAYIVAYkNBQIBAA==; tmr_reqNum=9; VID=2aVGvK2eU8I900000c1CH4o9:::0-0-0-76d2908:CAASEPoA88U91F4wf1Y6d6ETpFIaYFvjZcwE8tgF6vRIM4BWNsA9xhM9HwssXPU4l7m6yEt3RaUqUj1QRSGnlM8Q-RLiKGZ2r7IBE_ooN8PkWhCtIJ7J1ypzaMRjQRJNFmFSBHTqaCdYMi8lBhAMcWhJaUAP6Q; s=ww=1400|wh=790|fver=0; b=k0oNAKDlQBUA96OFCYkt0QkVUosMe12rCX8nBQpBnm8MlaqFCT/c4QgBAAAIr1tICgcywwxBrVMMrzanDAAA; c=XtBSYgEAAHsTAAAUAAAACQAQ
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Sun, 10 Apr 2022 12:41:02 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 54
+Connection: keep-alive
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Sat, 10 Apr 2021 12:41:02 GMT
+Last-Modified: Sun, 10 Apr 2022 15:41:02 GMT
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Credentials: true
+X-Mru-Request-Id: acee4d5b
+X-Host: spf16.i.mail.ru
+
+{"status":"noauth","data":{"action":"list","list":[]}}

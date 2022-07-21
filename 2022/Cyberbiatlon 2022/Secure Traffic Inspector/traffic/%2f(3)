@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="cmsmagazine" content="189f7bf1ce74ebf1535cc7e1d6cd03eb" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/icon_144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/icon_114x114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/icon_72x72.png">
+	<link rel="apple-touch-icon-precomposed" href="/icon_57x57.png">
+
+	<link rel="icon" type="image/png" href="/icon_114x114.png" sizes="114x114">
+	<link rel="icon" type="image/png" href="/icon_128x128.png" sizes="128x128">
+	<link rel="icon" type="image/png" href="/icon_144x144.png" sizes="144x144">
+	<link rel="icon" type="image/png" href="/icon_16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="/icon_195x195.png" sizes="195x195">
+	<link rel="icon" type="image/png" href="/icon_256x256.png" sizes="256x256">
+	<link rel="icon" type="image/png" href="/icon_276x276.png" sizes="276x276">
+	<link rel="icon" type="image/png" href="/icon_32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/icon_57x57.png" sizes="57x57">
+	<link rel="icon" type="image/png" href="/icon_64x64.png" sizes="64x64">
+	<link rel="icon" type="image/png" href="/icon_96x96.png" sizes="96x96">
+
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/mstile_icon_144x144.png">
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/cache/css/s1/main2019/kernel_main/kernel_main_v1.css?164628802028822" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/main2019/template_c7bcfb4c00eb411104ccba2bbbfb4bae/template_c7bcfb4c00eb411104ccba2bbbfb4bae_v1.css?1649415340344603" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'18000','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1649595028','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'8013260287cb5a403e8e50e3038927f1'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/main2019/kernel_main/kernel_main_v1.js?1646288020330401"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/main2019/kernel_main_polyfill_promise/kernel_main_polyfill_promise_v1.js?16462878242506"></script>
+<script type="text/javascript" src="/bitrix/js/main/loadext/loadext.min.js?1580470667810"></script>
+<script type="text/javascript" src="/bitrix/js/main/loadext/extension.min.js?15804706671304"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/polyfill/promise/js/promise.js','/local/templates/main2019/assets/js/main.js','/local/templates/main2019/assets/js/custom.js','/local/templates/main2019/assets/js/slep/uhpv-full.min.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/local/templates/main2019/assets/css/main.css','/local/templates/main2019/assets/css/common.css','/local/templates/main2019/assets/css/custom.css']); </script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/main2019/template_ef0ea988efe981e4dc1590e4ab1b0730/template_ef0ea988efe981e4dc1590e4ab1b0730_v1.js?1647248547385479"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "29f2f3dae64588b53a57ce923a0df5b5"]); _ba.push(["host", "www.airportufa.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+	<title>АО «Международный аэропорт «Уфа»</title>
+
+			
+						</head>
+
+<body>
+<div id="panel"></div>
+
+
+<div class="l-theme ">
+	<div class="l-wrap">
+
+<header class="header">
+					<div class="header-top">
+		<div class="container">
+			<div class="header-top__inner row justify-content-between align-items-center">
+				<div class="col-md col-auto">
+					<div class="header-switcher">
+						<!-- Если checked, то переключатель на партнерах -->
+						<input type="checkbox" class="header-switcher__input custom-control-input js-header-toggle-partner_pass" id="headerSwitcher" value="1" >
+						<label class="header-switcher__label" for="headerSwitcher">
+							<span class="header-switcher__item">Пассажирам</span>
+							<span class="header-switcher__check"></span>
+							<span class="header-switcher__item">Партнерам</span>
+						</label>
+					</div>
+				</div>
+				<div class="col-auto">
+					<div class="d-lg-block d-none">
+						
+
+			<a class="header-top__link" href="/scoreboard/" >Онлайн-табло</a>
+			<a class="header-top__link" href="/scheme/" >Схема аэропорта</a>
+			<a class="header-top__link" href="/feedback/" >Обратная связь</a>
+							<div class="header-top__group">
+							<button data-href="/search/" class="header-top__btn header-top__btn_search" type="button">
+								<svg class="ic" width="24" height="24">
+								<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#search"></use>
+								</svg>
+							</button>
+							<button id="specialButton_desc" class="header-top__btn header-top__btn_accessibility" type="button">
+								<svg class="ic" width="20" height="20">
+								<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#accessibility"></use>
+								</svg>
+							</button>
+							<div class="header-language header-top__btn dropdown">
+								<a class="header-language__link dropdown-toggle" href="/" role="button" id="dropdownLangLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<img class="header-language__img img-fluid" src="/local/templates/main2019/assets/media/general/language-ru.png" alt="RU">
+									<span class="header-language__name">RU</span>
+								</a>
+								<div class="header-language__menu dropdown-menu" aria-labelledby="dropdownLangLink">
+									<a class="header-language__item header-language__link dropdown-item" href="/en/">
+										<img class="header-language__img img-fluid" src="/local/templates/main2019/assets/media/general/language-en.png" alt="EN">
+										<span class="header-language__name">EN</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<button class="toggle-menu-button navbar-toggler d-lg-none d-inline-block" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+						<i class="toggle-menu-button-icon"><span></span><span></span><span></span><span></span><span></span><span></span></i>
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="header-main">
+		<div class="container">
+			<div class="row justify-content-between">
+				<div class="col col__logo">
+					<a class="header__logo" href="/">
+						<picture>
+															<source srcset="/local/templates/main2019/assets/media/general/logo-mob.png" media="(max-width: 767px)"><img class="img-fluid" src="/local/templates/main2019/assets/media/general/logo.png" alt="Международный аэропорт Уфа">
+													</picture>
+					</a>
+                    <div class="medal">
+                        <a href="https://airportufa.ru/news/2022/mezhdunarodnyy-aeroport-ufa-poluchil-4-zvezdy-v-reytinge-mezhdunarodnogo-aviatransportnogo-ag/" target="_blank">
+							<img src="/images/medal-new.png" alt="">
+						</a>
+                    </div>
+				</div>
+				<div class="col-auto d-lg-inline-block d-none">
+					<div class="header-main__links">
+						<a class="header__phone" href="tel:+73472295500">+7 (347) 229-55-00</a>						<button class="toggle-menu-button navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">Меню<i class="toggle-menu-button-icon"><span></span><span></span><span></span><span></span><span></span><span></span></i></button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header-nav">
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<div class="header__mobile-group d-lg-none d-block">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm">
+								<button data-href="/search/" class="header-top__btn header-top__btn_search" type="button">
+									<svg class="ic" width="24" height="24">
+										<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#search"></use>
+									</svg>
+								</button>
+								<button id="specialButton_mob" class="header-top__btn header-top__btn_accessibility" type="button">
+									<svg class="ic" width="20" height="20">
+									<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#accessibility"></use>
+									</svg>
+								</button>
+								<div class="header-language header-top__btn dropdown">
+									<a class="header-language__link dropdown-toggle" href="/" role="button" id="dropdownLangLinkMob" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+										<img class="header-language__img img-fluid" src="/local/templates/main2019/assets/media/general/language-ru.png" alt="RU">
+										<span class="header-language__name">RU</span>
+										<svg class="ic" width="10" height="7">
+											<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-down"></use>
+										</svg>
+									</a>
+									<div class="header-language__menu dropdown-menu" aria-labelledby="dropdownLangLinkMob">
+										<a class="header-language__item header-language__link dropdown-item" href="/en/">
+											<img class="header-language__img img-fluid" src="/local/templates/main2019/assets/media/general/language-en.png" alt="EN">
+											<span class="header-language__name">EN</span>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-auto">
+								<a class="header__phone" href="tel:+73472295500">+7 (347) 229-55-00</a>							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="container">
+					<div class="row justify-content-between">
+						<div class="col-xl-auto">
+							
+
+<ul class="main-menu navbar-nav list-num">
+					<li class="main-menu__item"><a class="main-menu__link " href="/scoreboard/" >Онлайн-табло</a></li>
+					<li class="main-menu__item"><a class="main-menu__link " href="/schedule/" >Сезонное расписание</a></li>
+					<li class="main-menu__item"><a class="main-menu__link " href="/services/" >Услуги</a></li>
+					<li class="main-menu__item"><a class="main-menu__link " href="/regulations/" >Информация</a></li>
+					<li class="main-menu__item"><a class="main-menu__link " href="/regulations/get/" >Как добраться</a></li>
+					<li class="main-menu__item"><a class="main-menu__link " href="/contacts/" >Контакты</a></li>
+					<li class="main-menu__item"><a class="main-menu__link main-menu__link_sm" href="/about/" >Об аэропорте</a></li>
+					<li class="main-menu__item"><a class="main-menu__link main-menu__link_sm" href="/partners/" >Партнерам</a></li>
+					<li class="main-menu__item"><a class="main-menu__link main-menu__link_sm" href="/news/" >Пресс-центр</a></li>
+	</ul>
+
+						</div>
+						<div class="col-xl-6">
+							<div class="header-nav__cards">
+								<div class="row row_sm-mrg">
+									
+
+		<div class="col-md-6">
+		<a class="header-card " href="/buy/">
+			<span class="header-card__label">
+				<svg class="ic" width="47" height="47">
+					<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#tickets-2"></use>
+				</svg>
+			</span>
+			<div class="header-card__title">Купить билеты</div>
+		</a>
+	</div>
+		<div class="col-md-6">
+		<a class="header-card " href="/regulations/get/parking/">
+			<span class="header-card__label">
+				<svg class="ic" width="47" height="47">
+					<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#parking-2"></use>
+				</svg>
+			</span>
+			<div class="header-card__title">Парковки</div>
+		</a>
+	</div>
+		<div class="col-md-6">
+		<a class="header-card " href="/regulations/get/">
+			<span class="header-card__label">
+				<svg class="ic" width="47" height="47">
+					<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#map-2"></use>
+				</svg>
+			</span>
+			<div class="header-card__title">Как добраться</div>
+		</a>
+	</div>
+		<div class="col-md-6">
+		<a class="header-card " href="/scheme/">
+			<span class="header-card__label">
+				<svg class="ic" width="47" height="47">
+					<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#map-2"></use>
+				</svg>
+			</span>
+			<div class="header-card__title">Схема аэропорта</div>
+		</a>
+	</div>
+		<div class="col-md-6">
+		<a class="header-card " href="/feedback/">
+			<span class="header-card__label">
+				<svg class="ic" width="47" height="47">
+					<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#doc"></use>
+				</svg>
+			</span>
+			<div class="header-card__title">Обратная связь</div>
+		</a>
+	</div>
+		<div class="col-md-6">
+		<a class="header-card " href="/online-registration/">
+			<span class="header-card__label">
+				<svg class="ic" width="47" height="47">
+					<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-online"></use>
+				</svg>
+			</span>
+			<div class="header-card__title">Онлайн-регистрация</div>
+		</a>
+	</div>
+		<div class="col-md-6">
+		<a class="header-card " href="/secret/">
+			<span class="header-card__label">
+				<svg class="ic" width="47" height="47">
+					<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#doc"></use>
+				</svg>
+			</span>
+			<div class="header-card__title">Тайный пассажир</div>
+		</a>
+	</div>
+		<div class="col-md-6">
+		<a class="header-card " href="/info/">
+			<span class="header-card__label">
+				<svg class="ic" width="47" height="47">
+					<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-vip"></use>
+				</svg>
+			</span>
+			<div class="header-card__title">VIP - зал</div>
+		</a>
+	</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="container">
+					<div class="b-main-links">
+						
+
+		<a class="b-main-links__item" href="/scoreboard/">
+		<div class="b-main-links__title">Вылет</div>
+		<div class="b-main-links__info">Вылетающим и провожающим</div>
+	</a>
+		<a class="b-main-links__item" href="/scoreboard/arrival/">
+		<div class="b-main-links__title">Прилет</div>
+		<div class="b-main-links__info">Прилетающим и встречающим</div>
+	</a>
+		<a class="b-main-links__item" href="/scoreboard/transfer/">
+		<div class="b-main-links__title">Трансфер и транзит</div>
+		<div class="b-main-links__info">Совершающим пересадку</div>
+	</a>
+					</div>
+				</div>
+			</div>
+			<!-- end .navig-->
+
+		</div>
+	</div>
+</header>
+
+<main class="l-main">
+  <div class="b-main">
+    <div class="container">
+      <div class="b-main__inner">
+        <div class="b-main__wrap">
+          <h1 class="ui-title-page">Международный<br>аэропорт<span class="text-primary"> «Уфа»</span></h1>
+
+          <div class="b-main-links">
+            
+
+		<a class="b-main-links__item" href="/scoreboard/">
+		<div class="b-main-links__title">Вылет</div>
+		<div class="b-main-links__info">Вылетающим и провожающим</div>
+	</a>
+		<a class="b-main-links__item" href="/scoreboard/arrival/">
+		<div class="b-main-links__title">Прилет</div>
+		<div class="b-main-links__info">Прилетающим и встречающим</div>
+	</a>
+		<a class="b-main-links__item" href="/scoreboard/transfer/">
+		<div class="b-main-links__title">Трансфер и транзит</div>
+		<div class="b-main-links__info">Совершающим пересадку</div>
+	</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- end .b-main-->
+          
+  <section class="section-default bg-gray">
+    <div class="container">
+      <div class="ui-title-wrap">
+        <div class="row align-items-baseline">
+          <div class="col-xl">
+            <h2 class="ui-title">
+				<span class="js-container-toggle-passenger ">
+					Предложения для<span class="text-primary"> пассажиров</span>
+				</span>
+				<span class="js-container-toggle-partner hidden">
+					Предложения для<span class="text-primary"> партнеров</span>
+				</span>
+			</h2>
+          </div>
+          <div class="col-xl-auto">
+            <div class="ui-list-links__container ui-list-links__container_gray">
+              <div class="ui-list-links__wrap js-container-toggle-passenger ">
+					<ul class="ui-list-links list-unstyled">
+	<li class="ui-list-links__item">
+		<a class="ui-list-links__link" href="/scoreboard/">Онлайн-табло</a>
+	</li>
+	<li class="ui-list-links__item">
+		<a class="ui-list-links__link" href="/regulations/get/parking/">Парковки</a>
+	</li>
+	<li class="ui-list-links__item">
+		<a class="ui-list-links__link" href="/scheme/">Схема аэропорта</a>
+	</li>
+	<li class="ui-list-links__item ui-list-links__item-main">
+		<a class="ui-list-links__link" href="/services/">
+			<svg class="ic" width="20" height="20">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#burger"></use>
+			</svg>
+			Все услуги
+		</a>
+	</li>
+</ul>              </div>
+			  <div class="ui-list-links__wrap js-container-toggle-partner hidden">
+					<ul class="ui-list-links list-unstyled">
+	<li class="ui-list-links__item">
+		<a class="ui-list-links__link" href="/scoreboard/">Онлайн-табло</a>
+	</li>
+	<li class="ui-list-links__item">
+		<a class="ui-list-links__link" href="/regulations/get/parking/">Парковки</a>
+	</li>
+	<li class="ui-list-links__item">
+		<a class="ui-list-links__link" href="/scheme/">Схема аэропорта</a>
+	</li>
+	<li class="ui-list-links__item ui-list-links__item-main">
+		<a class="ui-list-links__link" href="/partners/">
+			<svg class="ic" width="20" height="20">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#burger"></use>
+			</svg>
+			Партнерам
+		</a>
+	</li>
+</ul>			  </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row js-container-toggle-passenger ">
+			<div class="col-xl-6">
+    <div class="row">
+        <div class="col-md-6">
+            <a class="b-card" href="/buy/">
+                <span class="b-card__label">
+                    <svg class="ic" width="79.51" height="57.24">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-buy"></use>
+                    </svg>
+                </span>
+                <div class="b-card__title">Купить билеты</div>
+                <div class="b-card__info">Подробнее
+                    <svg class="ic" width="18" height="20">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+                    </svg>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-6">
+			<a class="b-card" href="/biznes-zal/" target="_blank">
+                <span class="b-card__label">
+                    <svg class="ic" width="44.77" height="57.24">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-vip"></use>
+                    </svg>
+                </span>
+                <div class="b-card__title">Бизнес-зал и приоритетное обслуживание</div>
+                <div class="b-card__info">Подробнее
+                    <svg class="ic" width="18" height="20">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+                    </svg>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-6">
+            <a class="b-card" href="/regulations/physical-disabilities/#heading22">
+                <span class="b-card__label">
+                    <svg class="ic" width="60" height="60">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#disabled-sign"></use>
+                    </svg>
+                </span>
+                <div class="b-card__title">Пассажирам с&nbsp;ОФВ</div>
+                <div class="b-card__info">Подробнее
+                    <svg class="ic" width="18" height="20">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+                    </svg>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-6">
+            <a class="b-card" href="/regulations/get/parking/">
+                <span class="b-card__label">
+                    <svg class="ic" width="60" height="60">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-parking"></use>
+                    </svg>
+                </span>
+                <div class="b-card__title">Парковки</div>
+                <div class="b-card__info">Подробнее
+                    <svg class="ic" width="18" height="20">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+                    </svg>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-6">
+            <a class="b-card" href="/online-registration/">
+                <span class="b-card__label">
+                    <svg class="ic" width="62" height="57">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-online"></use>
+                    </svg>
+                </span>
+                <div class="b-card__title">Онлайн-регистрация</div>
+                <div class="b-card__info">Подробнее
+                    <svg class="ic" width="18" height="20">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+                    </svg>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-6">
+            <a class="b-card" href="/about/vacancies/">
+                <span class="b-card__label">
+                    <svg class="ic" width="60" height="60">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#case"></use>
+                    </svg>
+                </span>
+                <div class="b-card__title">Работа в&nbsp;аэропорту</div>
+                <div class="b-card__info">Подробнее
+                    <svg class="ic" width="18" height="20">
+                    <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+                    </svg>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="col-xl-6">
+    <div class="row flex-xl-wrap-reverse">
+        <div class="col-12">
+            <div class="row">
+                <div class="col-md-6">
+                    <a class="b-card" href="/services/services/post/">
+                        <span class="b-card__label">
+                            <svg class="ic" width="53" height="57">
+                            <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-post"></use>
+                            </svg>
+                        </span>
+                        <div class="b-card__title">Грузоперевозки</div>
+                        <div class="b-card__info">Подробнее
+                            <svg class="ic" width="18" height="20">
+                            <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+                            </svg>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6">
+                    <a class="b-card" href="/airlines/">
+                        <span class="b-card__label">
+                            <svg class="ic" width="60" height="60">
+                            <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#map-2"></use>
+                            </svg>
+                        </span>
+                        <div class="b-card__title">Представительства авиакомпаний</div>
+                        <div class="b-card__info">Подробнее
+                            <svg class="ic" width="18" height="20">
+                            <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+                            </svg>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div id="comp_87184f2d81eb3ef664c45b233c4e3928">
+	<div class="b-card-slider js-slider" data-slick="{&quot;arrows&quot;: false}">
+					<div class="b-card-lg">
+				<a class="b-card-lg__inner" href="https://airportufa.ru/news/2022/vazhnaya-informatsiya-dlya-passazhirov-ob-ogranichenii-poletov/">
+					<img class="b-card-lg__label" src="">
+					<div class="b-card-lg__img"><img class="img-fluid" src="/upload/resize_cache/iblock/b79/500_490_2/b79e0ef6cac841062361fe0c3331c5fa.jpg" alt="фото"></div>
+					<div class="b-card-lg__wrap">
+					<div class="b-card-lg__title">Сообщение Росавиации</div>
+					<div class="b-card-lg__subtitle"></div>
+					<div class="b-card-lg__info"></div>
+					</div>
+				</a>
+			</div>
+			</div>
+</div>        </div>
+    </div>
+</div>
+      </div>
+	  <div class="row js-container-toggle-partner hidden">
+			<div class="col-xl-6">
+  <div class="row">
+    <div class="col-md-6">
+      <a class="b-card" href="/partners/tenants/interaction/">
+        <span class="b-card__label">
+          <svg class="ic" width="60" height="60">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#order"></use>
+          </svg>
+        </span>
+        <div class="b-card__title">Порядок взаимодействия</div>
+        <div class="b-card__info">Подробнее
+          <svg class="ic" width="18" height="20">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-6">
+      <a class="b-card" href="/partners/info/advertising/">
+        <span class="b-card__label">
+          <svg class="ic" width="66" height="60">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#billboard"></use>
+          </svg>
+        </span>
+        <div class="b-card__title">Реклама в&nbsp;аэропорту</div>
+        <div class="b-card__info">Подробнее
+          <svg class="ic" width="18" height="20">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-6">
+      <a class="b-card" href="/partners/tenants/rental/">
+        <span class="b-card__label">
+          <svg class="ic" width="60" height="60">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#rent"></use>
+          </svg>
+        </span>
+        <div class="b-card__title">Аренда площадей</div>
+        <div class="b-card__info">Подробнее
+          <svg class="ic" width="18" height="20">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-6">
+      <a class="b-card" href="/partners/info/cargo/">
+        <span class="b-card__label">
+          <svg class="ic" width="60" height="60">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-post"></use>
+          </svg>
+        </span>
+        <div class="b-card__title">Грузоперевозки</div>
+        <div class="b-card__info">Подробнее
+          <svg class="ic" width="18" height="20">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-6">
+      <a class="b-card" href="/partners/info/transfer/">
+        <span class="b-card__label">
+          <svg class="ic" width="60" height="60">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#transfer"></use>
+          </svg>
+        </span>
+        <div class="b-card__title">Трансферные перевозки</div>
+        <div class="b-card__info">Подробнее
+          <svg class="ic" width="18" height="20">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-6">
+      <a class="b-card" href="/partners/info/clearance/">
+        <span class="b-card__label">
+          <svg class="ic" width="60" height="60">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-press-center"></use>
+          </svg>
+        </span>
+        <div class="b-card__title">Оформление пропусков</div>
+        <div class="b-card__info">Подробнее
+          <svg class="ic" width="18" height="20">
+          <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="col-xl-6">
+  <div class="row flex-xl-wrap-reverse">
+    <div class="col-12">
+      <div class="row">
+        <div class="col-md-6">
+          <a class="b-card" href="/partners/airlines/rates/">
+            <span class="b-card__label">
+              <svg class="ic" width="60" height="60">
+              <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#tarifs"></use>
+              </svg>
+            </span>
+            <div class="b-card__title">Ставки и&nbsp;тарифы</div>
+            <div class="b-card__info">Подробнее
+              <svg class="ic" width="18" height="20">
+              <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+              </svg>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6">
+          <a class="b-card" href="/secret/">
+            <span class="b-card__label">
+              <svg class="ic" width="60" height="60">
+              <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#new-secret"></use>
+              </svg>
+            </span>
+            <div class="b-card__title">Тайный пассажир</div>
+            <div class="b-card__info">Подробнее
+              <svg class="ic" width="18" height="20">
+              <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+              </svg>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="col-12">
+      <div id="comp_0f10637012b457eb68e504a1efa62aec">
+	<div class="b-card-slider js-slider" data-slick="{&quot;arrows&quot;: false}">
+					<div class="b-card-lg">
+				<a class="b-card-lg__inner" href="https://airportufa.ru/news/2022/vazhnaya-informatsiya-dlya-passazhirov-ob-ogranichenii-poletov/">
+					<img class="b-card-lg__label" src="">
+					<div class="b-card-lg__img"><img class="img-fluid" src="/upload/resize_cache/iblock/b79/500_490_2/b79e0ef6cac841062361fe0c3331c5fa.jpg" alt="фото"></div>
+					<div class="b-card-lg__wrap">
+					<div class="b-card-lg__title">Сообщение Росавиации</div>
+					<div class="b-card-lg__subtitle"></div>
+					<div class="b-card-lg__info"></div>
+					</div>
+				</a>
+			</div>
+			</div>
+</div>    </div>
+  </div>
+</div>
+	  </div>
+    </div>
+  </section>
+      
+      
+  <div class="section-bnrs bg-gray">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div id="comp_82c7a6d1c75826e83b056bd60f037bb0">
+	<div class="b-bnr-slider js-slider" data-slick="{&quot;arrows&quot;: false, &quot;dots&quot;: true}">
+					<a class="b-bnr" href="/services/parking/d2/">
+				<div class="b-bnr__wrap">
+					<picture>
+						<source srcset="/upload/iblock/4e5/4e5b0135a8d581d052d148875788a4ff.png" media="(max-width: 767px)">
+						<img class="b-bnr__img img-scale" src="/upload/iblock/f18/f18e2b45e15c880ee67a9f49e6c44123.png">
+					</picture>
+					<span class="b-bnr__label">Парковка d2</span>
+					<div class="b-bnr__inner">
+						<div class="row">
+							<div class="col-xl-6">
+								<div class="b-bnr__title"><span class="text-primary">200 рублей в сутки<br></span> </div>
+								<div class="b-bnr__info"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</a>
+					<a class="b-bnr" href="/services/parking/c5/">
+				<div class="b-bnr__wrap">
+					<picture>
+						<source srcset="/upload/iblock/099/0990edd04f1c2d3f40a558ca0ef2c7df.png" media="(max-width: 767px)">
+						<img class="b-bnr__img img-scale" src="/upload/iblock/82a/82a7cbe9ac70679149df05c1c913410c.png">
+					</picture>
+					<span class="b-bnr__label">Парковка c5</span>
+					<div class="b-bnr__inner">
+						<div class="row">
+							<div class="col-xl-6">
+								<div class="b-bnr__title"><span class="text-primary">Для ожидания<br></span> рейса</div>
+								<div class="b-bnr__info">До 120 минут бесплатно</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</a>
+			</div>
+</div>        </div>
+        <div class="col-lg-6">
+          <div id="comp_f9671c674846583a9e70a6cb9c4ed2a3">
+	<div class="b-bnr-slider js-slider" data-slick="{&quot;arrows&quot;: false}">
+					<a class="b-bnr" href="/services/parking/c2/">
+				<div class="b-bnr__wrap">
+					<picture>
+						<source srcset="/upload/iblock/9ab/9abdc7ba04a73510305b96d0cbe1c51c.png" media="(max-width: 767px)">
+						<img class="b-bnr__img img-scale" src="/upload/iblock/34b/34b9a1a284a48f31fa1ed74c321613d4.png">
+					</picture>
+					<span class="b-bnr__label">Парковка c2</span>
+					<div class="b-bnr__inner">
+						<div class="row">
+							<div class="col-xl-6">
+								<div class="b-bnr__title"><span class="text-primary">До терминалов —<br></span> бесплатно</div>
+								<div class="b-bnr__info">Возможна оплата банковскими картами</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</a>
+			</div>
+</div>        </div>
+      </div>
+    </div>
+  </div>
+      
+      
+  <section class="section-news section-default bg-white">
+    <div class="container">
+      <div class="ui-title-wrap">
+        <div class="row align-items-baseline">
+          <div class="col-xl">
+            <h2 class="ui-title">Новости</h2>
+          </div>
+          <div class="col-xl-auto">
+            <div class="ui-list-links__container">
+              <div class="ui-list-links__wrap">
+                <ul class="ui-list-links list-unstyled">
+                  <li class="ui-list-links__item">
+                    <a class="ui-list-links__link" href="/museum/">Музей</a>
+                  </li>
+                  <li class="ui-list-links__item">
+                    <a class="ui-list-links__link" href="/news/">Пресс-центр</a>
+                  </li>
+                  <li class="ui-list-links__item ui-list-links__item-main">
+                    <a class="ui-list-links__link" href="/news/">
+                      <svg class="ic" width="20" height="20">
+                      <use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#burger"></use>
+                      </svg>
+                      Все новости
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row justify-content-between">
+        
+<div class="col-auto">
+	<a class="b-news" href="/news/2022/v-mezhdunarodnom-aeroportu-ufa-otkrylas-gosapteka/">
+		<div class="b-news__title">В международном аэропорту «Уфа» открылась «Госаптека»</div>
+		<span class="b-news__date">08&nbsp;апр. 2022&nbsp;г.			<svg class="ic stroke-primary" width="18" height="20">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+			</svg>
+		</span>
+	</a>
+	<!-- end .b-news-->
+</div>
+<div class="col-auto">
+	<a class="b-news" href="/news/2022/vpervye-iz-aeroporta-ufa-mozhno-budet-doletet-do-krasnoyarska/">
+		<div class="b-news__title">Впервые из аэропорта «Уфа» можно будет долететь до Красноярска</div>
+		<span class="b-news__date">03&nbsp;апр. 2022&nbsp;г.			<svg class="ic stroke-primary" width="18" height="20">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+			</svg>
+		</span>
+	</a>
+	<!-- end .b-news-->
+</div>
+<div class="col-auto">
+	<a class="b-news" href="/news/2022/aviakompaniya-red-wings-zapuskaet-reysy-v-turetskuyu-antalyu-so-svobodnoy-prodazhey-biletov/">
+		<div class="b-news__title"> Авиакомпания Red Wings запускает рейсы в турецкую Анталью со свободной продажей билетов</div>
+		<span class="b-news__date">29&nbsp;мар. 2022&nbsp;г.			<svg class="ic stroke-primary" width="18" height="20">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+			</svg>
+		</span>
+	</a>
+	<!-- end .b-news-->
+</div>
+<div class="col-auto">
+	<a class="b-news" href="/news/2022/aviakompaniya-uzbekistan-airways-vozobnovila-pryamye-reysy-iz-ufy-v-tashkent/">
+		<div class="b-news__title">Авиакомпания Uzbekistan Airways возобновила прямые рейсы из Уфы в Ташкент</div>
+		<span class="b-news__date">28&nbsp;мар. 2022&nbsp;г.			<svg class="ic stroke-primary" width="18" height="20">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#arr-right"></use>
+			</svg>
+		</span>
+	</a>
+	<!-- end .b-news-->
+</div>
+      </div>
+    </div>
+  </section>
+      
+      
+  <div class="section">
+    <div class="row no-gutters">
+      <div class="col-lg-6">
+        <div id="comp_00b9aeb5287620fcd2dbfaceb7db8f25">
+  <div class="b-card-bg-slider js-slider" data-slick="{&quot;arrows&quot;: false}">
+    	
+	  	  <a class="b-card-bg" href="/schedule">
+	  	  
+        <img class="b-card-bg__img img-scale" src="/upload/resize_cache/iblock/ad6/960_1040_2/ad6ce8ff5db0087e9b42b3fba0972630.png">
+        <div class="b-card-bg__inner">
+          <div class="b-card-bg__title"><span class="text-primary"> К берегам Балтийского моря</span>
+
+</div>
+          <div class="b-card-bg__footer">
+            <div class="b-card-bg__info">Уфа-Калининград, 2 рейса в неделю </div>
+						<span class="b-card-bg__link">Подробнее</span>
+			          </div>
+        </div>
+      
+	  	  </a>
+	  	  
+      </div>
+</div>      </div>
+      <div class="col-lg-6">
+        <div id="comp_2713846bc6b7c03b269ca3a00502ad6c">
+  <div class="b-card-bg-slider js-slider" data-slick="{&quot;arrows&quot;: false}">
+    	
+	  	  <a class="b-card-bg" href="/schedule/">
+	  	  
+        <img class="b-card-bg__img img-scale" src="/upload/resize_cache/iblock/527/960_1040_2/527f0ed3c6e8220bca8a5308f6a8c7c5.png">
+        <div class="b-card-bg__inner">
+          <div class="b-card-bg__title"><span class="text-primary"> К целебным источникам Кавказа</span></div>
+          <div class="b-card-bg__footer">
+            <div class="b-card-bg__info"> Уфа-Минеральные воды, 5 рейсов в неделю </div>
+						<span class="b-card-bg__link">Подробнее</span>
+			          </div>
+        </div>
+      
+	  	  </a>
+	  	  
+      </div>
+</div>      </div>
+    </div>
+  </div>
+  <!-- .spinner-box-->
+  <!--   .circle-border-->
+  <!--     .circle-core-->
+</main>
+
+
+
+  
+<footer class="footer">
+  <div class="container">
+    <div class="footer__main">
+      <div class="footer__links">
+        
+        <a class="footer__link" href="tel:+73472295500">+7 (347) 229-55-00</a>
+<a class="btn btn-secondary btn-sm d-md-none d-block" href="/feedback/">Обратная связь</a>        
+        <ul class="footer-soc list-unstyled">
+	<li class="footer-soc__item">
+		<a class="footer-soc__link" href="https://vk.com/airport_ufa.official" target="_blank">
+			<svg class="ic" width="16" height="9">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#soc-vk"></use>
+			</svg>
+		</a>
+	</li>
+	<!--li class="footer-soc__item">
+		<a class="footer-soc__link" href="https://www.facebook.com/airportufa.official" target="_blank">
+			<svg class="ic" width="9" height="16">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#soc-fb"></use>
+			</svg>
+		</a>
+	</li>
+	<li class="footer-soc__item">
+		<a class="footer-soc__link" href="https://twitter.com/Airport_Ufa" target="_blank">
+			<svg class="ic" width="16" height="14">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#soc-tw"></use>
+			</svg>
+		</a>
+	</li-->
+	<!-- <li class="footer-soc__item">
+		<a class="footer-soc__link" href="https://www.instagram.com/airportufa/" target="_blank">
+			<svg class="ic" width="16" height="16">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#soc-inst"></use>
+			</svg>
+		</a>
+	</li> -->
+	<li class="footer-soc__item">
+		<a class="footer-soc__link" href="https://www.youtube.com/channel/UCBZKnX9Om7OuLoLQuazQItw" target="_blank">
+			<svg class="ic" width="16" height="11">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#soc-yt"></use>
+			</svg>
+		</a>
+	</li>
+	<li class="footer-soc__item">
+		<a class="footer-soc__link" href="https://t.me/UFAairport" target="_blank">
+		<svg class="ic" fill="white" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 50" width="16px" height="16px"><path d="M46.137,6.552c-0.75-0.636-1.928-0.727-3.146-0.238l-0.002,0C41.708,6.828,6.728,21.832,5.304,22.445	c-0.259,0.09-2.521,0.934-2.288,2.814c0.208,1.695,2.026,2.397,2.248,2.478l8.893,3.045c0.59,1.964,2.765,9.21,3.246,10.758	c0.3,0.965,0.789,2.233,1.646,2.494c0.752,0.29,1.5,0.025,1.984-0.355l5.437-5.043l8.777,6.845l0.209,0.125	c0.596,0.264,1.167,0.396,1.712,0.396c0.421,0,0.825-0.079,1.211-0.237c1.315-0.54,1.841-1.793,1.896-1.935l6.556-34.077	C47.231,7.933,46.675,7.007,46.137,6.552z M22,32l-3,8l-3-10l23-17L22,32z"/></svg>
+		</a>
+	</li>
+	<!--<li class="footer-soc__item">
+		<a class="footer-soc__link" href="#" target="_blank">
+			<svg class="ic" width="10" height="16">
+			<use xlink:href="/local/templates/main2019/assets/media/svg-symbols.svg#soc-od"></use>
+			</svg>
+		</a>
+	</li>-->
+</ul>        
+      </div>
+      <form class="footer-search" method="get" action="/search/">
+        <input class="footer-search__input js-footer-search" type="text" name="q" placeholder="Поиск по сайту">
+        <div class="footer-search__btns">
+          <button class="footer-search__btn btn btn-primary">Найти</button>
+          <button class="footer-search__close js-footer-search__close btn btn-secondary" type="reset">Закрыть поиск</button>
+        </div>
+      </form>
+    </div>
+    <div class="copyright">
+      <div class="row justify-content-between">
+        <div class="col-lg">
+	<a class="copyright__callback copyright__link d-none d-md-inline-block" href="/feedback/">Обратная связь</a>
+	<a class="copyright__callback copyright__link d-none d-md-inline-block" href="/about/">Об аэропорте</a>
+	<a class="copyright__callback copyright__link d-none d-md-inline-block" href="/partners/">Партнерам</a>
+	<span>© 2020 Международный аэропорт «Уфа»</span>
+</div>
+<div class="col-lg-auto">
+	<span>
+		Разработка сайта —
+		<a class="copyright__link" href="https://wptt.ru/" target="_blank">
+			<img class="copyright__develop img-fluid" src="/local/templates/main2019/assets/media/general/logo-develop.png" alt="Вебпространство">
+		</a>
+	</span>
+</div>        
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- .footer-->
+  
+  
+  
+</div>
+
+
+        <div class="ui-modal modal fade" id="modalWarning" tabindex="-1" role="dialog" aria-labelledby="modalWarningLabel" aria-hidden="true" data-backdrop="static" data-type="sanyaaa">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="b-modal-warning modal-content">
+                <div class="modal-header">
+                    <div class="modal-title" id="modalWarningLabel">Уважаемые пассажиры!</div>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <p>
+	 В соответствии с сообщением <a href="https://favt.gov.ru/novosti-novosti/?id=9067/">Росавиации </a>, режим временного ограничения полетов в российские аэропорты юга и центральной части России продлен до 13 апреля 2022 года.
+</p>
+<p>
+	 Также возможны переносы дат и времени вылета международных рейсов.
+</p>
+<p>
+	 Об изменениях в расписании полетов просим уточнять на официальных сайтах и в справочных службах <a href="https://airportufa.ru/airlines/">авиакомпаний </a> и <a href="https://airportufa.ru/scoreboard/">аэропорта </a>.
+</p>
+<p>
+ <a href="https://airportufa.ru/news/2022/vazhnaya-informatsiya-dlya-passazhirov-ob-ogranichenii-poletov/">Подробнее </a>
+</p>
+<div>
+ <b>Внимание!</b> С 12 марта в залах повышенной комфортности международного аэропорта «Уфа»&nbsp;&nbsp;<b>приостановлено</b> обслуживание участников программ лояльности <b>Priority Pass и Lounge Key.</b> <br>
+</div>
+<div>
+	 Просим вас позаботиться о возможности наличной оплаты услуг.
+</div>
+ <br>                </div>
+                <br />
+                <button class="btn btn-no-bg mt-4 mt-sm-0" type="button" data-dismiss="modal">Закрыть сообщение</button>
+                <br />
+            </div>
+        </div>
+    </div>
+
+<div class="ui-modal modal modal_full fade" id="modalSwipe" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="b-modal-swipe modal-content">
+      <div class="b-modal-swipe__inner">
+        <div class="b-modal-swipe__info">
+          <div class="b-modal-swipe__item">Прилет</div>
+          <div class="b-modal-swipe__item">Трансфер и транзит</div>
+        </div>
+        <img class="b-modal-swipe__img img-fluid" src="/local/templates/main2019/assets/media/general/swipe.png" alt="Листайте вправо">
+      </div>
+      <button class="btn btn-primary" type="button" data-dismiss="modal">Ок, я понял</button>
+    </div>
+  </div>
+</div>
+</body>
+</html>

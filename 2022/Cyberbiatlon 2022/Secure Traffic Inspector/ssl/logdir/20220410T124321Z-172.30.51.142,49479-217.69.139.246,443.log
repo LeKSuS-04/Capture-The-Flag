@@ -1,0 +1,68 @@
+GET /?local_user_id=100817559989964871&reco_session_id=16bdc0a6252d049&stream_id=lenta_main_mail_ru_v1&query_type=check_reco_session_id&_rand=u5g60b71aa HTTP/1.1
+Host: recostream.go.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:43:21 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 16
+Connection: keep-alive
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Credentials: true
+Vary: Accept-Encoding, Origin
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+Expires: Sun, 10 Apr 2022 12:43:21 GMT
+Cache-Control: max-age=0
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block; report=https://cspreport.mail.ru/xxssprotection
+Cache-Control: no-cache, no-store, must-revalidate
+Timing-Allow-Origin: https://mail.ru
+
+{"result":true}
+GET /?local_user_id=100817559989964871&reco_session_id=16bdc0a6252d049&stream_id=lenta_main_mail_ru_v1&query_type=check_reco_session_id&_rand=1velqj05pov HTTP/1.1
+Host: recostream.go.mail.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 10 Apr 2022 12:43:35 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 16
+Connection: keep-alive
+Access-Control-Allow-Origin: https://mail.ru
+Access-Control-Allow-Credentials: true
+Vary: Accept-Encoding, Origin
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+Expires: Sun, 10 Apr 2022 12:43:35 GMT
+Cache-Control: max-age=0
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block; report=https://cspreport.mail.ru/xxssprotection
+Cache-Control: no-cache, no-store, must-revalidate
+Timing-Allow-Origin: https://mail.ru
+
+{"result":true}

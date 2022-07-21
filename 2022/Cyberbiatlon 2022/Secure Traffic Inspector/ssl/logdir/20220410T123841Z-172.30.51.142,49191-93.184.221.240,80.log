@@ -1,0 +1,198 @@
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 341
+Cache-Control: public,max-age=900
+Date: Sun, 10 Apr 2022 12:38:41 GMT
+Etag: "80252ce6b229d81:0"
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: ECAcc (ska/F6EA)
+X-Cache: HIT
+X-CCC: SE
+X-CID: 11
+X-Powered-By: ASP.NET
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 414
+Cache-Control: public,max-age=900
+Date: Sun, 10 Apr 2022 12:38:42 GMT
+Etag: "80252ce6b229d81:0"
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: ECAcc (ska/F7B0)
+X-Cache: HIT
+X-CCC: SE
+X-CID: 11
+X-Powered-By: ASP.NET
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 62
+Cache-Control: public,max-age=900
+Date: Sun, 10 Apr 2022 12:38:45 GMT
+Etag: "80252ce6b229d81:0"
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: ECAcc (ska/F748)
+X-Cache: HIT
+X-CCC: SE
+X-CID: 11
+X-Powered-By: ASP.NET
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 337
+Cache-Control: public,max-age=900
+Date: Sun, 10 Apr 2022 12:38:46 GMT
+Etag: "80252ce6b229d81:0"
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: ECAcc (ska/F69D)
+X-Cache: HIT
+X-CCC: SE
+X-CID: 11
+X-Powered-By: ASP.NET
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 423
+Cache-Control: public,max-age=900
+Date: Sun, 10 Apr 2022 12:38:51 GMT
+Etag: "80252ce6b229d81:0"
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: ECAcc (ska/F7B0)
+X-Cache: HIT
+X-CCC: SE
+X-CID: 11
+X-Powered-By: ASP.NET
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 356
+Cache-Control: public,max-age=900
+Date: Sun, 10 Apr 2022 12:39:05 GMT
+Etag: "80252ce6b229d81:0"
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: ECAcc (ska/F69D)
+X-Cache: HIT
+X-CCC: SE
+X-CID: 11
+X-Powered-By: ASP.NET
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 376
+Cache-Control: public,max-age=900
+Date: Sun, 10 Apr 2022 12:39:16 GMT
+Etag: "80252ce6b229d81:0"
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: ECAcc (ska/F6EA)
+X-Cache: HIT
+X-CCC: SE
+X-CID: 11
+X-Powered-By: ASP.NET
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 388
+Cache-Control: public,max-age=900
+Date: Sun, 10 Apr 2022 12:39:28 GMT
+Etag: "80252ce6b229d81:0"
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: ECAcc (ska/F6EA)
+X-Cache: HIT
+X-CCC: SE
+X-CID: 11
+X-Powered-By: ASP.NET
+
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: www.download.windowsupdate.com
+
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 394
+Cache-Control: public,max-age=900
+Date: Sun, 10 Apr 2022 12:39:43 GMT
+Etag: "80252ce6b229d81:0"
+Last-Modified: Thu, 24 Feb 2022 19:15:35 GMT
+Server: ECAcc (ska/F69D)
+X-Cache: HIT
+X-CCC: SE
+X-CID: 11
+X-Powered-By: ASP.NET
+

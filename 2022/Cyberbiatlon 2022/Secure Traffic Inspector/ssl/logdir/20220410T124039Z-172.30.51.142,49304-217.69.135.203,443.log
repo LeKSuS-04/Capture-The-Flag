@@ -1,0 +1,22 @@
+POST /showpxt?pxn=main_show&_=1650321567136&experimentId=undefined&sitezone=15&segment=undefined&page_id=16496844163191649733703256&user_hash=&email=&mpop=2&count_of_email=0&platform=desktop&version=resplash&project=resplash&test_id=&cnt=&view_port_width=&view_port_height= HTTP/1.1
+Host: fmdata.imgsmail.ru
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Opera";v="85"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://mail.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Sun, 10 Apr 2022 12:40:39 GMT
+Connection: keep-alive
+

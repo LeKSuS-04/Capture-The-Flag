@@ -1,0 +1,18 @@
+GET /api/v1/thumbnails/ctf.mirea.tech HTTP/1.1
+Host: speeddials.opera.com
+Connection: keep-alive
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+Accept-Encoding: gzip, deflate, br
+
+HTTP/1.1 404 Not Found
+Server: nginx
+Date: Sun, 10 Apr 2022 12:51:53 GMT
+Content-Type: text/html
+Content-Length: 19
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+404 page not found
